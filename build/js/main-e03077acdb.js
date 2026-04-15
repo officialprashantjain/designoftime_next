@@ -73895,7 +73895,7 @@
           ) {
             let t = this._menuItems.length;
             for (let e = 0; e < t; e++) {
-              let t = new Po("https://designoftime-projects.s3.ap-south-1.amazonaws.com/designoftime2026/assets/spritesheets/menu_blob_init.json", 0.25),
+              let t = new Po("/assets/spritesheets/menu_blob_init.json", 0.25),
                 i = this._menuItems[e].querySelector(".dotContainer");
               (i.appendChild(t.container),
                 Co.set(i, {
@@ -74586,7 +74586,7 @@
               ".animationContainer",
             )),
             (this._eyeAnimation = new Po(
-              "https://designoftime-projects.s3.ap-south-1.amazonaws.com/designoftime2026/assets/spritesheets/behind_eye.json",
+              "/assets/spritesheets/behind_eye.json",
               0.25,
             )),
             Co.set(this._animationContainer, {
@@ -79557,7 +79557,7 @@
         ];
         _circle;
         _circleContainer = new J.mc();
-        _spriteSheet = yr.cache.get("https://designoftime-projects.s3.ap-south-1.amazonaws.com/designoftime2026/assets/spritesheets/face_all.json");
+        _spriteSheet = yr.cache.get("/assets/spritesheets/face_all.json");
         _faceLabels = [
           "AdultToBaby",
           "BabyToTeen",
@@ -82197,7 +82197,7 @@
           _currentId = 0;
           _currentText = "none";
           _timer;
-          _dot = new Po("https://designoftime-projects.s3.ap-south-1.amazonaws.com/designoftime2026/assets/spritesheets/scroll-dot.json", 1.5);
+          _dot = new Po("/assets/spritesheets/scroll-dot.json", 1.5);
           _calendar;
           constructor(t, e) {
             (super(t, e),
@@ -82970,7 +82970,7 @@
               } else {
                 this._stories[t]._id = t;
                 let e = new Po(
-                    "https://designoftime-projects.s3.ap-south-1.amazonaws.com/designoftime2026/assets/spritesheets/menu_blob_init_black.json",
+                    "/assets/spritesheets/menu_blob_init_black.json",
                     0.25,
                   ),
                   i = this._stories[t].querySelector(".dotContainer");
@@ -83233,13 +83233,13 @@
         };
         loadSpriteSheets = async () => {
           (await yr.load([
-            "https://designoftime-projects.s3.ap-south-1.amazonaws.com/designoftime2026/assets/spritesheets/face_all.json",
-            "https://designoftime-projects.s3.ap-south-1.amazonaws.com/designoftime2026/assets/spritesheets/dot2.json",
-            "https://designoftime-projects.s3.ap-south-1.amazonaws.com/designoftime2026/assets/spritesheets/play-pause.json",
-            "https://designoftime-projects.s3.ap-south-1.amazonaws.com/designoftime2026/assets/spritesheets/scroll-dot.json",
-            "https://designoftime-projects.s3.ap-south-1.amazonaws.com/designoftime2026/assets/spritesheets/behind_eye.json",
-            "https://designoftime-projects.s3.ap-south-1.amazonaws.com/designoftime2026/assets/spritesheets/menu_blob_init.json",
-            "https://designoftime-projects.s3.ap-south-1.amazonaws.com/designoftime2026/assets/spritesheets/menu_blob_init_black.json",
+            "/assets/spritesheets/face_all.json",
+            "/assets/spritesheets/dot2.json",
+            "/assets/spritesheets/play-pause.json",
+            "/assets/spritesheets/scroll-dot.json",
+            "/assets/spritesheets/behind_eye.json",
+            "/assets/spritesheets/menu_blob_init.json",
+            "/assets/spritesheets/menu_blob_init_black.json",
             "https://designoftime-projects.s3.ap-south-1.amazonaws.com/designoftime2026/assets/images/circle.png",
             "https://designoftime-projects.s3.ap-south-1.amazonaws.com/designoftime2026/assets/images/trail.png",
           ]),
