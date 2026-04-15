@@ -73895,7 +73895,7 @@
           ) {
             let t = this._menuItems.length;
             for (let e = 0; e < t; e++) {
-              let t = new Po("https://nsd-uploads-prod.s3.eu-north-1.amazonaws.com/designoftime2026/assets/spritesheets/menu_blob_init.json", 0.25),
+              let t = new Po("https://designoftime-projects.s3.ap-south-1.amazonaws.com/designoftime2026/assets/spritesheets/menu_blob_init.json", 0.25),
                 i = this._menuItems[e].querySelector(".dotContainer");
               (i.appendChild(t.container),
                 Co.set(i, {
@@ -74142,7 +74142,7 @@
                   fill: "black" === this._currentColor ? "#000000" : "#FFFFFF",
                 })
               : ((this._logoImg = this._logoImg || document.body.querySelector(".logo img")),
-                this._logoImg && (this._logoImg.src = "black" === this._currentColor ? "https://nsd-uploads-prod.s3.eu-north-1.amazonaws.com/designoftime2026/assets/images/Logo_mono.svg" : "https://nsd-uploads-prod.s3.eu-north-1.amazonaws.com/designoftime2026/assets/images/Logo_mono_white.svg")),
+                this._logoImg && (this._logoImg.src = "black" === this._currentColor ? "https://designoftime-projects.s3.ap-south-1.amazonaws.com/designoftime2026/assets/images/Logo_mono.svg" : "https://designoftime-projects.s3.ap-south-1.amazonaws.com/designoftime2026/assets/images/Logo_mono_white.svg")),
             "black" === this._currentColor
               ? this._mobileBurger.classList.remove("light")
               : this._mobileBurger.classList.add("light"));
@@ -74586,7 +74586,7 @@
               ".animationContainer",
             )),
             (this._eyeAnimation = new Po(
-              "https://nsd-uploads-prod.s3.eu-north-1.amazonaws.com/designoftime2026/assets/spritesheets/behind_eye.json",
+              "https://designoftime-projects.s3.ap-south-1.amazonaws.com/designoftime2026/assets/spritesheets/behind_eye.json",
               0.25,
             )),
             Co.set(this._animationContainer, {
@@ -79557,7 +79557,7 @@
         ];
         _circle;
         _circleContainer = new J.mc();
-        _spriteSheet = yr.cache.get("https://nsd-uploads-prod.s3.eu-north-1.amazonaws.com/designoftime2026/assets/spritesheets/face_all.json");
+        _spriteSheet = yr.cache.get("https://designoftime-projects.s3.ap-south-1.amazonaws.com/designoftime2026/assets/spritesheets/face_all.json");
         _faceLabels = [
           "AdultToBaby",
           "BabyToTeen",
@@ -79573,7 +79573,7 @@
             (this._scope = i),
             (this._edgeDetector = new Ba(this._imageBounds, n)),
             this._scope.activate(),
-            (this._circle = Ir.k.from("https://nsd-uploads-prod.s3.eu-north-1.amazonaws.com/designoftime2026/assets/images/circle.png")),
+            (this._circle = Ir.k.from("https://designoftime-projects.s3.ap-south-1.amazonaws.com/designoftime2026/assets/images/circle.png")),
             (this._circle.x = -20),
             (this._circle.y = -20),
             (this._circle.width = this._circle.height = 40),
@@ -80333,7 +80333,7 @@
         _text;
         _anchors;
         _anchorContainer;
-        _dot = new Po("https://nsd-uploads-prod.s3.eu-north-1.amazonaws.com/designoftime2026/assets/spritesheets/dot2.json", 0.3);
+        _dot = new Po("https://designoftime-projects.s3.ap-south-1.amazonaws.com/designoftime2026/assets/spritesheets/dot2.json", 0.3);
         _prevId = 0;
         _open = !1;
         constructor(t, e) {
@@ -82197,7 +82197,7 @@
           _currentId = 0;
           _currentText = "none";
           _timer;
-          _dot = new Po("https://nsd-uploads-prod.s3.eu-north-1.amazonaws.com/designoftime2026/assets/spritesheets/scroll-dot.json", 1.5);
+          _dot = new Po("https://designoftime-projects.s3.ap-south-1.amazonaws.com/designoftime2026/assets/spritesheets/scroll-dot.json", 1.5);
           _calendar;
           constructor(t, e) {
             (super(t, e),
@@ -82317,7 +82317,7 @@
             (Co.set(this._placeholderImage, { opacity: 0 }),
               this._placeholderImage.addEventListener("load", this.showImage),
               (this._placeholderImage.src =
-                "https://nsd-uploads-prod.s3.eu-north-1.amazonaws.com/designoftime2026/assets/images/landing/hm-hero-" + this._breakpoint + ".png"));
+                "https://designoftime-projects.s3.ap-south-1.amazonaws.com/designoftime2026/assets/images/landing/hm-hero-" + this._breakpoint + ".png"));
           };
           showImage = () => {
             (this._placeholderImage.removeEventListener("load", this.showImage),
@@ -82329,7 +82329,7 @@
               ((this._videoPlaying = !1), this._video.pause());
             let t = n.BACKGROUND_RENDERER.isRetina() ? "" : "-non-retina";
             this._video.src =
-              "https://nsd-uploads-prod.s3.eu-north-1.amazonaws.com/designoftime2026/assets/video/animations/hm-hero-" +
+              "https://designoftime-projects.s3.ap-south-1.amazonaws.com/designoftime2026/assets/video/animations/hm-hero-" +
               this._breakpoint +
               t +
               ".mp4";
@@ -82925,7 +82925,7 @@
             t.currentTarget._id !== this._currentId &&
               ((this._currentId = t.currentTarget._id),
               (this._image.src =
-                "https://nsd-uploads-prod.s3.eu-north-1.amazonaws.com/designoftime2026/assets/images/contact/" + this._gifs[t.currentTarget._id]));
+                "https://designoftime-projects.s3.ap-south-1.amazonaws.com/designoftime2026/assets/images/contact/" + this._gifs[t.currentTarget._id]));
             let e = t.currentTarget.querySelector(".view");
             (Co.set(e, { opacity: 0, y: -6, overwrite: "true" }),
               Co.to(e, 0.2, { y: 0, opacity: 0.5, overwrite: "true" }));
@@ -82940,7 +82940,7 @@
               ((this._firstLoad = !1),
               (this._image = this.element.querySelector(".animation")),
               this._image.addEventListener("load", this.imageLoaded),
-              (this._image.src = "https://nsd-uploads-prod.s3.eu-north-1.amazonaws.com/designoftime2026/assets/images/contact/" + this._gifs[0]));
+              (this._image.src = "https://designoftime-projects.s3.ap-south-1.amazonaws.com/designoftime2026/assets/images/contact/" + this._gifs[0]));
           };
           imageLoaded = () => {
             Co.to(this._image, 0.3, { opacity: 1 });
@@ -82970,7 +82970,7 @@
               } else {
                 this._stories[t]._id = t;
                 let e = new Po(
-                    "https://nsd-uploads-prod.s3.eu-north-1.amazonaws.com/designoftime2026/assets/spritesheets/menu_blob_init_black.json",
+                    "https://designoftime-projects.s3.ap-south-1.amazonaws.com/designoftime2026/assets/spritesheets/menu_blob_init_black.json",
                     0.25,
                   ),
                   i = this._stories[t].querySelector(".dotContainer");
@@ -83233,15 +83233,15 @@
         };
         loadSpriteSheets = async () => {
           (await yr.load([
-            "https://nsd-uploads-prod.s3.eu-north-1.amazonaws.com/designoftime2026/assets/spritesheets/face_all.json",
-            "https://nsd-uploads-prod.s3.eu-north-1.amazonaws.com/designoftime2026/assets/spritesheets/dot2.json",
-            "https://nsd-uploads-prod.s3.eu-north-1.amazonaws.com/designoftime2026/assets/spritesheets/play-pause.json",
-            "https://nsd-uploads-prod.s3.eu-north-1.amazonaws.com/designoftime2026/assets/spritesheets/scroll-dot.json",
-            "https://nsd-uploads-prod.s3.eu-north-1.amazonaws.com/designoftime2026/assets/spritesheets/behind_eye.json",
-            "https://nsd-uploads-prod.s3.eu-north-1.amazonaws.com/designoftime2026/assets/spritesheets/menu_blob_init.json",
-            "https://nsd-uploads-prod.s3.eu-north-1.amazonaws.com/designoftime2026/assets/spritesheets/menu_blob_init_black.json",
-            "https://nsd-uploads-prod.s3.eu-north-1.amazonaws.com/designoftime2026/assets/images/circle.png",
-            "https://nsd-uploads-prod.s3.eu-north-1.amazonaws.com/designoftime2026/assets/images/trail.png",
+            "https://designoftime-projects.s3.ap-south-1.amazonaws.com/designoftime2026/assets/spritesheets/face_all.json",
+            "https://designoftime-projects.s3.ap-south-1.amazonaws.com/designoftime2026/assets/spritesheets/dot2.json",
+            "https://designoftime-projects.s3.ap-south-1.amazonaws.com/designoftime2026/assets/spritesheets/play-pause.json",
+            "https://designoftime-projects.s3.ap-south-1.amazonaws.com/designoftime2026/assets/spritesheets/scroll-dot.json",
+            "https://designoftime-projects.s3.ap-south-1.amazonaws.com/designoftime2026/assets/spritesheets/behind_eye.json",
+            "https://designoftime-projects.s3.ap-south-1.amazonaws.com/designoftime2026/assets/spritesheets/menu_blob_init.json",
+            "https://designoftime-projects.s3.ap-south-1.amazonaws.com/designoftime2026/assets/spritesheets/menu_blob_init_black.json",
+            "https://designoftime-projects.s3.ap-south-1.amazonaws.com/designoftime2026/assets/images/circle.png",
+            "https://designoftime-projects.s3.ap-south-1.amazonaws.com/designoftime2026/assets/images/trail.png",
           ]),
             this.assetsLoaded());
         };
