@@ -80461,56 +80461,113 @@
         _canvas;
         _app;
         stage;
-        _enabled = !0;
+        _enabled = true;
         _renderCount = 0;
+        _pendingAdds = [];
+        _pendingRemoves = [];
+        _isReady = false;
+      
         constructor(t) {
-          ((this._canvas = t.querySelector("canvas")),
-            (this._app = new nt()),
-            this.init(t));
+          this._canvas = t.querySelector("canvas");
+          this._app = new nt();
+          this.init(t);
         }
+      
         init = async (t) => {
-          (await this._app.init({
+          await this._app.init({
             canvas: this._canvas,
             backgroundAlpha: 0,
-            autoDensity: !0,
+            autoDensity: true,
             resolution: this.isRetina() ? 2 : 1,
-            sharedTicker: !0,
-            autoStart: !1,
-            antialias: !1,
+            sharedTicker: true,
+            autoStart: false,
+            antialias: false,
             resizeTo: t.querySelector(".innerContainer"),
-          }),
-            (this.stage = this._app.stage));
+          });
+      
+          this.stage = this._app.stage;
+          this._isReady = true;
+      
+          if (this._pendingAdds.length) {
+            for (const el of this._pendingAdds) {
+              if (el) {
+                this.stage.addChild(el);
+                this._renderCount++;
+              }
+            }
+            this._pendingAdds.length = 0;
+          }
+      
+          if (this._pendingRemoves.length) {
+            for (const el of this._pendingRemoves) {
+              if (el && el.parent === this.stage) {
+                this.stage.removeChild(el);
+                this._renderCount = Math.max(0, this._renderCount - 1);
+              }
+            }
+            this._pendingRemoves.length = 0;
+          }
         };
+      
         isRetina = () =>
           !!(
             window.devicePixelRatio > 1 ||
             (window.matchMedia &&
               window.matchMedia(
-                "(-webkit-min-device-pixel-ratio: 1.5),            (min--moz-device-pixel-ratio: 1.5),            (-o-min-device-pixel-ratio: 3/2),            (min-resolution: 1.5dppx)",
+                "(-webkit-min-device-pixel-ratio: 1.5), (min--moz-device-pixel-ratio: 1.5), (-o-min-device-pixel-ratio: 3/2), (min-resolution: 1.5dppx)"
               ).matches)
           );
+      
         disable = () => {
-          ((this._enabled = !1), this.stop());
+          this._enabled = false;
+          this.stop();
         };
+      
         enable = () => {
-          ((this._enabled = !0), this.start());
+          this._enabled = true;
+          this.start();
         };
+      
         start = () => {
           this._enabled && Br.R.shared.start();
         };
+      
         stop = () => {
-          this._enabled || Br.R.shared.stop();
+          !this._enabled && Br.R.shared.stop();
         };
+      
         resize = () => {};
+      
         addElement = (t) => {
-          (this.stage.addChild(t), this._renderCount++);
+          if (!t) return;
+      
+          if (!this._isReady || !this.stage) {
+            this._pendingAdds.push(t);
+            return;
+          }
+      
+          this.stage.addChild(t);
+          this._renderCount++;
         };
+      
         removeElement = (t) => {
-          (this.stage.removeChild(t), this._renderCount--);
+          if (!t) return;
+      
+          if (!this._isReady || !this.stage) {
+            this._pendingRemoves.push(t);
+            return;
+          }
+      
+          if (t.parent === this.stage) {
+            this.stage.removeChild(t);
+            this._renderCount = Math.max(0, this._renderCount - 1);
+          }
         };
+      
         get app() {
           return this._app;
         }
+      
         get canvas() {
           return this._canvas;
         }
@@ -82672,10 +82729,17 @@
           };
           setupColumns = () => {
             let t = this._columns.length;
-            (this._managedColumnContainer.addChild(this._columnContainer),
-              n.BACKGROUND_RENDERER.addElement(this._managedColumnContainer));
-            for (let e = 0; e < t; e++)
-              this._columnContainer.addChild(this._columns[e]);
+          
+            if (!this._managedColumnContainer || !this._columnContainer) return;
+          
+            this._managedColumnContainer.addChild(this._columnContainer);
+            n.BACKGROUND_RENDERER.addElement(this._managedColumnContainer);
+          
+            for (let e = 0; e < t; e++) {
+              if (this._columns[e]) {
+                this._columnContainer.addChild(this._columns[e]);
+              }
+            }
           };
           onMouseMove = (t) => {
             ((this._mousePosition.x = t.clientX),
