@@ -74142,7 +74142,7 @@
                   fill: "black" === this._currentColor ? "#000000" : "#FFFFFF",
                 })
               : ((this._logoImg = this._logoImg || document.body.querySelector(".logo img")),
-                this._logoImg && (this._logoImg.src = "black" === this._currentColor ? "https://dt7szzagvoh9a.cloudfront.net/assets/images/Logo_mono.svg" : "https://dt7szzagvoh9a.cloudfront.net/assets/images/Logo_mono_white.svg")),
+                this._logoImg && (this._logoImg.src = "black" === this._currentColor ? "https://d1hokgyh8522ma.cloudfront.net/assets/images/Logo_mono.svg" : "https://d1hokgyh8522ma.cloudfront.net/assets/images/Logo_mono_white.svg")),
             "black" === this._currentColor
               ? this._mobileBurger.classList.remove("light")
               : this._mobileBurger.classList.add("light"));
@@ -79573,7 +79573,7 @@
             (this._scope = i),
             (this._edgeDetector = new Ba(this._imageBounds, n)),
             this._scope.activate(),
-            (this._circle = Ir.k.from("https://dt7szzagvoh9a.cloudfront.net/assets/images/circle.png")),
+            (this._circle = Ir.k.from("https://d1hokgyh8522ma.cloudfront.net/assets/images/circle.png")),
             (this._circle.x = -20),
             (this._circle.y = -20),
             (this._circle.width = this._circle.height = 40),
@@ -80333,7 +80333,7 @@
         _text;
         _anchors;
         _anchorContainer;
-        _dot = new Po("https://dt7szzagvoh9a.cloudfront.net/assets/spritesheets/dot2.json", 0.3);
+        _dot = new Po("https://d1hokgyh8522ma.cloudfront.net/assets/spritesheets/dot2.json", 0.3);
         _prevId = 0;
         _open = !1;
         constructor(t, e) {
@@ -82374,7 +82374,7 @@
             (Co.set(this._placeholderImage, { opacity: 0 }),
               this._placeholderImage.addEventListener("load", this.showImage),
               (this._placeholderImage.src =
-                "https://dt7szzagvoh9a.cloudfront.net/assets/images/landing/hm-hero-" + this._breakpoint + ".png"));
+                "https://d1hokgyh8522ma.cloudfront.net/assets/images/landing/hm-hero-" + this._breakpoint + ".png"));
           };
           showImage = () => {
             (this._placeholderImage.removeEventListener("load", this.showImage),
@@ -82386,7 +82386,7 @@
               ((this._videoPlaying = !1), this._video.pause());
             let t = n.BACKGROUND_RENDERER.isRetina() ? "" : "-non-retina";
             this._video.src =
-              "https://dt7szzagvoh9a.cloudfront.net/assets/video/animations/hm-hero-" +
+              "https://d1hokgyh8522ma.cloudfront.net/assets/video/animations/hm-hero-" +
               this._breakpoint +
               t +
               ".mp4";
@@ -82989,7 +82989,7 @@
             t.currentTarget._id !== this._currentId &&
               ((this._currentId = t.currentTarget._id),
               (this._image.src =
-                "https://dt7szzagvoh9a.cloudfront.net/assets/images/contact/" + this._gifs[t.currentTarget._id]));
+                "https://d1hokgyh8522ma.cloudfront.net/assets/images/contact/" + this._gifs[t.currentTarget._id]));
             let e = t.currentTarget.querySelector(".view");
             (Co.set(e, { opacity: 0, y: -6, overwrite: "true" }),
               Co.to(e, 0.2, { y: 0, opacity: 0.5, overwrite: "true" }));
@@ -83004,7 +83004,7 @@
               ((this._firstLoad = !1),
               (this._image = this.element.querySelector(".animation")),
               this._image.addEventListener("load", this.imageLoaded),
-              (this._image.src = "https://dt7szzagvoh9a.cloudfront.net/assets/images/contact/" + this._gifs[0]));
+              (this._image.src = "https://d1hokgyh8522ma.cloudfront.net/assets/images/contact/" + this._gifs[0]));
           };
           imageLoaded = () => {
             Co.to(this._image, 0.3, { opacity: 1 });
@@ -83304,8 +83304,8 @@
             "/assets/spritesheets/behind_eye.json",
             "/assets/spritesheets/menu_blob_init.json",
             "/assets/spritesheets/menu_blob_init_black.json",
-            "https://dt7szzagvoh9a.cloudfront.net/assets/images/circle.png",
-            "https://dt7szzagvoh9a.cloudfront.net/assets/images/trail.png",
+            "https://d1hokgyh8522ma.cloudfront.net/assets/images/circle.png",
+            "https://d1hokgyh8522ma.cloudfront.net/assets/images/trail.png",
           ]),
             this.assetsLoaded());
         };
