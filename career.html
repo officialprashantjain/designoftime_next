@@ -1,0 +1,749 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Design of Time Company | Careers</title>
+    <meta
+        name="description"
+        content="Apply to join Design of Time Company. Explore open roles and submit your application."
+    />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="apple-touch-icon" sizes="180x180" href="#" />
+    <link class="favIconBig" rel="icon" type="image/png" sizes="32x32" href="#" />
+    <link class="favIconSmall" rel="icon" type="image/png" sizes="16x16" href="#" />
+    <link rel="manifest" href="/site.webmanifest" />
+    <link rel="preload" href="/build/css/bundle-2bdea8b598.css" as="style" />
+    <link rel="stylesheet" href="/build/css/bundle-2bdea8b598.css" />
+    <style>
+      body {
+        background: #fff;
+      }
+
+      #SiteWrapper {
+        position: relative;
+        overflow: visible;
+        opacity: 1 !important;
+        height: auto !important;
+        min-height: 100vh;
+      }
+
+      .logo, .staticLogo {
+        opacity: 1 !important;
+        visibility: visible !important;
+        pointer-events: auto !important;
+      }
+
+      html,
+      body {
+        min-height: 100%;
+      }
+
+      .careers-page {
+        padding-top: 170px;
+      }
+
+      .careers-hero {
+        padding-bottom: 100px;
+      }
+
+      .careers-eyebrow,
+      .careers-note,
+      .careers-meta,
+      .careers-process-number,
+      .careers-process-copy p,
+      .careers-filehint,
+      .careers-legal {
+        font-size: 12px;
+        line-height: 1.35;
+      }
+
+      .careers-eyebrow {
+        margin-bottom: 18px;
+        opacity: 0.55;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+      }
+
+      .careers-title {
+        max-width: 980px;
+        margin: 0 0 20px;
+        font-size: 62px;
+        line-height: 0.98;
+      }
+
+      .careers-copy {
+        max-width: 760px;
+      }
+
+      .careers-section {
+        padding: 85px 0;
+      }
+
+      .careers-section.border-top {
+        border-top: 1px solid rgba(0, 0, 0, 0.14);
+      }
+
+      .careers-grid-2 {
+        display: grid;
+        grid-template-columns: 29.3413173724% 64.6706586972%;
+        column-gap: 5.9880239524%;
+        align-items: start;
+      }
+
+      .careers-sticky {
+        position: sticky;
+        top: 120px;
+      }
+
+      .careers-roles {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 18px;
+      }
+
+      .careers-role {
+        border: 1px solid rgba(0, 0, 0, 0.14);
+        background: #faf8f4;
+        padding: 24px;
+        min-height: 230px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+      }
+
+      .careers-meta {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+        margin-bottom: 20px;
+      }
+
+      .careers-pill {
+        border: 1px solid rgba(0, 0, 0, 0.16);
+        border-radius: 999px;
+        padding: 8px 12px;
+        text-transform: uppercase;
+        letter-spacing: 0.06em;
+      }
+
+      .careers-role h3 {
+        font-size: 30px;
+        line-height: 1.05;
+        margin: 0 0 14px;
+      }
+
+      .careers-role p {
+        margin: 0 0 22px;
+        max-width: 90%;
+      }
+
+      .careers-link {
+        display: inline-block;
+        text-decoration: none;
+        position: relative;
+        padding-bottom: 4px;
+      }
+
+      .careers-link::after {
+        content: "";
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        height: 1px;
+        background: #000;
+      }
+
+      .careers-process {
+        display: grid;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        gap: 18px;
+      }
+
+      .careers-process-item {
+        border-top: 1px solid rgba(0, 0, 0, 0.16);
+        padding-top: 18px;
+      }
+
+      .careers-process-number {
+        margin-bottom: 14px;
+        opacity: 0.55;
+      }
+
+      .careers-form-section {
+        background: #f4f0eb;
+      }
+
+      .careers-form {
+        width: 100%;
+      }
+
+      .careers-form-row {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 18px;
+      }
+
+      .careers-field {
+        margin-bottom: 18px;
+      }
+
+      .careers-field label {
+        display: block;
+        margin-bottom: 8px;
+      }
+
+      .careers-field input,
+      .careers-field select,
+      .careers-field textarea {
+        width: 100%;
+        border: 1px solid rgba(0, 0, 0, 0.18);
+        background: transparent;
+        border-radius: 0;
+        padding: 16px 18px;
+        font-size: 13px;
+        line-height: 1.4;
+        color: #000;
+        outline: none;
+        font-family: nb_internationalproregular, Arial, sans-serif;
+        appearance: none;
+      }
+
+      .careers-field textarea {
+        min-height: 160px;
+        resize: vertical;
+      }
+
+      .careers-field input:focus,
+      .careers-field select:focus,
+      .careers-field textarea:focus {
+        border-color: #000;
+      }
+
+      .careers-checkbox {
+        display: flex;
+        align-items: flex-start;
+        gap: 10px;
+        margin: 24px 0 28px;
+      }
+
+      .careers-submit {
+        display: flex;
+        justify-content: space-between;
+        gap: 18px;
+        align-items: center;
+        flex-wrap: wrap;
+      }
+
+      .careers-button {
+        border: 1px solid #000;
+        background: #000;
+        color: #fff;
+        padding: 14px 28px;
+        text-transform: uppercase;
+        letter-spacing: 0.06em;
+        font-size: 12px;
+        font-family: nb_internationalproregular, Arial, sans-serif;
+        cursor: pointer;
+        transition: 0.2s ease;
+      }
+
+      .careers-button:hover {
+        background: transparent;
+        color: #000;
+      }
+
+      .careers-footer-cta {
+        padding-top: 90px;
+      }
+
+      .careers-footer-cta h2 {
+        font-size: 54px;
+        line-height: 0.98;
+        max-width: 820px;
+        margin: 0 0 22px;
+      }
+
+      .mobileBurger {
+        position: fixed;
+        top: 24px;
+        right: 4.8828125%;
+        z-index: 7;
+        width: 42px;
+        height: 42px;
+        display: none;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+      }
+
+      .mobileBurger .burger,
+      .mobileBurger .closeX {
+        position: relative;
+        width: 18px;
+        height: 12px;
+      }
+
+      .mobileBurger .burger span,
+      .mobileBurger .closeX span {
+        position: absolute;
+        left: 0;
+        width: 100%;
+        height: 2px;
+        background: #000;
+      }
+
+      .mobileBurger .burger span:nth-child(1) { top: 0; }
+      .mobileBurger .burger span:nth-child(2) { top: 5px; }
+      .mobileBurger .burger span:nth-child(3) { top: 10px; }
+
+      .mobileBurger .closeX {
+        display: none;
+      }
+
+      .mobileBurger .closeX span:nth-child(1) {
+        top: 5px;
+        transform: rotate(45deg);
+      }
+
+      .mobileBurger .closeX span:nth-child(2) {
+        top: 5px;
+        transform: rotate(-45deg);
+      }
+
+      @media (max-width: 1100px) {
+        .careers-title {
+          font-size: 48px;
+        }
+
+        .careers-grid-2 {
+          grid-template-columns: 1fr;
+          row-gap: 30px;
+        }
+
+        .careers-sticky {
+          position: static;
+        }
+      }
+
+      @media (max-width: 900px) {
+        .careers-page {
+          padding-top: 120px;
+        }
+
+        .mobileBurger {
+          display: flex;
+        }
+
+        nav.container.items .right {
+          display: none;
+        }
+
+        .careers-title,
+        .careers-footer-cta h2 {
+          font-size: 38px;
+        }
+
+        .careers-roles,
+        .careers-process,
+        .careers-form-row {
+          grid-template-columns: 1fr;
+        }
+      }
+
+      @media (max-width: 600px) {
+        .careers-hero,
+        .careers-section {
+          padding-bottom: 60px;
+        }
+
+        .careers-title,
+        .careers-footer-cta h2 {
+          font-size: 32px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div id="SiteWrapper">
+      <div class="container sizeBlock">
+        <div class="grid">
+          <div class="col-2 column"></div>
+          <div class="col-2 column"></div>
+          <div class="col-2 column"></div>
+        </div>
+      </div>
+      <div class="logo">
+        <a class="button" href="/">
+          <img src="https://d1hokgyh8522ma.cloudfront.net/assets/images/Logo_mono.svg" alt="Logo" width="70" height="70" />
+        </a>
+      </div>
+      <div class="mobileBurger" aria-label="Open menu">
+        <div class="burger"><span></span><span></span><span></span></div>
+        <div class="closeX"><span></span><span></span></div>
+      </div>
+      <nav class="container items">
+        <div class="innerContainer">
+          <div class="left">
+            <a class="staticLogo" href="/">
+              <img
+                  class="staticLogoImg"
+                  src="https://d1hokgyh8522ma.cloudfront.net/assets/images/Logo_mono.svg"
+                  alt="Logo"
+                  width="70"
+                  height="70"
+              />
+            </a>
+          </div>
+          <div class="right">
+            <nav class="MenuItems">
+              <a class="work" href="work">
+                <div class="dotContainer"></div>
+                <p class="label">Work</p>
+              </a>
+              <a href="services">
+                <div class="dotContainer"></div>
+                <p class="label">Services</p>
+              </a>
+              <a href="about">
+                <div class="dotContainer"></div>
+                <p class="label">About</p>
+              </a>
+            </nav>
+            <div class="MenuSocial">
+              <div class="links">
+                <a href="https://www.instagram.com/designoftime.co/" target="_blank" rel="noreferrer">Instagram</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </nav>
+      <main class="careers-page">
+        <section class="careers-hero container">
+          <div class="innerContainer">
+            <p class="careers-eyebrow">Careers</p>
+            <h1 class="careers-title">
+              We are always looking for people who care deeply about what they build.
+            </h1>
+            <p class="careers-copy">
+              Design of Time Company is a creative and technology studio building products, brands
+              and digital experiences. If you think clearly, care about craft and like working with
+              intent, this page is for you.
+            </p>
+          </div>
+        </section>
+        <section class="careers-section border-top container">
+          <div class="careers-grid-2 innerContainer">
+            <div class="careers-sticky">
+              <p class="careers-eyebrow">Open roles</p>
+              <p class="careers-note">
+                These are the roles we’re actively hiring for right now. Even if you don’t fit one
+                perfectly, you’re still welcome to apply.
+              </p>
+            </div>
+            <div class="careers-roles">
+              <article class="careers-role">
+                <div>
+                  <div class="careers-meta">
+                    <span class="careers-pill">Full time</span>
+                    <span class="careers-pill">On site</span>
+                    <span class="careers-pill">Indore</span>
+                  </div>
+                  <h3>MERN Stack Developer</h3>
+                  <p>
+                    Builds and scales full-stack applications across MongoDB, Express, React, and
+                    Node, turning ideas into fast, reliable products.
+                  </p>
+                </div>
+                <a class="careers-link" href="#application-form">Apply for this role</a>
+              </article>
+              <article class="careers-role">
+                <div>
+                  <div class="careers-meta">
+                    <span class="careers-pill">Full time</span>
+                    <span class="careers-pill">On site</span>
+                    <span class="careers-pill">Indore</span>
+                  </div>
+                  <h3>Frontend Developer</h3>
+                  <p>Turns thoughtful design into fast, polished interfaces across modern web stacks.</p>
+                </div>
+                <a class="careers-link" href="#application-form">Apply for this role</a>
+              </article>
+              <article class="careers-role">
+                <div>
+                  <div class="careers-meta">
+                    <span class="careers-pill">Full time</span>
+                    <span class="careers-pill">On site</span>
+                    <span class="careers-pill">Indore</span>
+                  </div>
+                  <h3>Backend Developer</h3>
+                  <p>
+                    Designs solid architectures, handles data efficiently, and builds APIs that
+                    power seamless product experiences.
+                  </p>
+                </div>
+                <a class="careers-link" href="#application-form">Apply for this role</a>
+              </article>
+              <article class="careers-role">
+                <div>
+                  <div class="careers-meta">
+                    <span class="careers-pill">Full time</span>
+                    <span class="careers-pill">On site</span>
+                    <span class="careers-pill">Indore</span>
+                  </div>
+                  <h3>UI/UX Designer</h3>
+                  <p>Crafts intuitive, well-designed experiences that feel as good as they look.</p>
+                </div>
+                <a class="careers-link" href="#application-form">Apply for this role</a>
+              </article>
+              <article class="careers-role">
+                <div>
+                  <div class="careers-meta">
+                    <span class="careers-pill">Full time</span>
+                    <span class="careers-pill">On site</span>
+                    <span class="careers-pill">Indore</span>
+                  </div>
+                  <h3>Project Manager</h3>
+                  <p>
+                    Brings clarity to chaos, aligns teams, and drives projects from idea to delivery
+                    without losing intent.
+                  </p>
+                </div>
+                <a class="careers-link" href="#application-form">Apply for this role</a>
+              </article>
+              <article class="careers-role">
+                <div>
+                  <div class="careers-meta">
+                    <span class="careers-pill">Full time</span>
+                    <span class="careers-pill">On site</span>
+                    <span class="careers-pill">Indore</span>
+                  </div>
+                  <h3>React Native Developer</h3>
+                  <p>Builds smooth, scalable mobile experiences that feel native and perform reliably.</p>
+                </div>
+                <a class="careers-link" href="#application-form">Apply for this role</a>
+              </article>
+              <article class="careers-role">
+                <div>
+                  <div class="careers-meta">
+                    <span class="careers-pill">Full time</span>
+                    <span class="careers-pill">On site</span>
+                    <span class="careers-pill">Indore</span>
+                  </div>
+                  <h3>QA / Testing Engineer</h3>
+                  <p>Breaks things before users do, ensuring every product ships stable and polished.</p>
+                </div>
+                <a class="careers-link" href="#application-form">Apply for this role</a>
+              </article>
+              <article class="careers-role">
+                <div>
+                  <div class="careers-meta">
+                    <span class="careers-pill">Full time</span>
+                    <span class="careers-pill">On site</span>
+                    <span class="careers-pill">Indore</span>
+                  </div>
+                  <h3>DevOps Engineer</h3>
+                  <p>
+                    Manages infrastructure, streamlines deployments, and keeps systems fast, secure,
+                    and scalable.
+                  </p>
+                </div>
+                <a class="careers-link" href="#application-form">Apply for this role</a>
+              </article>
+              <article class="careers-role">
+                <div>
+                  <div class="careers-meta">
+                    <span class="careers-pill">Open application</span>
+                    <span class="careers-pill">Any discipline</span>
+                  </div>
+                  <h3>General Application</h3>
+                  <p>
+                    If you think you belong here but the right title is missing, tell us who you are
+                    and what you can bring.
+                  </p>
+                </div>
+                <a class="careers-link" href="#application-form">Apply anyway</a>
+              </article>
+            </div>
+          </div>
+        </section>
+        <section class="careers-section border-top container">
+          <div class="careers-grid-2 innerContainer">
+            <div>
+              <p class="careers-eyebrow">How it works</p>
+              <p class="careers-note">
+                Keep it honest, clear and direct. We care more about how you think than how polished
+                your resume looks.
+              </p>
+            </div>
+            <div class="careers-process">
+              <div class="careers-process-item">
+                <div class="careers-process-number">01</div>
+                <div class="careers-process-copy">
+                  <p>
+                    Fill the application with the basics and tell us what role or kind of work you
+                    are interested in.
+                  </p>
+                </div>
+              </div>
+              <div class="careers-process-item">
+                <div class="careers-process-number">02</div>
+                <div class="careers-process-copy">
+                  <p>
+                    Share your work, portfolio, links or anything else that helps us understand your
+                    thinking and craft.
+                  </p>
+                </div>
+              </div>
+              <div class="careers-process-item">
+                <div class="careers-process-number">03</div>
+                <div class="careers-process-copy">
+                  <p>
+                    If there is a fit, we will reach out for the next conversation. No unnecessary
+                    drama, just a real process.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section id="application-form" class="careers-section careers-form-section container">
+          <div class="careers-grid-2 innerContainer">
+            <div class="careers-sticky">
+              <p class="careers-eyebrow">Apply now</p>
+              <h2>Tell us a bit about yourself.</h2>
+              <p class="careers-note">
+                This form is designed as a front end layout. Connect it to your own backend,
+                Formspree, Web3Forms or any submission flow you prefer.
+              </p>
+            </div>
+            <form class="careers-form" action="#" method="post" enctype="multipart/form-data">
+              <div class="careers-form-row">
+                <div class="careers-field">
+                  <label for="firstName">First name</label>
+                  <input id="firstName" name="firstName" type="text" placeholder="John" required />
+                </div>
+                <div class="careers-field">
+                  <label for="lastName">Last name</label>
+                  <input id="lastName" name="lastName" type="text" placeholder="Doe" required />
+                </div>
+              </div>
+              <div class="careers-form-row">
+                <div class="careers-field">
+                  <label for="email">Email address</label>
+                  <input
+                      id="email"
+                      name="email"
+                      type="email"
+                      placeholder="you@example.com"
+                      required
+                  />
+                </div>
+                <div class="careers-field">
+                  <label for="phone">Phone number</label>
+                  <input id="phone" name="phone" type="tel" placeholder="+91 98XXXXXXXX" required />
+                </div>
+              </div>
+              <div class="careers-form-row">
+                <div class="careers-field">
+                  <label for="role">Role you are applying for</label>
+                  <select id="role" name="role" required>
+                    <option value>Select a role</option>
+                    <option value="frontend-developer">MERN Stack Developer</option>
+                    <option value="ui-ux-designer">Frontend Developer</option>
+                    <option value="design-intern">Backend Developer</option>
+                    <option value="project-manager">UI/UX Designer</option>
+                    <option value="react-native-developer">Project Manager</option>
+                    <option value="qa-engineer">React Native Developer</option>
+                    <option value="devops-engineer">QA / Testing Engineer</option>
+                    <option value="devops-engineer">DevOps Engineer</option>
+                    <option value="general-application">General Application</option>
+                  </select>
+                </div>
+                <div class="careers-field">
+                  <label for="experience">Years of experience</label>
+                  <select id="experience" name="experience" required>
+                    <option value>Select</option>
+                    <option value="0-1">0 to 1 years</option>
+                    <option value="1-3">1 to 3 years</option>
+                    <option value="3-5">3 to 5 years</option>
+                    <option value="5+">5+ years</option>
+                  </select>
+                </div>
+              </div>
+              <div class="careers-field">
+                <label for="portfolio">Portfolio / LinkedIn / relevant link</label>
+                <input id="portfolio" name="portfolio" type="url" placeholder="https://" />
+              </div>
+              <div class="careers-field">
+                <label for="resume">Resume / CV</label>
+                <input id="resume" name="resume" type="file" />
+                <p class="careers-filehint">Accepted format can be defined by your backend. Usually PDF is best.</p>
+              </div>
+              <div class="careers-field">
+                <label for="message">Why do you want to work with us?</label>
+                <textarea
+                  id="message"
+                  name="message"
+                  placeholder="Tell us how you think, what kind of work excites you, and why you think you'd be a fit."
+                >
+                </textarea>
+              </div>
+              <label class="careers-checkbox" for="consent">
+                <input id="consent" name="consent" type="checkbox" required />
+                <span class="careers-legal">
+                  I confirm that the information shared here is accurate and I am okay with being
+                  contacted regarding this application.
+                </span>
+              </label>
+              <div class="careers-submit">
+                <button class="careers-button" type="submit">Submit Application</button>
+              </div>
+            </form>
+          </div>
+        </section>
+        <section class="careers-section container careers-footer-cta">
+          <div class="innerContainer">
+            <p class="careers-eyebrow">Still thinking?</p>
+            <h2>Good work usually starts with one honest message.</h2>
+            <a class="careers-link" href="mailto:hello@designoftime.co.in">hello@designoftime.co.in</a>
+          </div>
+        </section>
+      </main>
+    </div>
+    <script>
+      (function () {
+        const burger = document.querySelector('.mobileBurger');
+        const navRight = document.querySelector('nav.container.items .right');
+        const burgerIcon = burger ? burger.querySelector('.burger') : null;
+        const closeIcon = burger ? burger.querySelector('.closeX') : null;
+
+        if (!burger || !navRight || !burgerIcon || !closeIcon) return;
+
+        burger.addEventListener('click', function () {
+          const isOpen = navRight.style.display === 'block';
+          navRight.style.display = isOpen ? 'none' : 'block';
+          burgerIcon.style.display = isOpen ? 'block' : 'none';
+          closeIcon.style.display = isOpen ? 'none' : 'block';
+        });
+
+        window.addEventListener('resize', function () {
+          if (window.innerWidth > 900) {
+            navRight.style.display = '';
+            burgerIcon.style.display = 'block';
+            closeIcon.style.display = 'none';
+          } else if (navRight.style.display === 'block') {
+            navRight.style.position = 'absolute';
+            navRight.style.top = '72px';
+            navRight.style.right = '4.8828125%';
+            navRight.style.background = '#fff';
+            navRight.style.padding = '18px';
+            navRight.style.border = '1px solid rgba(0,0,0,0.12)';
+            navRight.style.minWidth = '220px';
+          }
+        });
+      })();
+    </script>
+  </body>
+</html>
