@@ -1,0 +1,1081 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Metropolis India – CX Assessment | Design of Time</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400&family=DM+Sans:wght@300;400;500&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ink: #0f0f0f;
+    --paper: #f5f0e8;
+    --paper-dark: #ede7d9;
+    --accent: #c8341a;
+    --accent-soft: #f2e8e5;
+    --accent2: #1a3a5c;
+    --accent2-soft: #e5ebf2;
+    --neutral: #6b6460;
+    --rule: #d4ccc0;
+    --highlight: #fef3c7;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: var(--paper);
+    color: var(--ink);
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 300;
+    line-height: 1.6;
+  }
+
+  /* ─── COVER ─── */
+  .cover {
+    min-height: 100vh;
+    background: var(--accent2);
+    color: #fff;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+    padding: 3rem 4rem;
+    position: relative;
+    overflow: hidden;
+  }
+  .cover::before {
+    content: '';
+    position: absolute;
+    right: -120px; top: -120px;
+    width: 600px; height: 600px;
+    border-radius: 50%;
+    border: 1px solid rgba(255,255,255,0.08);
+  }
+  .cover::after {
+    content: '';
+    position: absolute;
+    right: -60px; top: -60px;
+    width: 400px; height: 400px;
+    border-radius: 50%;
+    border: 1px solid rgba(255,255,255,0.12);
+  }
+
+  .cover-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    font-family: 'DM Mono', monospace;
+    font-size: 0.75rem;
+    opacity: 0.5;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  .cover-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    z-index: 1;
+  }
+
+  .cover-tag {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.72rem;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--accent);
+    background: rgba(200,52,26,0.15);
+    display: inline-block;
+    padding: 0.35em 0.8em;
+    border-radius: 2px;
+    margin-bottom: 2rem;
+    width: fit-content;
+  }
+
+  .cover-title {
+    font-family: 'Playfair Display', serif;
+    font-size: clamp(2.8rem, 6vw, 5.5rem);
+    font-weight: 900;
+    line-height: 1.05;
+    margin-bottom: 1.5rem;
+    max-width: 800px;
+  }
+  .cover-title em {
+    font-style: italic;
+    color: rgba(255,255,255,0.45);
+  }
+
+  .cover-sub {
+    font-size: 1.05rem;
+    opacity: 0.65;
+    max-width: 520px;
+    line-height: 1.7;
+  }
+
+  .cover-pills {
+    display: flex;
+    gap: 1rem;
+    margin-top: 3rem;
+    flex-wrap: wrap;
+  }
+  .cover-pill {
+    border: 1px solid rgba(255,255,255,0.2);
+    border-radius: 2px;
+    padding: 0.6em 1.2em;
+    font-family: 'DM Mono', monospace;
+    font-size: 0.7rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    opacity: 0.7;
+  }
+
+  .cover-bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    font-family: 'DM Mono', monospace;
+    font-size: 0.72rem;
+    opacity: 0.45;
+    letter-spacing: 0.06em;
+    z-index: 1;
+  }
+
+  /* ─── SECTION WRAPPER ─── */
+  section {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 5rem 4rem;
+  }
+  section + section { border-top: 1px solid var(--rule); }
+
+  .section-label {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.68rem;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin-bottom: 1.5rem;
+  }
+
+  .section-heading {
+    font-family: 'Playfair Display', serif;
+    font-size: clamp(2rem, 4vw, 3.2rem);
+    font-weight: 700;
+    line-height: 1.15;
+    margin-bottom: 1.2rem;
+    max-width: 720px;
+  }
+
+  .section-sub {
+    color: var(--neutral);
+    max-width: 640px;
+    font-size: 1.02rem;
+    line-height: 1.75;
+    margin-bottom: 3rem;
+  }
+
+  /* ─── EXEC SUMMARY ─── */
+  .exec-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+    margin-top: 3rem;
+  }
+  .exec-card {
+    background: #fff;
+    border: 1px solid var(--rule);
+    border-radius: 4px;
+    padding: 2rem;
+  }
+  .exec-card h3 {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.68rem;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--neutral);
+    margin-bottom: 0.8rem;
+  }
+  .exec-card p {
+    font-size: 0.97rem;
+    line-height: 1.7;
+    color: #333;
+  }
+  .exec-stat {
+    background: var(--accent2);
+    color: #fff;
+  }
+  .exec-stat h3 { color: rgba(255,255,255,0.55); }
+  .exec-stat p { color: rgba(255,255,255,0.85); }
+
+  .stat-row {
+    display: flex;
+    gap: 2rem;
+    margin-bottom: 3rem;
+    flex-wrap: wrap;
+  }
+  .stat-block {
+    flex: 1;
+    min-width: 160px;
+    background: #fff;
+    border: 1px solid var(--rule);
+    border-radius: 4px;
+    padding: 1.5rem 1.8rem;
+    text-align: center;
+  }
+  .stat-number {
+    font-family: 'Playfair Display', serif;
+    font-size: 2.8rem;
+    font-weight: 900;
+    color: var(--accent);
+    display: block;
+    line-height: 1;
+    margin-bottom: 0.4rem;
+  }
+  .stat-label {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.68rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--neutral);
+  }
+
+  /* ─── PAIN POINTS ─── */
+  .pain-items { display: flex; flex-direction: column; gap: 2px; }
+
+  .pain-item {
+    display: grid;
+    grid-template-columns: 3fr 2fr 2fr;
+    gap: 0;
+    border: 1px solid var(--rule);
+    border-radius: 4px;
+    overflow: hidden;
+    background: #fff;
+  }
+
+  .pain-main {
+    padding: 1.8rem 2rem;
+    border-right: 1px solid var(--rule);
+  }
+  .pain-num {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.65rem;
+    color: var(--neutral);
+    letter-spacing: 0.1em;
+    margin-bottom: 0.5rem;
+    display: block;
+  }
+  .pain-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.15rem;
+    font-weight: 700;
+    margin-bottom: 0.6rem;
+  }
+  .pain-desc {
+    font-size: 0.9rem;
+    color: #555;
+    line-height: 1.65;
+  }
+
+  .pain-current {
+    padding: 1.8rem 1.5rem;
+    border-right: 1px solid var(--rule);
+    background: #fdf9f6;
+  }
+  .pain-expected {
+    padding: 1.8rem 1.5rem;
+    background: var(--accent2-soft);
+  }
+  .pain-box-label {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.6rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--neutral);
+    margin-bottom: 0.6rem;
+    display: block;
+  }
+  .pain-current .pain-box-label { color: #b05a3a; }
+  .pain-expected .pain-box-label { color: var(--accent2); }
+  .pain-box-text {
+    font-size: 0.85rem;
+    line-height: 1.6;
+    color: #333;
+  }
+
+  .priority-badge {
+    display: inline-block;
+    font-family: 'DM Mono', monospace;
+    font-size: 0.62rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    padding: 0.2em 0.7em;
+    border-radius: 2px;
+    margin-top: 0.8rem;
+  }
+  .critical { background: #fde8e4; color: #c8341a; }
+  .high { background: #fef3c7; color: #92400e; }
+  .medium { background: var(--accent2-soft); color: var(--accent2); }
+
+  /* ─── JOURNEY STAGES ─── */
+  .journey-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.5rem;
+    margin-top: 2rem;
+  }
+  .journey-card {
+    background: #fff;
+    border: 1px solid var(--rule);
+    border-radius: 4px;
+    padding: 1.8rem;
+    position: relative;
+  }
+  .journey-card::before {
+    content: attr(data-stage);
+    font-family: 'DM Mono', monospace;
+    font-size: 0.6rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--accent);
+    display: block;
+    margin-bottom: 0.7rem;
+  }
+  .journey-card h3 {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.1rem;
+    font-weight: 700;
+    margin-bottom: 0.9rem;
+  }
+  .journey-issues {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+  .journey-issues li {
+    font-size: 0.85rem;
+    color: #555;
+    padding-left: 1rem;
+    position: relative;
+    line-height: 1.5;
+  }
+  .journey-issues li::before {
+    content: '→';
+    position: absolute;
+    left: 0;
+    color: var(--accent);
+    font-size: 0.8rem;
+  }
+  .issue-count {
+    position: absolute;
+    top: 1.4rem; right: 1.4rem;
+    font-family: 'DM Mono', monospace;
+    font-size: 0.65rem;
+    color: var(--neutral);
+    background: var(--paper);
+    padding: 0.2em 0.6em;
+    border-radius: 2px;
+    border: 1px solid var(--rule);
+  }
+
+  /* ─── OPPORTUNITY ─── */
+  .opp-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2px;
+    margin-top: 2.5rem;
+  }
+  .opp-card {
+    background: #fff;
+    border: 1px solid var(--rule);
+    padding: 2.2rem;
+  }
+  .opp-card:nth-child(odd) { border-radius: 4px 0 0 0; }
+  .opp-number {
+    font-family: 'Playfair Display', serif;
+    font-size: 3.5rem;
+    font-weight: 900;
+    color: var(--paper-dark);
+    display: block;
+    line-height: 1;
+    margin-bottom: 0.8rem;
+  }
+  .opp-card h3 {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.2rem;
+    font-weight: 700;
+    margin-bottom: 0.7rem;
+  }
+  .opp-card p {
+    font-size: 0.9rem;
+    color: #555;
+    line-height: 1.7;
+  }
+  .opp-card.dark {
+    background: var(--accent2);
+    color: #fff;
+    border-color: var(--accent2);
+  }
+  .opp-card.dark .opp-number { color: rgba(255,255,255,0.1); }
+  .opp-card.dark h3 { color: #fff; }
+  .opp-card.dark p { color: rgba(255,255,255,0.7); }
+
+  /* ─── ROADMAP ─── */
+  .roadmap-track {
+    display: flex;
+    gap: 2px;
+    margin-top: 2.5rem;
+  }
+  .phase {
+    flex: 1;
+    background: #fff;
+    border: 1px solid var(--rule);
+    border-radius: 4px;
+    padding: 1.8rem 1.4rem;
+    position: relative;
+  }
+  .phase-num {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.62rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--neutral);
+    margin-bottom: 0.4rem;
+    display: block;
+  }
+  .phase-name {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.05rem;
+    font-weight: 700;
+    margin-bottom: 0.3rem;
+  }
+  .phase-time {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.68rem;
+    color: var(--accent);
+    margin-bottom: 1.2rem;
+    display: block;
+  }
+  .phase-items {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 0.45rem;
+  }
+  .phase-items li {
+    font-size: 0.82rem;
+    color: #555;
+    padding-left: 0.9rem;
+    position: relative;
+    line-height: 1.4;
+  }
+  .phase-items li::before {
+    content: '—';
+    position: absolute;
+    left: 0;
+    color: var(--rule);
+  }
+  .phase.active {
+    background: var(--accent);
+    border-color: var(--accent);
+    color: #fff;
+  }
+  .phase.active .phase-num,
+  .phase.active .phase-time { color: rgba(255,255,255,0.6); }
+  .phase.active .phase-name { color: #fff; }
+  .phase.active .phase-items li { color: rgba(255,255,255,0.8); }
+  .phase.active .phase-items li::before { color: rgba(255,255,255,0.3); }
+
+  /* ─── INSIGHT CALLOUT ─── */
+  .insight {
+    background: var(--accent2);
+    color: #fff;
+    padding: 3rem 4rem;
+    margin: 0;
+  }
+  .insight-inner {
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+  .insight p {
+    font-family: 'Playfair Display', serif;
+    font-size: clamp(1.3rem, 2.5vw, 1.9rem);
+    font-weight: 400;
+    font-style: italic;
+    line-height: 1.55;
+    opacity: 0.9;
+  }
+  .insight cite {
+    display: block;
+    font-family: 'DM Mono', monospace;
+    font-size: 0.7rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    opacity: 0.45;
+    margin-top: 1.2rem;
+    font-style: normal;
+  }
+
+  /* ─── COMPARISON TABLE ─── */
+  .compare-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 2rem;
+    font-size: 0.9rem;
+  }
+  .compare-table th {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.65rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--neutral);
+    text-align: left;
+    padding: 0.7rem 1rem;
+    border-bottom: 2px solid var(--rule);
+    background: var(--paper-dark);
+  }
+  .compare-table td {
+    padding: 0.9rem 1rem;
+    border-bottom: 1px solid var(--rule);
+    vertical-align: top;
+    line-height: 1.5;
+  }
+  .compare-table tr:last-child td { border-bottom: none; }
+  .compare-table tr:nth-child(even) td { background: #fafaf8; }
+  .check { color: #22c55e; font-size: 1rem; }
+  .cross { color: var(--accent); font-size: 1rem; }
+  .partial { color: #f59e0b; font-size: 1rem; }
+  .feature-col { font-weight: 500; color: var(--ink); }
+  .note-col { color: var(--neutral); font-size: 0.83rem; }
+
+  /* ─── CLOSING ─── */
+  .closing {
+    background: var(--ink);
+    color: #fff;
+    padding: 5rem 4rem;
+    text-align: center;
+  }
+  .closing-inner {
+    max-width: 700px;
+    margin: 0 auto;
+  }
+  .closing h2 {
+    font-family: 'Playfair Display', serif;
+    font-size: clamp(1.8rem, 3.5vw, 2.8rem);
+    font-weight: 900;
+    line-height: 1.15;
+    margin-bottom: 1.2rem;
+  }
+  .closing h2 em {
+    font-style: italic;
+    color: rgba(255,255,255,0.4);
+  }
+  .closing p {
+    color: rgba(255,255,255,0.6);
+    font-size: 0.97rem;
+    line-height: 1.75;
+    margin-bottom: 2.5rem;
+  }
+  .closing-contact {
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  .contact-item {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.7rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: rgba(255,255,255,0.4);
+  }
+  .contact-item strong {
+    display: block;
+    color: rgba(255,255,255,0.85);
+    margin-bottom: 0.2rem;
+  }
+
+  .dot {
+    display: inline-block;
+    width: 6px; height: 6px;
+    border-radius: 50%;
+    background: var(--accent);
+    vertical-align: middle;
+    margin: 0 0.6rem;
+  }
+
+  @media (max-width: 768px) {
+    .cover { padding: 2rem; }
+    section { padding: 3rem 1.5rem; }
+    .exec-grid { grid-template-columns: 1fr; }
+    .journey-grid { grid-template-columns: 1fr; }
+    .opp-grid { grid-template-columns: 1fr; }
+    .roadmap-track { flex-direction: column; }
+    .pain-item { grid-template-columns: 1fr; }
+    .pain-current, .pain-expected { border-right: none; border-top: 1px solid var(--rule); }
+    .closing { padding: 3rem 1.5rem; }
+  }
+</style>
+</head>
+<body>
+
+<!-- COVER -->
+<div class="cover">
+  <div class="cover-top">
+    <span>Design of Time — CX Assessment</span>
+    <span>Confidential · April 2026</span>
+  </div>
+  <div class="cover-body">
+    <span class="cover-tag">Prospect Research</span>
+    <h1 class="cover-title">Metropolis India:<br><em>Where Clinical Trust Meets</em><br>Digital Friction</h1>
+    <p class="cover-sub">A structured CX diagnosis of Metropolis Healthcare's web and app experience — identifying where the journey loses users it has already earned, and the opportunity to fix it.</p>
+    <div class="cover-pills">
+      <span class="cover-pill">Discovery &amp; Search</span>
+      <span class="cover-pill">Booking &amp; Payment</span>
+      <span class="cover-pill">Post-Booking</span>
+      <span class="cover-pill">Reports</span>
+      <span class="cover-pill">Cross-Platform Sync</span>
+    </div>
+  </div>
+  <div class="cover-bottom">
+    <span>designoftime.co.in</span>
+    <span>Prepared for internal pitch review</span>
+  </div>
+</div>
+
+<!-- EXECUTIVE SUMMARY -->
+<section>
+  <p class="section-label">01 — Executive Summary</p>
+  <h2 class="section-heading">Metropolis has 40 years of trust. Its digital experience is spending it.</h2>
+  <p class="section-sub">With 175+ labs, 220+ cities, and 50M+ tests performed, Metropolis has clinical credibility few can match. But the digital journey — from the moment a user lands on the homepage to the moment they download their report — is riddled with friction that converts trust into abandonment.</p>
+
+  <div class="stat-row">
+    <div class="stat-block">
+      <span class="stat-number">4K+</span>
+      <span class="stat-label">Tests offered — none surfaced smartly</span>
+    </div>
+    <div class="stat-block">
+      <span class="stat-number">4.1★</span>
+      <span class="stat-label">App rating — but booking failures reported</span>
+    </div>
+    <div class="stat-block">
+      <span class="stat-number">3+</span>
+      <span class="stat-label">Contact numbers on a single page</span>
+    </div>
+    <div class="stat-block">
+      <span class="stat-number">0</span>
+      <span class="stat-label">Guided entry paths for non-expert users</span>
+    </div>
+  </div>
+
+  <div class="exec-grid">
+    <div class="exec-card">
+      <h3>What We Found</h3>
+      <p>Across the full digital journey — homepage, search, booking, post-booking, and report delivery — the experience completes transactions but does not build relationships. Users finish tasks in spite of the platform, not because of it. Critical issues span data sync failures, payment confirmation gaps, no guided discovery, and a fragmented support structure.</p>
+    </div>
+    <div class="exec-card">
+      <h3>Why It Matters</h3>
+      <p>Metropolis competes with Tata 1mg, PharmEasy, and Dr. Lal PathLabs — all investing heavily in AI search, guided booking, and retention loops. Every friction point costs Metropolis twice: once when a user abandons, and again when they don't return. In a category built on repeat usage — chronic care, family diagnostics, annual checks — this is a revenue retention problem, not just a UX one.</p>
+    </div>
+    <div class="exec-card exec-stat">
+      <h3>What To Do</h3>
+      <p>Redesign the end-to-end journey in four phases: fix the most critical breakpoints first, then build competitive features, then add intelligence — so every stage feels connected, guided, and worth returning to.</p>
+    </div>
+    <div class="exec-card">
+      <h3>What It Unlocks</h3>
+      <p>Higher first-time conversion. Stronger repeat booking rates. Reduced inbound support volume. Cross-platform consistency. And a digital experience that matches the standard Metropolis already holds in its labs.</p>
+    </div>
+  </div>
+</section>
+
+<!-- PAIN POINTS BY JOURNEY STAGE -->
+<section>
+  <p class="section-label">02 — Journey Stage Overview</p>
+  <h2 class="section-heading">Where the Metropolis journey breaks</h2>
+  <p class="section-sub">Issues mapped across six journey stages. Every one of these has a direct cost — in drop-offs, support calls, or users who simply don't return.</p>
+
+  <div class="journey-grid">
+
+    <div class="journey-card" data-stage="Stage 01 — Discovery">
+      <span class="issue-count">4 issues</span>
+      <h3>Homepage &amp; Entry</h3>
+      <ul class="journey-issues">
+        <li>City defaults to Mumbai with no auto-detection</li>
+        <li>Generic search bar — no guided entry for symptom, prescription, or package intent</li>
+        <li>Three different phone numbers visible simultaneously, causing choice paralysis</li>
+        <li>No personalisation or returning-user recognition</li>
+      </ul>
+    </div>
+
+    <div class="journey-card" data-stage="Stage 02 — Search & Understand">
+      <span class="issue-count">5 issues</span>
+      <h3>Search &amp; Test Discovery</h3>
+      <ul class="journey-issues">
+        <li>Search is keyword-only — no AI, no symptom-to-test mapping</li>
+        <li>4000+ tests with no smart filtering or comparison tool</li>
+        <li>Test pages lack contextual guidance (why this test, who needs it)</li>
+        <li>No clear pathway for users without a doctor's prescription</li>
+        <li>Package recommendations only appear post-search — not at entry</li>
+      </ul>
+    </div>
+
+    <div class="journey-card" data-stage="Stage 03 — Booking">
+      <span class="issue-count">4 issues</span>
+      <h3>Booking &amp; Payment</h3>
+      <ul class="journey-issues">
+        <li>UPI payments completing but bookings not reflecting in profile (confirmed in user reviews)</li>
+        <li>Location not auto-detected — users must manually select city in form</li>
+        <li>No option to edit or modify a booking post-confirmation</li>
+        <li>Slot selection UX is unclear — no visual calendar or guidance on best times</li>
+      </ul>
+    </div>
+
+    <div class="journey-card" data-stage="Stage 04 — Post-Booking">
+      <span class="issue-count">3 issues</span>
+      <h3>Post-Booking State</h3>
+      <ul class="journey-issues">
+        <li>No clear "what happens next" communication after confirming a booking</li>
+        <li>Sample tracking requires login — adds friction for anxious first-time users</li>
+        <li>No push notification or proactive status updates on web</li>
+      </ul>
+    </div>
+
+    <div class="journey-card" data-stage="Stage 05 — Reports">
+      <span class="issue-count">4 issues</span>
+      <h3>Report Access &amp; Delivery</h3>
+      <ul class="journey-issues">
+        <li>Smart reports exist but users note they need significant improvement</li>
+        <li>WhatsApp reports are password-protected with no in-context explanation of the password</li>
+        <li>No post-report guidance — results delivered without next-step recommendations</li>
+        <li>Reports not treated as a retention moment — no follow-up or re-booking nudge</li>
+      </ul>
+    </div>
+
+    <div class="journey-card" data-stage="Stage 06 — Cross-Platform">
+      <span class="issue-count">3 issues</span>
+      <h3>Web vs. App Sync</h3>
+      <ul class="journey-issues">
+        <li>Addresses, bookings, and reports not synced between website and app (confirmed by users)</li>
+        <li>TruHealth app and main Metropolis app serve overlapping purposes with no clear distinction</li>
+        <li>Support flow bounces users between multiple numbers and teams — no unified escalation path</li>
+      </ul>
+    </div>
+
+  </div>
+</section>
+
+<!-- DEEP-DIVE PAIN POINTS -->
+<section>
+  <p class="section-label">03 — Critical Issues</p>
+  <h2 class="section-heading">The five breakpoints that cost Metropolis the most</h2>
+  <p class="section-sub">Prioritised by frequency of occurrence, user impact, and ease of resolution.</p>
+
+  <div class="pain-items">
+
+    <div class="pain-item">
+      <div class="pain-main">
+        <span class="pain-num">01 — Critical</span>
+        <div class="pain-title">Payment succeeds, booking disappears</div>
+        <p class="pain-desc">Users completing UPI payments through GPay find no record of their booking on their profile. No time slot, no confirmation, no status. They are forced to call customer support — which itself routes them to another number.</p>
+        <span class="priority-badge critical">Critical</span>
+      </div>
+      <div class="pain-current">
+        <span class="pain-box-label">Current Process</span>
+        <p class="pain-box-text">Payment deducted via UPI → no booking confirmation reflected in profile → user calls support → support routes to second number → user seeks refund instead of rebooking.</p>
+      </div>
+      <div class="pain-expected">
+        <span class="pain-box-label">Expected Behaviour</span>
+        <p class="pain-box-text">Instant confirmation with booking ID, slot details, and phlebotomist assignment. Fallback SMS/WhatsApp if app state fails. A zero-gap payment-to-confirmation flow.</p>
+      </div>
+    </div>
+
+    <div class="pain-item">
+      <div class="pain-main">
+        <span class="pain-num">02 — Critical</span>
+        <div class="pain-title">Data lives in silos — app and website don't talk</div>
+        <p class="pain-desc">Bookings made on the app don't appear on the website and vice versa. Addresses saved in one place don't carry over. Reports available on app may not be accessible on web. Users are forced to maintain two parallel identities.</p>
+        <span class="priority-badge critical">Critical</span>
+      </div>
+      <div class="pain-current">
+        <span class="pain-box-label">Current Process</span>
+        <p class="pain-box-text">App bookings not visible on website. Addresses, reports, and booking history not synchronised. Users must re-enter details every time they switch platforms.</p>
+      </div>
+      <div class="pain-expected">
+        <span class="pain-box-label">Expected Behaviour</span>
+        <p class="pain-box-text">Single unified user profile. All data — bookings, addresses, family members, reports — accessible consistently across app and web. No duplication of effort for the user.</p>
+      </div>
+    </div>
+
+    <div class="pain-item">
+      <div class="pain-main">
+        <span class="pain-num">03 — High</span>
+        <div class="pain-title">No guided discovery — the homepage assumes expertise</div>
+        <p class="pain-desc">The homepage presents a search bar with no context for users who don't know test names. Someone searching "I feel tired all the time" or "my doctor said check thyroid" has no structured path. The mega-nav has five categories and dozens of items but no decision path.</p>
+        <span class="priority-badge high">High Priority</span>
+      </div>
+      <div class="pain-current">
+        <span class="pain-box-label">Current Process</span>
+        <p class="pain-box-text">Homepage has a search bar and category nav. Users who don't know test names must browse through Health Conditions or Health Risks — long lists with no guidance on which applies to them.</p>
+      </div>
+      <div class="pain-expected">
+        <span class="pain-box-label">Expected Behaviour</span>
+        <p class="pain-box-text">Guided entry based on user intent: "I have a prescription," "I have a symptom," "I want a health check." Each path routes to relevant tests with smart defaults and recommendations.</p>
+      </div>
+    </div>
+
+    <div class="pain-item">
+      <div class="pain-main">
+        <span class="pain-num">04 — High</span>
+        <div class="pain-title">Three phone numbers, zero clarity on support</div>
+        <p class="pain-desc">The header simultaneously shows a WhatsApp number (8422-801-801), two separate home visit booking numbers (9982-782-555 and 8104-983-787), plus a Contact Us link. Users in distress are forced to figure out which channel to use — and often get routed to yet another number.</p>
+        <span class="priority-badge high">High Priority</span>
+      </div>
+      <div class="pain-current">
+        <span class="pain-box-label">Current Process</span>
+        <p class="pain-box-text">Multiple contact CTAs visible simultaneously. Users report calling one number and being redirected to another. Support experience compounds the platform friction.</p>
+      </div>
+      <div class="pain-expected">
+        <span class="pain-box-label">Expected Behaviour</span>
+        <p class="pain-box-text">One primary contact CTA contextual to the user's journey state. Post-booking: track your phlebotomist. Pre-booking: chat to book. A support experience that feels as professional as the lab.</p>
+      </div>
+    </div>
+
+    <div class="pain-item">
+      <div class="pain-main">
+        <span class="pain-num">05 — High</span>
+        <div class="pain-title">Reports delivered, relationship dropped</div>
+        <p class="pain-desc">When a report is ready, Metropolis delivers it and stops. There is no contextual explanation of results, no follow-up test recommendation, no rebooking prompt, and no guidance on what a user should do next. The highest-intent moment in the journey is treated as the end of the journey.</p>
+        <span class="priority-badge high">High Priority</span>
+      </div>
+      <div class="pain-current">
+        <span class="pain-box-label">Current Process</span>
+        <p class="pain-box-text">Report delivered via app, email, and password-protected WhatsApp PDF. Smart report exists but users say it needs improvement. No post-report engagement or next-step guidance.</p>
+      </div>
+      <div class="pain-expected">
+        <span class="pain-box-label">Expected Behaviour</span>
+        <p class="pain-box-text">Reports as a retention moment. Contextual "what this means," recommended follow-up tests, next annual check reminder, and one-tap rebooking for chronic patients. Turn delivery into re-engagement.</p>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<!-- COMPARISON -->
+<section>
+  <p class="section-label">04 — Competitive Gap</p>
+  <h2 class="section-heading">What health-tech competitors already offer</h2>
+  <p class="section-sub">Metropolis competes not just with Dr. Lal PathLabs but with platforms like Tata 1mg and PharmEasy that have integrated diagnostics with AI guidance, live tracking, and retention loops.</p>
+
+  <table class="compare-table">
+    <thead>
+      <tr>
+        <th>Feature</th>
+        <th>Metropolis</th>
+        <th>Tata 1mg</th>
+        <th>Dr. Lal PathLabs</th>
+        <th>Apollo 247</th>
+        <th>Notes</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="feature-col">Symptom-to-test guided search</td>
+        <td><span class="cross">✗</span></td>
+        <td><span class="check">✓</span></td>
+        <td><span class="partial">~</span></td>
+        <td><span class="check">✓</span></td>
+        <td class="note-col">Metropolis relies on keyword search only</td>
+      </tr>
+      <tr>
+        <td class="feature-col">Auto-detect user location</td>
+        <td><span class="cross">✗</span></td>
+        <td><span class="check">✓</span></td>
+        <td><span class="check">✓</span></td>
+        <td><span class="check">✓</span></td>
+        <td class="note-col">Metropolis defaults to Mumbai for all users</td>
+      </tr>
+      <tr>
+        <td class="feature-col">Unified app + web data sync</td>
+        <td><span class="cross">✗</span></td>
+        <td><span class="check">✓</span></td>
+        <td><span class="check">✓</span></td>
+        <td><span class="check">✓</span></td>
+        <td class="note-col">Confirmed silo issue via user reviews</td>
+      </tr>
+      <tr>
+        <td class="feature-col">Live phlebotomist tracking</td>
+        <td><span class="partial">~</span></td>
+        <td><span class="check">✓</span></td>
+        <td><span class="partial">~</span></td>
+        <td><span class="check">✓</span></td>
+        <td class="note-col">Metropolis mentions it in app listing; inconsistent in practice</td>
+      </tr>
+      <tr>
+        <td class="feature-col">Post-report next-step guidance</td>
+        <td><span class="cross">✗</span></td>
+        <td><span class="check">✓</span></td>
+        <td><span class="partial">~</span></td>
+        <td><span class="check">✓</span></td>
+        <td class="note-col">Reports delivered with no follow-up path</td>
+      </tr>
+      <tr>
+        <td class="feature-col">Family health profiles</td>
+        <td><span class="partial">~</span></td>
+        <td><span class="check">✓</span></td>
+        <td><span class="check">✓</span></td>
+        <td><span class="check">✓</span></td>
+        <td class="note-col">Metropolis has this but it's buried</td>
+      </tr>
+      <tr>
+        <td class="feature-col">AI personalised recommendations</td>
+        <td><span class="cross">✗</span></td>
+        <td><span class="check">✓</span></td>
+        <td><span class="cross">✗</span></td>
+        <td><span class="check">✓</span></td>
+        <td class="note-col">Package recs exist but only post-cart — not proactive</td>
+      </tr>
+      <tr>
+        <td class="feature-col">Booking modification / cancellation</td>
+        <td><span class="cross">✗</span></td>
+        <td><span class="check">✓</span></td>
+        <td><span class="partial">~</span></td>
+        <td><span class="check">✓</span></td>
+        <td class="note-col">No in-app edit/cancel option identified</td>
+      </tr>
+    </tbody>
+  </table>
+</section>
+
+<!-- INSIGHT CALLOUT -->
+<div class="insight">
+  <div class="insight-inner">
+    <p>"The platform that owns the report moment owns the relationship. Right now Metropolis delivers results and exits — leaving chronic patients, family managers, and first-time users with nowhere to go next."</p>
+    <cite>— Design of Time CX Assessment, Metropolis India, 2026</cite>
+  </div>
+</div>
+
+<!-- STRATEGIC OPPORTUNITIES -->
+<section>
+  <p class="section-label">05 — Strategic Opportunities</p>
+  <h2 class="section-heading">What a better Metropolis experience looks like</h2>
+  <p class="section-sub">Six redesign directions that collectively transform the digital experience from transaction-processor to relationship-builder.</p>
+
+  <div class="opp-grid">
+    <div class="opp-card">
+      <span class="opp-number">01</span>
+      <h3>Guided Discovery Flow</h3>
+      <p>Replace the generic search bar with a structured intent-based entry: prescription upload, symptom exploration, or package browsing. Routes users to the right tests without requiring them to know test names — reducing zero-result searches and early drop-offs.</p>
+    </div>
+    <div class="opp-card dark">
+      <span class="opp-number">02</span>
+      <h3>Payment-to-Confirmation Trust Loop</h3>
+      <p>A zero-gap booking confirmation system. Payment triggers instant booking ID, slot confirmation, and phlebotomist assignment across all channels (in-app, SMS, WhatsApp). No user should ever not know whether their booking succeeded.</p>
+    </div>
+    <div class="opp-card">
+      <span class="opp-number">03</span>
+      <h3>Unified Cross-Platform Profile</h3>
+      <p>One data layer powering web and app equally. Bookings, saved addresses, family members, and report history accessible anywhere, any time. Eliminating the silo removes the single biggest source of user confusion and support calls.</p>
+    </div>
+    <div class="opp-card">
+      <span class="opp-number">04</span>
+      <h3>Smart Post-Booking Status Layer</h3>
+      <p>After booking, users enter a clear status timeline: confirmed → phlebotomist assigned → sample collected → processing → report ready. Proactive push and WhatsApp updates at each stage remove anxiety and eliminate "where is my report" support calls.</p>
+    </div>
+    <div class="opp-card dark">
+      <span class="opp-number">05</span>
+      <h3>Report as a Retention Moment</h3>
+      <p>Transform report delivery into a re-engagement touchpoint. Each report surfaces: what the result means in plain language, recommended follow-up tests, a reminder for the next annual check, and one-tap rebooking for chronic patients. The report is the start of the next journey.</p>
+    </div>
+    <div class="opp-card">
+      <span class="opp-number">06</span>
+      <h3>AI-Powered Search &amp; Recommendations</h3>
+      <p>Symptom-to-test mapping, search history personalization, and proactive package suggestions based on prior test results and family profiles. Metropolis has the test depth. AI makes it navigable — and makes users feel known.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ROADMAP -->
+<section>
+  <p class="section-label">06 — Transformation Roadmap</p>
+  <h2 class="section-heading">Four phases to a Metropolis experience worthy of its reputation</h2>
+  <p class="section-sub">A phased approach that starts with the highest-impact fixes, then builds competitive features, then adds intelligence — ensuring every phase delivers measurable value before the next begins.</p>
+
+  <div class="roadmap-track">
+
+    <div class="phase">
+      <span class="phase-num">Phase 0</span>
+      <div class="phase-name">Discovery &amp; Baseline</div>
+      <span class="phase-time">Weeks 1–3</span>
+      <ul class="phase-items">
+        <li>Stakeholder interviews</li>
+        <li>User journey analytics audit</li>
+        <li>Heuristic evaluation across web and app</li>
+        <li>Deliverable: Shared problem statement and prioritised opportunity map</li>
+      </ul>
+    </div>
+
+    <div class="phase active">
+      <span class="phase-num">Phase 1</span>
+      <div class="phase-name">Fix the Journey</div>
+      <span class="phase-time">Weeks 4–12</span>
+      <ul class="phase-items">
+        <li>Payment-to-confirmation trust loop</li>
+        <li>Cross-platform data sync</li>
+        <li>Guided discovery entry flow</li>
+        <li>Post-booking status layer</li>
+        <li>Unified support structure</li>
+        <li>Deliverable: Design system + prototypes + live implementation</li>
+      </ul>
+    </div>
+
+    <div class="phase">
+      <span class="phase-num">Phase 2</span>
+      <div class="phase-name">Build Competitive Advantage</div>
+      <span class="phase-time">Months 4–7</span>
+      <ul class="phase-items">
+        <li>Symptom-to-test AI search</li>
+        <li>Family health profiles (full rebuild)</li>
+        <li>Booking modification &amp; cancellation</li>
+        <li>Chronic patient repeat-booking flows</li>
+        <li>Deliverable: Fully integrated product features</li>
+      </ul>
+    </div>
+
+    <div class="phase">
+      <span class="phase-num">Phase 3</span>
+      <div class="phase-name">Smarter Experience</div>
+      <span class="phase-time">Months 8–12</span>
+      <ul class="phase-items">
+        <li>Personalised AI test recommendations</li>
+        <li>Preventive health reminders</li>
+        <li>Report-as-retention intelligence</li>
+        <li>Cohort-tuned flows: chronic, family, first-time</li>
+        <li>Deliverable: Data-driven intelligence layer</li>
+      </ul>
+    </div>
+
+  </div>
+</section>
+
+<!-- CLOSING -->
+<div class="closing">
+  <div class="closing-inner">
+    <h2>Metropolis has built something <em>most brands spend decades trying to earn.</em></h2>
+    <p>Forty years of clinical trust. 175 labs. 220 cities. The next growth lever is not more labs — it is a digital experience that reflects the same standard. We would welcome a 30-minute conversation to walk through our findings.</p>
+    <div class="closing-contact">
+      <div class="contact-item">
+        <strong>Design of Time Company</strong>
+        Sunshine Building, Indore 452001
+      </div>
+      <div class="contact-item">
+        <strong>hello@designoftime.co.in</strong>
+        +91 8965806168
+      </div>
+      <div class="contact-item">
+        <strong>designoftime.co.in</strong>
+        India · Health &amp; Digital Experience
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
