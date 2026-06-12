@@ -1,0 +1,602 @@
+// @ts-nocheck
+"use client";
+export default function internsPage() {
+  return (
+    <>
+      <div data-template="DefaultTemplate" data-title="Interns" className="template DefaultTemplate careers-page" data-menu-color="black">
+      <style dangerouslySetInnerHTML={{__html: `
+      body {
+        background: #fff;
+      }
+
+      #SiteWrapper {
+        position: relative;
+        overflow: visible;
+        opacity: 1 !important;
+        height: auto !important;
+        min-height: 100vh;
+      }
+
+      .logo, .staticLogo {
+        opacity: 1 !important;
+        visibility: visible !important;
+        pointer-events: auto !important;
+      }
+
+      html,
+      body {
+        min-height: 100%;
+      }
+
+      .careers-page {
+        padding-top: 170px;
+      }
+
+      .careers-hero {
+        padding-bottom: 100px;
+      }
+
+      .careers-eyebrow,
+      .careers-note,
+      .careers-meta,
+      .careers-process-number,
+      .careers-process-copy p,
+      .careers-filehint,
+      .careers-legal {
+        font-size: 12px;
+        line-height: 1.35;
+      }
+
+      .careers-eyebrow {
+        margin-bottom: 18px;
+        opacity: 0.55;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+      }
+
+      .careers-title {
+        max-width: 980px;
+        margin: 0 0 20px;
+        font-size: 62px;
+        line-height: 0.98;
+      }
+
+      .careers-copy {
+        max-width: 760px;
+      }
+
+      .careers-section {
+        padding: 85px 0;
+      }
+
+      .careers-section.border-top {
+        border-top: 1px solid rgba(0, 0, 0, 0.14);
+      }
+
+      .careers-grid-2 {
+        display: grid;
+        grid-template-columns: 29.3413173724% 64.6706586972%;
+        column-gap: 5.9880239524%;
+        align-items: start;
+      }
+
+      .careers-sticky {
+        position: sticky;
+        top: 120px;
+      }
+
+      .careers-roles {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 18px;
+      }
+
+      .careers-role {
+        border: 1px solid rgba(0, 0, 0, 0.14);
+        background: #faf8f4;
+        padding: 24px;
+        min-height: 230px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+      }
+
+      .careers-meta {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+        margin-bottom: 20px;
+      }
+
+      .careers-pill {
+        border: 1px solid rgba(0, 0, 0, 0.16);
+        border-radius: 999px;
+        padding: 8px 12px;
+        text-transform: uppercase;
+        letter-spacing: 0.06em;
+      }
+
+      .careers-role h3 {
+        font-size: 30px;
+        line-height: 1.05;
+        margin: 0 0 14px;
+      }
+
+      .careers-role p {
+        margin: 0 0 22px;
+        max-width: 90%;
+      }
+
+      .careers-link {
+        display: inline-block;
+        text-decoration: none;
+        position: relative;
+        padding-bottom: 4px;
+      }
+
+      .careers-link::after {
+        content: "";
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        height: 1px;
+        background: #000;
+      }
+
+      .careers-process {
+        display: grid;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        gap: 18px;
+      }
+
+      .careers-process-item {
+        border-top: 1px solid rgba(0, 0, 0, 0.16);
+        padding-top: 18px;
+      }
+
+      .careers-process-number {
+        margin-bottom: 14px;
+        opacity: 0.55;
+      }
+
+      .careers-form-section {
+        background: #f4f0eb;
+      }
+
+      .careers-form {
+        width: 100%;
+      }
+
+      .careers-form-row {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 18px;
+      }
+
+      .careers-field {
+        margin-bottom: 18px;
+      }
+
+      .careers-field label {
+        display: block;
+        margin-bottom: 8px;
+      }
+
+      .careers-field input,
+      .careers-field select,
+      .careers-field textarea {
+        width: 100%;
+        border: 1px solid rgba(0, 0, 0, 0.18);
+        background: transparent;
+        border-radius: 0;
+        padding: 16px 18px;
+        font-size: 13px;
+        line-height: 1.4;
+        color: #000;
+        outline: none;
+        font-family: nb_internationalproregular, Arial, sans-serif;
+        appearance: none;
+      }
+
+      .careers-field textarea {
+        min-height: 160px;
+        resize: vertical;
+      }
+
+      .careers-field input:focus,
+      .careers-field select:focus,
+      .careers-field textarea:focus {
+        border-color: #000;
+      }
+
+      .careers-checkbox {
+        display: flex;
+        align-items: flex-start;
+        gap: 10px;
+        margin: 24px 0 28px;
+      }
+
+      .careers-submit {
+        display: flex;
+        justify-content: space-between;
+        gap: 18px;
+        align-items: center;
+        flex-wrap: wrap;
+      }
+
+      .careers-button {
+        border: 1px solid #000;
+        background: #000;
+        color: #fff;
+        padding: 14px 28px;
+        text-transform: uppercase;
+        letter-spacing: 0.06em;
+        font-size: 12px;
+        font-family: nb_internationalproregular, Arial, sans-serif;
+        cursor: pointer;
+        transition: 0.2s ease;
+      }
+
+      .careers-button:hover {
+        background: transparent;
+        color: #000;
+      }
+
+      .careers-footer-cta {
+        padding-top: 90px;
+      }
+
+      .careers-footer-cta h2 {
+        font-size: 54px;
+        line-height: 0.98;
+        max-width: 820px;
+        margin: 0 0 22px;
+      }
+
+      .mobileBurger {
+        position: fixed;
+        top: 24px;
+        right: 4.8828125%;
+        z-index: 7;
+        width: 42px;
+        height: 42px;
+        display: none;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+      }
+
+      .mobileBurger .burger,
+      .mobileBurger .closeX {
+        position: relative;
+        width: 18px;
+        height: 12px;
+      }
+
+      .mobileBurger .burger span,
+      .mobileBurger .closeX span {
+        position: absolute;
+        left: 0;
+        width: 100%;
+        height: 2px;
+        background: #000;
+      }
+
+      .mobileBurger .burger span:nth-child(1) { top: 0; }
+      .mobileBurger .burger span:nth-child(2) { top: 5px; }
+      .mobileBurger .burger span:nth-child(3) { top: 10px; }
+
+      .mobileBurger .closeX {
+        display: none;
+      }
+
+      .mobileBurger .closeX span:nth-child(1) {
+        top: 5px;
+        transform: rotate(45deg);
+      }
+
+      .mobileBurger .closeX span:nth-child(2) {
+        top: 5px;
+        transform: rotate(-45deg);
+      }
+
+      @media (max-width: 1100px) {
+        .careers-title {
+          font-size: 48px;
+        }
+
+        .careers-grid-2 {
+          grid-template-columns: 1fr;
+          row-gap: 30px;
+        }
+
+        .careers-sticky {
+          position: static;
+        }
+      }
+
+      @media (max-width: 900px) {
+        .careers-page {
+          padding-top: 120px;
+        }
+
+        .mobileBurger {
+          display: flex;
+        }
+
+        nav.container.items .right {
+          display: none;
+        }
+
+        .careers-title,
+        .careers-footer-cta h2 {
+          font-size: 38px;
+        }
+
+        .careers-roles,
+        .careers-process,
+        .careers-form-row {
+          grid-template-columns: 1fr;
+        }
+      }
+
+      @media (max-width: 600px) {
+        .careers-hero,
+        .careers-section {
+          padding-bottom: 60px;
+        }
+
+        .careers-title,
+        .careers-footer-cta h2 {
+          font-size: 32px;
+        }
+      }
+    `}} />
+
+  <section className="careers-hero container">
+    <div className="innerContainer">
+      <p className="careers-eyebrow">Internships</p>
+      <h1 className="careers-title">
+        We are always looking for people who are curious, thoughtful and serious about learning by building.
+      </h1>
+      <p className="careers-copy">
+        Design of Time Company is a creative and technology studio building products, brands
+        and digital experiences. If you are starting out, care about craft and want to grow
+        through real work with real intent, this page is for you.
+      </p>
+    </div>
+  </section>
+  <section className="careers-section border-top container">
+    <div className="careers-grid-2 innerContainer">
+      <div className="careers-sticky">
+        <p className="careers-eyebrow">Open roles</p>
+        <p className="careers-note">
+          These are the internship roles we’re actively hiring for right now. Even if you don’t
+          fit one perfectly, you’re still welcome to apply.
+        </p>
+      </div>
+      <div className="careers-roles">
+        <article className="careers-role">
+          <div>
+            <div className="careers-meta">
+              <span className="careers-pill">Internship</span>
+              <span className="careers-pill">On site</span>
+              <span className="careers-pill">Indore</span>
+            </div>
+            <h3>Design Intern</h3>
+            <p>
+              Supports visual and digital design work across brands, interfaces and social content
+              while learning to think through craft, detail and communication.
+            </p>
+          </div>
+          <a className="careers-link" href="#application-form" onClick={(e) => { e.preventDefault(); document.getElementById('application-form')?.scrollIntoView({ behavior: 'smooth' }); }}>Apply for this role</a>
+        </article>
+        <article className="careers-role">
+          <div>
+            <div className="careers-meta">
+              <span className="careers-pill">Internship</span>
+              <span className="careers-pill">On site</span>
+              <span className="careers-pill">Indore</span>
+            </div>
+            <h3>UI/UX Design Intern</h3>
+            <p>
+              Helps shape thoughtful product experiences by working on wireframes, flows, visual
+              systems and interface details across digital products.
+            </p>
+          </div>
+          <a className="careers-link" href="#application-form" onClick={(e) => { e.preventDefault(); document.getElementById('application-form')?.scrollIntoView({ behavior: 'smooth' }); }}>Apply for this role</a>
+        </article>
+        <article className="careers-role">
+          <div>
+            <div className="careers-meta">
+              <span className="careers-pill">Internship</span>
+              <span className="careers-pill">On site</span>
+              <span className="careers-pill">Indore</span>
+            </div>
+            <h3>Frontend Development Intern</h3>
+            <p>
+              Assists in turning design into responsive interfaces while learning modern front end
+              practices, clean structure and production thinking.
+            </p>
+          </div>
+          <a className="careers-link" href="#application-form" onClick={(e) => { e.preventDefault(); document.getElementById('application-form')?.scrollIntoView({ behavior: 'smooth' }); }}>Apply for this role</a>
+        </article>
+        <article className="careers-role">
+          <div>
+            <div className="careers-meta">
+              <span className="careers-pill">Internship</span>
+              <span className="careers-pill">On site</span>
+              <span className="careers-pill">Indore</span>
+            </div>
+            <h3>Content Writing Intern</h3>
+            <p>
+              Works on brand copy, website content and communication tasks with a focus on clarity,
+              tone and sharp thinking.
+            </p>
+          </div>
+          <a className="careers-link" href="#application-form" onClick={(e) => { e.preventDefault(); document.getElementById('application-form')?.scrollIntoView({ behavior: 'smooth' }); }}>Apply for this role</a>
+        </article>
+        <article className="careers-role">
+          <div>
+            <div className="careers-meta">
+              <span className="careers-pill">Internship</span>
+              <span className="careers-pill">On site</span>
+              <span className="careers-pill">Indore</span>
+            </div>
+            <h3>Marketing Intern</h3>
+            <p>
+              Supports campaigns, research, brand communication and execution while learning how
+              strategy and creativity come together in real projects.
+            </p>
+          </div>
+          <a className="careers-link" href="#application-form" onClick={(e) => { e.preventDefault(); document.getElementById('application-form')?.scrollIntoView({ behavior: 'smooth' }); }}>Apply for this role</a>
+        </article>
+        <article className="careers-role">
+          <div>
+            <div className="careers-meta">
+              <span className="careers-pill">Internship</span>
+              <span className="careers-pill">On site</span>
+              <span className="careers-pill">Indore</span>
+            </div>
+            <h3>General Application</h3>
+            <p>
+              If you think you belong here but the right title is missing, tell us who you are,
+              what you want to learn and how you would like to contribute.
+            </p>
+          </div>
+          <a className="careers-link" href="#application-form" onClick={(e) => { e.preventDefault(); document.getElementById('application-form')?.scrollIntoView({ behavior: 'smooth' }); }}>Apply anyway</a>
+        </article>
+      </div>
+    </div>
+  </section>
+  <section className="careers-section border-top container">
+    <div className="careers-grid-2 innerContainer">
+      <div>
+        <p className="careers-eyebrow">How it works</p>
+        <p className="careers-note">
+          Keep it honest, clear and direct. We care more about how you think, learn and approach
+          work than how polished your resume looks.
+        </p>
+      </div>
+      <div className="careers-process">
+        <div className="careers-process-item">
+          <div className="careers-process-number">01</div>
+          <div className="careers-process-copy">
+            <p>
+              Fill the application with the basics and tell us what internship role or kind of work
+              you are interested in.
+            </p>
+          </div>
+        </div>
+        <div className="careers-process-item">
+          <div className="careers-process-number">02</div>
+          <div className="careers-process-copy">
+            <p>
+              Share your work, portfolio, links or anything else that helps us understand your
+              thinking, potential and intent.
+            </p>
+          </div>
+        </div>
+        <div className="careers-process-item">
+          <div className="careers-process-number">03</div>
+          <div className="careers-process-copy">
+            <p>
+              If there is a fit, we will reach out for the next conversation. No unnecessary drama,
+              just a real process.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section id="application-form" className="careers-section careers-form-section container">
+    <div className="careers-grid-2 innerContainer">
+      <div className="careers-sticky">
+        <p className="careers-eyebrow">Apply now</p>
+        <h2>Tell us a bit about yourself.</h2>
+        <p className="careers-note">
+          This form is designed as a front end layout. Connect it to your own backend,
+          Formspree, Web3Forms or any submission flow you prefer.
+        </p>
+      </div>
+      <form className="careers-form" action="#" method="post" encType="multipart/form-data">
+        <div className="careers-form-row">
+          <div className="careers-field">
+            <label htmlFor="firstName">First name</label>
+            <input id="firstName" name="firstName" type="text" placeholder="John" required="" />
+          </div>
+          <div className="careers-field">
+            <label htmlFor="lastName">Last name</label>
+            <input id="lastName" name="lastName" type="text" placeholder="Doe" required="" />
+          </div>
+        </div>
+        <div className="careers-form-row">
+          <div className="careers-field">
+            <label htmlFor="email">Email address</label>
+            <input id="email" name="email" type="email" placeholder="you@example.com" required="" />
+          </div>
+          <div className="careers-field">
+            <label htmlFor="phone">Phone number</label>
+            <input id="phone" name="phone" type="tel" placeholder="+91 98XXXXXXXX" required="" />
+          </div>
+        </div>
+        <div className="careers-form-row">
+          <div className="careers-field">
+            <label htmlFor="role">Role you are applying for</label>
+            <select id="role" name="role" required="">
+              <option value="">Select a role</option>
+              <option value="design-intern">Design Intern</option>
+              <option value="ui-ux-design-intern">UI/UX Design Intern</option>
+              <option value="frontend-development-intern">Frontend Development Intern</option>
+              <option value="content-writing-intern">Content Writing Intern</option>
+              <option value="marketing-intern">Marketing Intern</option>
+              <option value="general-application">General Application</option>
+            </select>
+          </div>
+          <div className="careers-field">
+            <label htmlFor="experience">Years of experience</label>
+            <select id="experience" name="experience" required="">
+              <option value="">Select</option>
+              <option value="0">Fresher</option>
+              <option value="0-1">0 to 1 years</option>
+            </select>
+          </div>
+        </div>
+        <div className="careers-field">
+          <label htmlFor="portfolio">Portfolio / LinkedIn / relevant link</label>
+          <input id="portfolio" name="portfolio" type="url" placeholder="https://" />
+        </div>
+        <div className="careers-field">
+          <label htmlFor="resume">Resume / CV</label>
+          <input id="resume" name="resume" type="file" />
+          <p className="careers-filehint">Accepted format can be defined by your backend. Usually PDF is best.</p>
+        </div>
+        <div className="careers-field">
+          <label htmlFor="message">Why do you want to intern with us?</label>
+          <textarea id="message" name="message" placeholder="Tell us how you think, what kind of work excites you, what you want to learn, and why you think you'd be a fit."></textarea>
+        </div>
+        <label className="careers-checkbox" htmlFor="consent">
+          <input id="consent" name="consent" type="checkbox" required="" />
+          <span className="careers-legal">
+            I confirm that the information shared here is accurate and I am okay with being
+            contacted regarding this application.
+          </span>
+        </label>
+        <div className="careers-submit">
+          <button className="careers-button" type="submit">Submit Application</button>
+        </div>
+      </form>
+    </div>
+        </section>
+        <section className="careers-section container careers-footer-cta">
+          <div className="innerContainer">
+            <p className="careers-eyebrow">Still thinking?</p>
+            <h2>Good work usually starts with one honest message.</h2>
+            <a className="careers-link" href="mailto:hello@designoftime.co.in">hello@designoftime.co.in</a>
+          </div>
+        </section>
+      </div>
+    </>
+  );
+}
