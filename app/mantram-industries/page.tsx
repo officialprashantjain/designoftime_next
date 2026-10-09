@@ -101,7 +101,7 @@ export default function mantramindustriesPage() {
                   <div data-anchor="false" data-color="000000" className="item Desktop Full align-Top  mal-0 mar-0" style={{backgroundColor: '#EEEEEE'}} data-theme-color="#FFFEF8">
                     <div className="contentContainer">
                       <div className="imageContainer">
-                        <video className="lazyload" data-src="/assets/Project-images/Mantram/Mantram-Scroll.mp4" muted autoPlay loop playsInline preload="none">
+                        <video className="lazyload" data-src="/assets/Project-images/Mantram/video3.mp4" muted autoPlay loop playsInline preload="none">
                         </video>
                       </div>
                     </div>
@@ -126,7 +126,7 @@ export default function mantramindustriesPage() {
                   <div data-anchor="false" data-color="000000" className="item Desktop Full align-Top  mal-0 mar-0" style={{backgroundColor: '#EEEEEE'}} data-theme-color="#FFFEF8">
                     <div className="contentContainer">
                       <div className="imageContainer">
-                        <img className="lazyload" data-src="/assets/Project-images/Mantram/Banner.png" muted autoPlay loop playsInline preload="none" />
+                        <img className="lazyload" data-src="/assets/Project-images/Mantram/Banner.png" />
                       </div>
                     </div>
                   </div>
@@ -150,7 +150,7 @@ export default function mantramindustriesPage() {
                   <div data-anchor="false" data-color="000000" className="item Mobile Portrait Medium align-Top  mal-0 mar-0" style={{backgroundColor: '#EEEEEE'}} data-theme-color="#FFFEF8">
                     <div className="contentContainer">
                       <div className="imageContainer">
-                        <video className="lazyload" data-src="/assets/Project-images/Mantram/Mobile-record.mp4" muted autoPlay loop playsInline preload="none">
+                        <video className="lazyload" data-src="/assets/Project-images/Mantram/video-potrait.mp4" muted autoPlay loop playsInline preload="none">
                         </video>
                       </div>
                     </div>

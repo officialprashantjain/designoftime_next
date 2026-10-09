@@ -1,0 +1,245 @@
+path,type,used_in,original_size,optimized_size,saved_mb,saved_percent,preset_used,scaling_used,decision,processing_time_ms
+public/assets/Project-images/Mantram/video3.mp4,video,/mantram-industries,326399786,8211714,303.44779205322266,97.48415460051802,slow,true,optimized,30632
+public/assets/Project-images/Mantram/house1.mp4,video,None,284909539,11560117,260.68632316589355,95.9425307272706,slow,true,optimized,23057
+assets/Project-images/Mantram/house1.mp4,video,None,284909539,11560117,260.68632316589355,95.9425307272706,slow,true,optimized,35831
+public/assets/Project-images/everlend/scroll-hero.mp4,video,/everlend,71140587,55999027,14.440116882324219,21.283996433709493,medium,false,optimized,98837
+public/assets/Project-images/Mantram/video-potrait.mp4,video,/mantram-industries,16085752,2246202,13.198423385620117,86.03607714454382,slow,false,optimized,8219
+assets/Project-images/Mantram/video-potrait.mp4,video,/mantram-industries,16085752,2250691,13.19414234161377,86.00817046041739,slow,false,optimized,9414
+public/assets/Project-images/Orange-chowk/oc_hero-image.png,image,/orange-chowk,14586412,4742661,9.38773250579834,67.48576003475016,sharp-default,false,optimized,9435
+assets/Project-images/Orange-chowk/oc_hero-image.png,image,/orange-chowk,14586412,4742661,9.38773250579834,67.48576003475016,sharp-default,false,optimized,7529
+public/assets/Project-images/Radisson-Blu/rb_hero-image.png,image,/radisson-blu,13190021,4374461,8.407173156738281,66.8350717561405,sharp-default,false,optimized,5282
+assets/Project-images/Radisson-Blu/rb_hero-image.png,image,/radisson-blu,13190021,4374461,8.407173156738281,66.8350717561405,sharp-default,false,optimized,5338
+public/assets/Project-images/palmyrion/palm_hero-image.png,image,/palmyrion,13101430,5098599,7.632094383239746,61.083645067752144,sharp-default,false,optimized,3243
+assets/Project-images/palmyrion/palm_hero-image.png,image,/palmyrion,13101430,5098599,7.632094383239746,61.083645067752144,sharp-default,false,optimized,3149
+public/assets/Project-images/Radisson-Blu/rb_hero-image-4.png,image,/radisson-blu,10097341,2897482,6.866320610046387,71.30450481963518,sharp-default,false,optimized,3041
+assets/Project-images/Radisson-Blu/rb_hero-image-4.png,image,/radisson-blu,10097341,2897482,6.866320610046387,71.30450481963518,sharp-default,false,optimized,3043
+public/assets/Project-images/metro/metro_hero-image.png,image,/metro-chem,8254421,1982302,5.981558799743652,75.98496611694509,sharp-default,false,optimized,2337
+assets/Project-images/metro/metro_hero-image.png,image,/metro-chem,8254421,1982302,5.981558799743652,75.98496611694509,sharp-default,false,optimized,2441
+public/assets/Project-images/pakawalla/pk_hero-image.png,image,/pakawalla,8853462,3145083,5.443934440612793,64.47623539808495,sharp-default,false,optimized,3513
+assets/Project-images/pakawalla/pk_hero-image.png,image,/pakawalla,8853462,3145083,5.443934440612793,64.47623539808495,sharp-default,false,optimized,3425
+assets/Project-images/Mantram/video2.mp4,video,None,5850014,825665,4.791592597961426,85.88610215291791,medium,true,optimized,3481
+public/assets/Project-images/pakawalla/Banner.png,image,"/alma, /mantra_infra, /mantram-industries, /pakawalla, /palmyrion, /twentyone",7221769,2395286,4.602892875671387,66.83242014525804,sharp-default,false,optimized,1932
+assets/Project-images/pakawalla/Banner.png,image,"/alma, /mantra_infra, /mantram-industries, /pakawalla, /palmyrion, /twentyone",7221769,2395286,4.602892875671387,66.83242014525804,sharp-default,false,optimized,2000
+public/assets/Project-images/nsd/nsd_hero-image.png,image,None,6809384,2181421,4.413569450378418,67.96448841774821,sharp-default,false,optimized,2284
+assets/Project-images/nsd/nsd_hero-image.png,image,None,6809384,2181421,4.413569450378418,67.96448841774821,sharp-default,false,optimized,2390
+public/assets/Project-images/Mantram/mi_hero-image.png,image,/mantram-industries,5945382,1367674,4.365642547607422,76.99602817783617,sharp-default,false,optimized,2437
+assets/Project-images/Mantram/mi_hero-image.png,image,/mantram-industries,5945382,1367674,4.365642547607422,76.99602817783617,sharp-default,false,optimized,2538
+public/assets/Project-images/alma/aj_hero-image.png,image,/alma,7690965,3243647,4.241292953491211,57.82522739344152,sharp-default,false,optimized,3215
+assets/Project-images/alma/aj_hero-image.png,image,/alma,7690965,3243647,4.241292953491211,57.82522739344152,sharp-default,false,optimized,3221
+public/assets/Project-images/Mantram/Banner.png,image,"/alma, /mantra_infra, /mantram-industries, /pakawalla, /palmyrion, /twentyone",5047223,860380,3.992884635925293,82.95339833409382,sharp-default,false,optimized,1089
+assets/Project-images/Mantram/Banner.png,image,"/alma, /mantra_infra, /mantram-industries, /pakawalla, /palmyrion, /twentyone",5047223,860380,3.992884635925293,82.95339833409382,sharp-default,false,optimized,1145
+public/assets/Project-images/matrix/mfc_hero-image.png,image,/matrix,6093450,2018930,3.8857650756835938,66.86720987289631,sharp-default,false,optimized,1596
+assets/Project-images/matrix/mfc_hero-image.png,image,/matrix,6093450,2018930,3.8857650756835938,66.86720987289631,sharp-default,false,optimized,1733
+public/assets/images/hm-hero-mobile-non-retina.mp4,video,src/sections/home/HeroSection.jsx,4384773,560259,3.647340774536133,87.22262247099223,fast,false,optimized,1207
+public/assets/Project-images/mantra/mantra_hero-image.png,image,/mantra_infra,4686242,889682,3.6206817626953125,81.0150222715771,sharp-default,false,optimized,824
+assets/Project-images/mantra/mantra_hero-image.png,image,/mantra_infra,4686242,889682,3.6206817626953125,81.0150222715771,sharp-default,false,optimized,972
+public/assets/Project-images/Mantram/mi_fullscreen_img.jpg,image,/mantram-industries,4365932,862631,3.341008186340332,80.24176739353705,sharp-default,false,optimized,591
+assets/Project-images/Mantram/mi_fullscreen_img.jpg,image,/mantram-industries,4365932,862631,3.341008186340332,80.24176739353705,sharp-default,false,optimized,486
+public/assets/Project-images/twenty_one/21_hero-image.png,image,/twentyone,5281133,1830006,3.2912511825561523,65.34823114661191,sharp-default,false,optimized,1699
+assets/Project-images/twenty_one/21_hero-image.png,image,/twentyone,5281133,1830006,3.2912511825561523,65.34823114661191,sharp-default,false,optimized,1666
+public/assets/Project-images/palmyrion/palm_hero-image_portrait.png,image,/palmyrion,5325547,1928071,3.2400856018066406,63.795812899595106,sharp-default,false,optimized,1294
+assets/Project-images/palmyrion/palm_hero-image_portrait.png,image,/palmyrion,5325547,1928071,3.2400856018066406,63.795812899595106,sharp-default,false,optimized,1252
+public/assets/Project-images/Radisson-Blu/rb_hero-image_portrait.png,image,/radisson-blu,4860731,1592450,3.116875648498535,67.23846680674161,sharp-default,false,optimized,3180
+assets/Project-images/Radisson-Blu/rb_hero-image_portrait.png,image,/radisson-blu,4860731,1592450,3.116875648498535,67.23846680674161,sharp-default,false,optimized,3176
+public/assets/Project-images/apsara/case-image-1.jpg,image,/apsara,3736717,558352,3.031125068664551,85.05768566364539,sharp-default,false,optimized,418
+assets/Project-images/apsara/case-image-1.jpg,image,/apsara,3736717,558352,3.031125068664551,85.05768566364539,sharp-default,false,optimized,408
+public/assets/Project-images/Orange-chowk/oc_hero-image_portrait.png,image,/orange-chowk,4690624,1662397,2.887942314147949,64.55915033905937,sharp-default,false,optimized,2201
+assets/Project-images/Orange-chowk/oc_hero-image_portrait.png,image,/orange-chowk,4690624,1662397,2.887942314147949,64.55915033905937,sharp-default,false,optimized,2026
+public/assets/Project-images/nsd/nsd_hero-image.jpg,image,/nsd-care,2763155,298056,2.3509016036987305,89.21320012811442,sharp-default,false,optimized,338
+assets/Project-images/nsd/nsd_hero-image.jpg,image,/nsd-care,2763155,298056,2.3509016036987305,89.21320012811442,sharp-default,false,optimized,353
+public/assets/Project-images/pakawalla/pk_hero-image_portrait.png,image,/pakawalla,3552922,1154078,2.2877159118652344,67.5174968659599,sharp-default,false,optimized,1283
+assets/Project-images/pakawalla/pk_hero-image_portrait.png,image,/pakawalla,3552922,1154078,2.2877159118652344,67.5174968659599,sharp-default,false,optimized,1177
+public/assets/Project-images/palmyrion/Banner.png,image,"/alma, /mantra_infra, /mantram-industries, /pakawalla, /palmyrion, /twentyone",4109873,1776694,2.225092887878418,56.77009970867712,sharp-default,false,optimized,1886
+assets/Project-images/palmyrion/Banner.png,image,"/alma, /mantra_infra, /mantram-industries, /pakawalla, /palmyrion, /twentyone",4109873,1776694,2.225092887878418,56.77009970867712,sharp-default,false,optimized,1892
+public/assets/Project-images/Radisson-Blu/rb_hero-image-5.png,image,/radisson-blu,3272097,960613,2.2044029235839844,70.64228230397815,sharp-default,false,optimized,2514
+assets/Project-images/Radisson-Blu/rb_hero-image-5.png,image,/radisson-blu,3272097,960613,2.2044029235839844,70.64228230397815,sharp-default,false,optimized,2535
+public/assets/Project-images/alma/aj_hero-image_portrait.png,image,/alma,3666688,1362631,2.197319984436035,62.837552581512256,sharp-default,false,optimized,1494
+assets/Project-images/alma/aj_hero-image_portrait.png,image,/alma,3666688,1362631,2.197319984436035,62.837552581512256,sharp-default,false,optimized,1525
+public/assets/Project-images/Mantram/mi_hero-image_portrait.png,image,/mantram-industries,2673735,542596,2.032412528991699,79.70644061584264,sharp-default,false,optimized,1108
+assets/Project-images/Mantram/mi_hero-image_portrait.png,image,/mantram-industries,2673735,542596,2.032412528991699,79.70644061584264,sharp-default,false,optimized,1120
+public/assets/Project-images/matrix/mfc_hero-image_portrait.png,image,/matrix,2825834,895570,1.8408432006835938,68.307763301029,sharp-default,false,optimized,710
+assets/Project-images/matrix/mfc_hero-image_portrait.png,image,/matrix,2825834,895570,1.8408432006835938,68.307763301029,sharp-default,false,optimized,735
+public/assets/Project-images/twenty_one/21_hero-image_portrait.png,image,/twentyone,2747375,880706,1.7801942825317383,67.94372810409936,sharp-default,false,optimized,919
+assets/Project-images/twenty_one/21_hero-image_portrait.png,image,/twentyone,2747375,880706,1.7801942825317383,67.94372810409936,sharp-default,false,optimized,832
+public/assets/Project-images/Radisson-Blu/rb_hero-image-3.png,image,/radisson-blu,2285931,667675,1.5432891845703125,70.79198803463447,sharp-default,false,optimized,1276
+assets/Project-images/Radisson-Blu/rb_hero-image-3.png,image,/radisson-blu,2285931,667675,1.5432891845703125,70.79198803463447,sharp-default,false,optimized,1225
+public/assets/Project-images/Radisson-Blu/rb_hero-image-2.png,image,/radisson-blu,2324026,713957,1.5354814529418945,69.27930238301981,sharp-default,false,optimized,1488
+assets/Project-images/Radisson-Blu/rb_hero-image-2.png,image,/radisson-blu,2324026,713957,1.5354814529418945,69.27930238301981,sharp-default,false,optimized,1443
+public/assets/Project-images/hot-ticket/ht_hero-image.png,image,/hot-ticket,1716403,467246,1.191288948059082,72.7776052593709,sharp-default,false,optimized,1419
+assets/Project-images/hot-ticket/ht_hero-image.png,image,/hot-ticket,1716403,467246,1.191288948059082,72.7776052593709,sharp-default,false,optimized,1404
+public/assets/Project-images/apsara/at_hero-image.jpg,image,/apsara,1237682,187302,1.0017204284667969,84.86671051207014,sharp-default,false,optimized,282
+assets/Project-images/apsara/at_hero-image.jpg,image,/apsara,1237682,187302,1.0017204284667969,84.86671051207014,sharp-default,false,optimized,286
+public/assets/Project-images/nsd/nsd_hero-image_portrait.jpg,image,/nsd-care,1181167,146982,0.9862756729125977,87.55620500742063,sharp-default,false,optimized,137
+assets/Project-images/nsd/nsd_hero-image_portrait.jpg,image,/nsd-care,1181167,146982,0.9862756729125977,87.55620500742063,sharp-default,false,optimized,140
+public/assets/Project-images/nsd/nsd_fullscreen_img.jpg,image,/nsd-care,1321124,377884,0.8995437622070312,71.39678031736612,sharp-default,false,optimized,299
+assets/Project-images/nsd/nsd_fullscreen_img.jpg,image,/nsd-care,1321124,377884,0.8995437622070312,71.39678031736612,sharp-default,false,optimized,304
+public/assets/Project-images/mantra/Banner.png,image,"/alma, /mantra_infra, /mantram-industries, /pakawalla, /palmyrion, /twentyone",1042492,270772,0.7359695434570312,74.02646734938973,sharp-default,false,optimized,579
+assets/Project-images/mantra/Banner.png,image,"/alma, /mantra_infra, /mantram-industries, /pakawalla, /palmyrion, /twentyone",1042492,270772,0.7359695434570312,74.02646734938973,sharp-default,false,optimized,577
+public/assets/thumbnails/Mantram_Portrait.jpg,image,"/mantra_infra, /matrix, /metro-chem, , /work",694419,25681,0.6377582550048828,96.30180049797025,sharp-default,false,optimized,42
+assets/thumbnails/Mantram_Portrait.jpg,image,"/mantra_infra, /matrix, /metro-chem, , /work",694419,25681,0.6377582550048828,96.30180049797025,sharp-default,false,optimized,44
+public/assets/Project-images/mantra/mantra_hero-image_portrait.png,image,/mantra_infra,778110,164835,0.584864616394043,78.81597717546363,sharp-default,false,optimized,185
+assets/Project-images/mantra/mantra_hero-image_portrait.png,image,/mantra_infra,778110,164835,0.584864616394043,78.81597717546363,sharp-default,false,optimized,206
+public/assets/Project-images/everlend/elm_hero-image.png,image,/everlend,897684,297219,0.5726480484008789,66.89046479607524,sharp-default,false,optimized,812
+assets/Project-images/everlend/elm_hero-image.png,image,/everlend,897684,297219,0.5726480484008789,66.89046479607524,sharp-default,false,optimized,762
+public/assets/Project-images/hot-ticket/ht-content-02.jpg,image,/hot-ticket,821699,235482,0.5590600967407227,71.34206077894703,sharp-default,false,optimized,734
+assets/Project-images/hot-ticket/ht-content-02.jpg,image,/hot-ticket,821699,235482,0.5590600967407227,71.34206077894703,sharp-default,false,optimized,719
+public/assets/Project-images/hot-ticket/ht_hero-image_portrait.png,image,/hot-ticket,815948,259061,0.5310888290405273,68.25030516650571,sharp-default,false,optimized,739
+assets/Project-images/hot-ticket/ht_hero-image_portrait.png,image,/hot-ticket,815948,259061,0.5310888290405273,68.25030516650571,sharp-default,false,optimized,735
+public/assets/thumbnails/nsd_Portrait.jpg,image,"/apsara, /everlend, /matrix, /nexxara, , /services, /work",591245,66996,0.49996280670166016,88.66865681739381,sharp-default,false,optimized,52
+assets/thumbnails/nsd_Portrait.jpg,image,"/apsara, /everlend, /matrix, /nexxara, , /services, /work",591245,66996,0.49996280670166016,88.66865681739381,sharp-default,false,optimized,57
+public/assets/thumbnails/mantram_Landscape.jpg,image,"/mantra_infra, /matrix, /metro-chem, , /work",513665,26696,0.46440982818603516,94.80283842582227,sharp-default,false,optimized,30
+assets/thumbnails/mantram_Landscape.jpg,image,"/mantra_infra, /matrix, /metro-chem, , /work",513665,26696,0.46440982818603516,94.80283842582227,sharp-default,false,optimized,32
+public/assets/Project-images/twenty_one/Banner.png,image,"/alma, /mantra_infra, /mantram-industries, /pakawalla, /palmyrion, /twentyone",1897959,1422763,0.4531822204589844,25.037211025106444,sharp-default,false,optimized,1332
+assets/Project-images/twenty_one/Banner.png,image,"/alma, /mantra_infra, /mantram-industries, /pakawalla, /palmyrion, /twentyone",1897959,1422763,0.4531822204589844,25.037211025106444,sharp-default,false,optimized,1237
+public/assets/thumbnails/aj_Portrait.jpg,image,", /pakawalla, /palmyrion, /work",539227,82372,0.43569087982177734,84.72405869884112,sharp-default,false,optimized,56
+assets/thumbnails/aj_Portrait.jpg,image,", /pakawalla, /palmyrion, /work",539227,82372,0.43569087982177734,84.72405869884112,sharp-default,false,optimized,58
+public/assets/Project-images/apsara/at_hero-image_portrait.jpg,image,/apsara,537060,86738,0.4294605255126953,83.84947678099282,sharp-default,false,optimized,115
+assets/Project-images/apsara/at_hero-image_portrait.jpg,image,/apsara,537060,86738,0.4294605255126953,83.84947678099282,sharp-default,false,optimized,113
+public/assets/Project-images/hot-ticket/ht-typo.jpg,image,/hot-ticket,759383,326237,0.41308021545410156,57.03920156232098,sharp-default,false,optimized,388
+assets/Project-images/hot-ticket/ht-typo.jpg,image,/hot-ticket,759383,326237,0.41308021545410156,57.03920156232098,sharp-default,false,optimized,374
+public/assets/people/Sujita.png,image,/about,576468,159216,0.3979225158691406,72.3807739544953,sharp-default,false,optimized,594
+public/assets/thumbnails/nsd_Landscape.jpg,image,"/apsara, /everlend, /matrix, /nexxara, , /services, /work",470982,64473,0.3876771926879883,86.31094181943259,sharp-default,false,optimized,44
+assets/thumbnails/nsd_Landscape.jpg,image,"/apsara, /everlend, /matrix, /nexxara, , /services, /work",470982,64473,0.3876771926879883,86.31094181943259,sharp-default,false,optimized,46
+public/assets/people/subham.png,image,/about,501373,157605,0.32784271240234375,68.56531963228973,sharp-default,false,optimized,499
+public/assets/thumbnails/mif_Portrait.jpg,image,"/mantram-industries, /nexxara, , /work",417732,76914,0.3250293731689453,81.58771652638534,sharp-default,false,optimized,55
+assets/thumbnails/mif_Portrait.jpg,image,"/mantram-industries, /nexxara, , /work",417732,76914,0.3250293731689453,81.58771652638534,sharp-default,false,optimized,58
+public/assets/images/hero-illustration.png,image,None,632348,330570,0.2877979278564453,47.72340546661016,sharp-default,false,optimized,391
+public/assets/Project-images/alma/Banner.png,image,"/alma, /mantra_infra, /mantram-industries, /pakawalla, /palmyrion, /twentyone",380344,97405,0.26983165740966797,74.39028879119954,sharp-default,false,optimized,310
+assets/Project-images/alma/Banner.png,image,"/alma, /mantra_infra, /mantram-industries, /pakawalla, /palmyrion, /twentyone",380344,97405,0.26983165740966797,74.39028879119954,sharp-default,false,optimized,310
+public/assets/images/26f35028-3fd2-4718-8e52-d09a034f4961.jpeg,image,src/data/projects.js,311632,28724,0.2698020935058594,90.78271807773271,sharp-default,false,optimized,29
+public/assets/thumbnails/pw_Portrait.jpg,image,"/alma, /hot-ticket, /orange-chowk, , /palmyrion, /radisson-blu, /services, /twentyone, /work",317292,50474,0.2544574737548828,84.09225571397954,sharp-default,false,optimized,42
+assets/thumbnails/pw_Portrait.jpg,image,"/alma, /hot-ticket, /orange-chowk, , /palmyrion, /radisson-blu, /services, /twentyone, /work",317292,50474,0.2544574737548828,84.09225571397954,sharp-default,false,optimized,43
+public/assets/thumbnails/aj_Landscape.jpg,image,", /pakawalla, /palmyrion, /work",294191,36397,0.2458515167236328,87.62810555047571,sharp-default,false,optimized,32
+assets/thumbnails/aj_Landscape.jpg,image,", /pakawalla, /palmyrion, /work",294191,36397,0.2458515167236328,87.62810555047571,sharp-default,false,optimized,33
+public/assets/people/vaibhav.png,image,/about,411696,154716,0.24507522583007812,62.41984376821732,sharp-default,false,optimized,263
+public/assets/Project-images/nexxara/homepage-mobile-1.jpg,image,"/alma, /mantram-industries, /matrix, /orange-chowk, /pakawalla",298003,51956,0.2346487045288086,82.56527618849475,sharp-default,false,optimized,39
+assets/Project-images/nexxara/homepage-mobile-1.jpg,image,"/alma, /mantram-industries, /matrix, /orange-chowk, /pakawalla",298003,51956,0.2346487045288086,82.56527618849475,sharp-default,false,optimized,42
+public/assets/thumbnails/mfc_Portrait.jpg,image,"/apsara, /mantram-industries, /metro-chem, /nsd-care, , /services, /work",300042,55661,0.23305988311767578,81.44893048306571,sharp-default,false,optimized,45
+assets/thumbnails/mfc_Portrait.jpg,image,"/apsara, /mantram-industries, /metro-chem, /nsd-care, , /services, /work",300042,55661,0.23305988311767578,81.44893048306571,sharp-default,false,optimized,46
+public/assets/thumbnails/metro_Portrait.jpg,image,"/mantram-industries, /matrix, , /work",292930,50957,0.23076343536376953,82.60437647219472,sharp-default,false,optimized,46
+assets/thumbnails/metro_Portrait.jpg,image,"/mantram-industries, /matrix, , /work",292930,50957,0.23076343536376953,82.60437647219472,sharp-default,false,optimized,49
+public/assets/Project-images/everlend/elm_hero-image_portrait.png,image,/everlend,332988,94454,0.22748374938964844,71.6344132521292,sharp-default,false,optimized,274
+assets/Project-images/everlend/elm_hero-image_portrait.png,image,/everlend,332988,94454,0.22748374938964844,71.6344132521292,sharp-default,false,optimized,262
+public/assets/people/prakhar.jpg,image,/about,293760,57232,0.2255706787109375,80.51742919389979,sharp-default,false,optimized,35
+assets/people/prakhar.jpg,image,/about,293760,57232,0.2255706787109375,80.51742919389979,sharp-default,false,optimized,36
+public/assets/thumbnails/mif_Landscape.jpg,image,"/mantram-industries, /nexxara, , /work",284852,51350,0.2226848602294922,81.97309480010672,sharp-default,false,optimized,39
+assets/thumbnails/mif_Landscape.jpg,image,"/mantram-industries, /nexxara, , /work",284852,51350,0.2226848602294922,81.97309480010672,sharp-default,false,optimized,40
+public/assets/people/aditi.png,image,None,606931,388452,0.2083578109741211,35.997337423858724,sharp-default,false,optimized,350
+public/assets/people/ayush.jpg,image,/about,269508,55492,0.2041015625,79.40988764711993,sharp-default,false,optimized,32
+assets/people/ayush.jpg,image,/about,269508,55492,0.2041015625,79.40988764711993,sharp-default,false,optimized,33
+public/assets/thumbnails/pw_Landscape.jpg,image,"/alma, /hot-ticket, /orange-chowk, , /palmyrion, /radisson-blu, /services, /twentyone, /work",250938,39484,0.2016582489013672,84.26543608381353,sharp-default,false,optimized,32
+assets/thumbnails/pw_Landscape.jpg,image,"/alma, /hot-ticket, /orange-chowk, , /palmyrion, /radisson-blu, /services, /twentyone, /work",250938,39484,0.2016582489013672,84.26543608381353,sharp-default,false,optimized,35
+public/assets/thumbnails/21_Portrait.jpg,image,"/alma, /hot-ticket, /orange-chowk, , /pakawalla, /palmyrion, /work",215115,26076,0.1802816390991211,87.87811170769123,sharp-default,false,optimized,32
+assets/thumbnails/21_Portrait.jpg,image,"/alma, /hot-ticket, /orange-chowk, , /pakawalla, /palmyrion, /work",215115,26076,0.1802816390991211,87.87811170769123,sharp-default,false,optimized,32
+public/assets/people/prakrati.jpg,image,/about,222192,36960,0.1766510009765625,83.36573774033269,sharp-default,false,optimized,24
+assets/people/prakrati.jpg,image,/about,222192,36960,0.1766510009765625,83.36573774033269,sharp-default,false,optimized,25
+public/assets/people/shikhar.jpg,image,/about,222384,41790,0.1722278594970703,81.2081804446363,sharp-default,false,optimized,26
+assets/people/shikhar.jpg,image,/about,222384,41790,0.1722278594970703,81.2081804446363,sharp-default,false,optimized,26
+public/assets/Project-images/pakawalla/homepage-mobile-1.jpg,image,"/alma, /mantram-industries, /matrix, /orange-chowk, /pakawalla",248611,69183,0.17111587524414062,72.1721886803078,sharp-default,false,optimized,56
+assets/Project-images/pakawalla/homepage-mobile-1.jpg,image,"/alma, /mantram-industries, /matrix, /orange-chowk, /pakawalla",248611,69183,0.17111587524414062,72.1721886803078,sharp-default,false,optimized,60
+public/assets/images/Thumbnail_-_Image_-_Landscape.jpg,image,"src/data/projects.js, src/sections/about/MondayteersSection.jsx",194764,21357,0.1653738021850586,89.0344211455916,sharp-default,false,optimized,25
+public/assets/thumbnails/mfc_Landscape.jpg,image,"/apsara, /mantram-industries, /metro-chem, /nsd-care, , /services, /work",211499,43965,0.1597728729248047,79.21266767218758,sharp-default,false,optimized,34
+assets/thumbnails/mfc_Landscape.jpg,image,"/apsara, /mantram-industries, /metro-chem, /nsd-care, , /services, /work",211499,43965,0.1597728729248047,79.21266767218758,sharp-default,false,optimized,38
+public/assets/Project-images/Mantram/homepage-mobile-2.jpg,image,/mantram-industries,213634,54618,0.15164947509765625,74.43384479998501,sharp-default,false,optimized,43
+assets/Project-images/Mantram/homepage-mobile-2.jpg,image,/mantram-industries,213634,54618,0.15164947509765625,74.43384479998501,sharp-default,false,optimized,47
+public/assets/people/nikhil.jpg,image,/about,174893,22767,0.1450786590576172,86.98232633667442,sharp-default,false,optimized,18
+assets/people/nikhil.jpg,image,/about,174893,22767,0.1450786590576172,86.98232633667442,sharp-default,false,optimized,18
+public/assets/thumbnails/metro_Landscape.jpg,image,"/mantram-industries, /matrix, , /work",181995,35174,0.14001941680908203,80.6730954147092,sharp-default,false,optimized,32
+assets/thumbnails/metro_Landscape.jpg,image,"/mantram-industries, /matrix, , /work",181995,35174,0.14001941680908203,80.6730954147092,sharp-default,false,optimized,32
+public/assets/people/purva.jpg,image,/about,169541,31683,0.1314716339111328,81.31248488566187,sharp-default,false,optimized,22
+assets/people/purva.jpg,image,/about,169541,31683,0.1314716339111328,81.31248488566187,sharp-default,false,optimized,22
+public/assets/images/Thumbnail_-_Video_-_Portrait_-_Big.jpeg,image,src/data/projects.js,284974,148086,0.13054656982421875,48.03525935699397,sharp-default,false,optimized,78
+public/assets/thumbnails/21_Landscape.jpg,image,"/alma, /hot-ticket, /orange-chowk, , /pakawalla, /palmyrion, /work",147933,17996,0.1239175796508789,87.83503342729479,sharp-default,false,optimized,25
+assets/thumbnails/21_Landscape.jpg,image,"/alma, /hot-ticket, /orange-chowk, , /pakawalla, /palmyrion, /work",147933,17996,0.1239175796508789,87.83503342729479,sharp-default,false,optimized,24
+public/assets/thumbnails/nx_Portrait.jpg,image,"/everlend, /mantra_infra, /metro-chem, , /work",152571,23192,0.12338542938232422,84.79920823747632,sharp-default,false,optimized,31
+assets/thumbnails/nx_Portrait.jpg,image,"/everlend, /mantra_infra, /metro-chem, , /work",152571,23192,0.12338542938232422,84.79920823747632,sharp-default,false,optimized,33
+public/assets/people/apoorv.jpg,image,/about,147615,22545,0.11927604675292969,84.7271618737933,sharp-default,false,optimized,17
+assets/people/apoorv.jpg,image,/about,147615,22545,0.11927604675292969,84.7271618737933,sharp-default,false,optimized,18
+public/assets/Project-images/alma/homepage-mobile-1.jpg,image,"/alma, /mantram-industries, /matrix, /orange-chowk, /pakawalla",152373,35294,0.11165523529052734,76.83710368634863,sharp-default,false,optimized,32
+assets/Project-images/alma/homepage-mobile-1.jpg,image,"/alma, /mantram-industries, /matrix, /orange-chowk, /pakawalla",152373,35294,0.11165523529052734,76.83710368634863,sharp-default,false,optimized,32
+public/assets/Project-images/matrix/homepage-mobile-1.jpg,image,"/alma, /mantram-industries, /matrix, /orange-chowk, /pakawalla",159047,42092,0.11153697967529297,73.53486705187775,sharp-default,false,optimized,37
+assets/Project-images/matrix/homepage-mobile-1.jpg,image,"/alma, /mantram-industries, /matrix, /orange-chowk, /pakawalla",159047,42092,0.11153697967529297,73.53486705187775,sharp-default,false,optimized,47
+public/assets/thumbnails/nx_Landscape.jpg,image,"/everlend, /mantra_infra, /metro-chem, , /work",133628,21153,0.10726451873779297,84.17023378333882,sharp-default,false,optimized,25
+assets/thumbnails/nx_Landscape.jpg,image,"/everlend, /mantra_infra, /metro-chem, , /work",133628,21153,0.10726451873779297,84.17023378333882,sharp-default,false,optimized,29
+public/assets/Project-images/nexxara/nex_hero-image.png,image,/nexxara,131641,21779,0.10477256774902344,83.455762262517,sharp-default,false,optimized,340
+assets/Project-images/nexxara/nex_hero-image.png,image,/nexxara,131641,21779,0.10477256774902344,83.455762262517,sharp-default,false,optimized,340
+public/assets/Project-images/hot-ticket/ht-assets-03.jpg,image,/hot-ticket,248675,149714,0.0943765640258789,39.79531517040314,sharp-default,false,optimized,163
+assets/Project-images/hot-ticket/ht-assets-03.jpg,image,/hot-ticket,248675,149714,0.0943765640258789,39.79531517040314,sharp-default,false,optimized,147
+public/assets/Project-images/apsara/case-image-2.jpg,image,None,129201,32366,0.09234905242919922,74.94911030100386,sharp-default,false,optimized,26
+assets/Project-images/apsara/case-image-2.jpg,image,None,129201,32366,0.09234905242919922,74.94911030100386,sharp-default,false,optimized,26
+public/assets/images/0871864f-3af3-4261-b66d-1aaa97256d3c.jpg,image,"src/data/projects.js, src/sections/about/MondayteersSection.jsx",100715,16484,0.08032894134521484,83.63302387926326,sharp-default,false,optimized,25
+public/assets/Project-images/Orange-chowk/homepage-mobile-1.jpg,image,"/alma, /mantram-industries, /matrix, /orange-chowk, /pakawalla",108661,25242,0.07955455780029297,76.76995426141853,sharp-default,false,optimized,67
+assets/Project-images/Orange-chowk/homepage-mobile-1.jpg,image,"/alma, /mantram-industries, /matrix, /orange-chowk, /pakawalla",108661,25242,0.07955455780029297,76.76995426141853,sharp-default,false,optimized,47
+public/assets/Project-images/apsara/case-image-2.png,image,/apsara,113860,40333,0.07012081146240234,64.5766731073248,sharp-default,false,optimized,54
+assets/Project-images/apsara/case-image-2.png,image,/apsara,113860,40333,0.07012081146240234,64.5766731073248,sharp-default,false,optimized,54
+public/assets/images/c9e296b7-6f82-486f-9929-e978f38a7853.jpeg,image,src/sections/about/MondayteersSection.jsx,81766,19103,0.059760093688964844,76.63698847931903,sharp-default,false,optimized,26
+public/assets/thumbnails/oc_Portrait.jpg,image,", /radisson-blu, /services, /work",72408,15513,0.054259300231933594,78.57557176002652,sharp-default,false,optimized,28
+assets/thumbnails/oc_Portrait.jpg,image,", /radisson-blu, /services, /work",72408,15513,0.054259300231933594,78.57557176002652,sharp-default,false,optimized,31
+public/assets/Project-images/nexxara/nex_hero-image_portrait.png,image,/nexxara,61780,7269,0.051985740661621094,88.23405632890903,sharp-default,false,optimized,114
+assets/Project-images/nexxara/nex_hero-image_portrait.png,image,/nexxara,61780,7269,0.051985740661621094,88.23405632890903,sharp-default,false,optimized,118
+public/assets/thumbnails/at_Portrait.jpg,image,"/everlend, /nsd-care, , /work",70850,16612,0.05172538757324219,76.55328158080452,sharp-default,false,optimized,31
+assets/thumbnails/at_Portrait.jpg,image,"/everlend, /nsd-care, , /work",70850,16612,0.05172538757324219,76.55328158080452,sharp-default,false,optimized,31
+public/assets/thumbnails/at_Landscape.jpg,image,"/everlend, /nsd-care, , /work",68794,15712,0.05062294006347656,77.16079890688141,sharp-default,false,optimized,24
+assets/thumbnails/at_Landscape.jpg,image,"/everlend, /nsd-care, , /work",68794,15712,0.05062294006347656,77.16079890688141,sharp-default,false,optimized,26
+public/assets/Project-images/Mantram/homepage-mobile-1.jpg,image,"/alma, /mantram-industries, /matrix, /orange-chowk, /pakawalla",75809,22807,0.05054664611816406,69.91518157474707,sharp-default,false,optimized,39
+assets/Project-images/Mantram/homepage-mobile-1.jpg,image,"/alma, /mantram-industries, /matrix, /orange-chowk, /pakawalla",75809,22807,0.05054664611816406,69.91518157474707,sharp-default,false,optimized,32
+public/assets/thumbnails/oc_Landscape.jpg,image,", /radisson-blu, /services, /work",62323,13513,0.04654884338378906,78.31779599826709,sharp-default,false,optimized,24
+assets/thumbnails/oc_Landscape.jpg,image,", /radisson-blu, /services, /work",62323,13513,0.04654884338378906,78.31779599826709,sharp-default,false,optimized,27
+public/assets/images/Thumbnail_-_Image_-_Landscape-logo.jpeg,image,src/data/projects.js,82040,34010,0.04580497741699219,58.544612384202836,sharp-default,false,optimized,32
+public/assets/thumbnails/rb_Portrait.jpg,image,", /services, /work",61196,13397,0.045584678649902344,78.10804627753448,sharp-default,false,optimized,29
+assets/thumbnails/rb_Portrait.jpg,image,", /services, /work",61196,13397,0.045584678649902344,78.10804627753448,sharp-default,false,optimized,29
+public/assets/Project-images/Orange-chowk/IMG_2302.jpg,image,None,80257,37662,0.04062175750732422,53.07325217738017,sharp-default,false,optimized,87
+assets/Project-images/Orange-chowk/IMG_2302.jpg,image,None,80257,37662,0.04062175750732422,53.07325217738017,sharp-default,false,optimized,63
+public/assets/thumbnails/rb_Landscape.jpg,image,", /services, /work",51598,11689,0.03806018829345703,77.34602116361098,sharp-default,false,optimized,21
+assets/thumbnails/rb_Landscape.jpg,image,", /services, /work",51598,11689,0.03806018829345703,77.34602116361098,sharp-default,false,optimized,24
+public/assets/images/1eac3a48-0d56-45b8-9606-f21cfcd91cf0.jpeg,image,"src/data/projects.js, src/sections/about/MondayteersSection.jsx",51957,22069,0.02850341796875,57.52449140635526,sharp-default,false,optimized,33
+public/assets/images/landing/hm-hero-desktop.png,image,None,57386,28201,0.027832984924316406,50.857351967378804,sharp-default,false,optimized,128
+assets/images/landing/hm-hero-desktop.png,image,None,57386,28201,0.027832984924316406,50.857351967378804,sharp-default,false,optimized,107
+public/assets/people/prashant.jpeg,image,/about,55581,28086,0.026221275329589844,49.468343498677605,sharp-default,false,optimized,22
+public/assets/Project-images/nsd/homepage-mobile-1.jpg,image,"/alma, /mantram-industries, /matrix, /orange-chowk, /pakawalla",44357,44357,0,0,none,false,skipped,0
+public/assets/Project-images/nsd/homepage-mobile-1.png,image,/nsd-care,46996,46996,0,0,none,false,skipped,0
+public/assets/images/Thumbnail_-_Image_-_Landscape.jpeg,image,"src/data/projects.js, src/sections/about/MondayteersSection.jsx",46231,46231,0,0,none,false,skipped,0
+public/assets/images/circle.png,image,public/build/js/main-e03077acdb.js,2034,2034,0,0,none,false,skipped,0
+public/assets/images/landing/hm-hero-mobile.png,image,None,15536,15536,0,0,none,false,skipped,0
+public/assets/images/logo.png,image,src/components/layout/Header.jsx,3021,3021,0,0,none,false,skipped,0
+public/assets/images/trail.png,image,public/build/js/main-e03077acdb.js,1384,1384,0,0,none,false,skipped,0
+public/assets/people/aditi.jpg,image,/about,30499,30499,0,0,none,false,skipped,0
+public/assets/spritesheets/behind_eye.png,image,"public/assets/spritesheets/behind_eye.json, assets/spritesheets/behind_eye.json",2748,2748,0,0,none,false,skipped,0
+public/assets/spritesheets/dot2.png,image,"public/assets/spritesheets/dot2.json, assets/spritesheets/dot2.json",548,548,0,0,none,false,skipped,0
+public/assets/spritesheets/face_all.png,image,"public/assets/spritesheets/face_all.json, assets/spritesheets/face_all.json",33703,33703,0,0,none,false,skipped,0
+public/assets/spritesheets/menu_blob_init.png,image,"public/assets/spritesheets/menu_blob_init.json, assets/spritesheets/menu_blob_init.json",2120,2120,0,0,none,false,skipped,0
+public/assets/spritesheets/menu_blob_init_black.png,image,"public/assets/spritesheets/menu_blob_init_black.json, assets/spritesheets/menu_blob_init_black.json",2803,2803,0,0,none,false,skipped,0
+public/assets/spritesheets/play-pause.png,image,"public/assets/spritesheets/play-pause.json, assets/spritesheets/play-pause.json",3108,3108,0,0,none,false,skipped,0
+public/assets/spritesheets/scroll-dot (1).png,image,None,3588,3588,0,0,none,false,skipped,0
+public/assets/spritesheets/scroll-dot.png,image,"public/assets/spritesheets/scroll-dot.json, assets/spritesheets/scroll-dot.json",3588,3588,0,0,none,false,skipped,0
+public/assets/thumbnails/ec_Landscape.jpg,image,"/apsara, /mantra_infra, /nexxara, /nsd-care, , /work",38692,38692,0,0,none,false,skipped,0
+public/assets/thumbnails/ec_Portrait.jpg,image,"/apsara, /mantra_infra, /nexxara, /nsd-care, , /work",35769,35769,0,0,none,false,skipped,0
+public/assets/thumbnails/ht_Landscape.jpg,image,"/orange-chowk, , /services, /twentyone, /work",39575,39575,0,0,none,false,skipped,0
+public/assets/thumbnails/ht_Portrait.jpg,image,"/orange-chowk, , /services, /twentyone, /work",34071,34071,0,0,none,false,skipped,0
+public/assets/thumbnails/pm_Landscape.jpg,image,"/alma, /hot-ticket, , /pakawalla, /radisson-blu, /twentyone, /work",42934,42934,0,0,none,false,skipped,0
+public/assets/thumbnails/pm_Portrait.jpg,image,"/alma, /hot-ticket, , /pakawalla, /radisson-blu, /twentyone, /work",47732,47732,0,0,none,false,skipped,0
+public/favicon_io/android-chrome-192x192.png,image,None,5501,5501,0,0,none,false,skipped,0
+public/favicon_io/android-chrome-512x512.png,image,None,17882,17882,0,0,none,false,skipped,0
+public/favicon_io/apple-touch-icon.png,image,/layout.tsx,5324,5324,0,0,none,false,skipped,0
+public/favicon_io/favicon-16x16.png,image,/layout.tsx,312,312,0,0,none,false,skipped,0
+public/favicon_io/favicon-32x32.png,image,/layout.tsx,592,592,0,0,none,false,skipped,0
+assets/Project-images/nsd/homepage-mobile-1.jpg,image,"/alma, /mantram-industries, /matrix, /orange-chowk, /pakawalla",44357,44357,0,0,none,false,skipped,0
+assets/Project-images/nsd/homepage-mobile-1.png,image,/nsd-care,46996,46996,0,0,none,false,skipped,0
+assets/images/circle.png,image,public/build/js/main-e03077acdb.js,2034,2034,0,0,none,false,skipped,0
+assets/images/landing/hm-hero-mobile.png,image,None,15536,15536,0,0,none,false,skipped,0
+assets/images/trail.png,image,public/build/js/main-e03077acdb.js,1384,1384,0,0,none,false,skipped,0
+assets/spritesheets/behind_eye.png,image,"public/assets/spritesheets/behind_eye.json, assets/spritesheets/behind_eye.json",2748,2748,0,0,none,false,skipped,0
+assets/spritesheets/dot2.png,image,"public/assets/spritesheets/dot2.json, assets/spritesheets/dot2.json",548,548,0,0,none,false,skipped,0
+assets/spritesheets/face_all.png,image,"public/assets/spritesheets/face_all.json, assets/spritesheets/face_all.json",33703,33703,0,0,none,false,skipped,0
+assets/spritesheets/menu_blob_init.png,image,"public/assets/spritesheets/menu_blob_init.json, assets/spritesheets/menu_blob_init.json",2120,2120,0,0,none,false,skipped,0
+assets/spritesheets/menu_blob_init_black.png,image,"public/assets/spritesheets/menu_blob_init_black.json, assets/spritesheets/menu_blob_init_black.json",2803,2803,0,0,none,false,skipped,0
+assets/spritesheets/play-pause.png,image,"public/assets/spritesheets/play-pause.json, assets/spritesheets/play-pause.json",3108,3108,0,0,none,false,skipped,0
+assets/spritesheets/scroll-dot (1).png,image,None,3588,3588,0,0,none,false,skipped,0
+assets/spritesheets/scroll-dot.png,image,"public/assets/spritesheets/scroll-dot.json, assets/spritesheets/scroll-dot.json",3588,3588,0,0,none,false,skipped,0
+assets/thumbnails/ec_Landscape.jpg,image,"/apsara, /mantra_infra, /nexxara, /nsd-care, , /work",38692,38692,0,0,none,false,skipped,0
+assets/thumbnails/ec_Portrait.jpg,image,"/apsara, /mantra_infra, /nexxara, /nsd-care, , /work",35769,35769,0,0,none,false,skipped,0
+assets/thumbnails/ht_Landscape.jpg,image,"/orange-chowk, , /services, /twentyone, /work",39575,39575,0,0,none,false,skipped,0
+assets/thumbnails/ht_Portrait.jpg,image,"/orange-chowk, , /services, /twentyone, /work",34071,34071,0,0,none,false,skipped,0
+assets/thumbnails/pm_Landscape.jpg,image,"/alma, /hot-ticket, , /pakawalla, /radisson-blu, /twentyone, /work",42934,42934,0,0,none,false,skipped,0
+assets/thumbnails/pm_Portrait.jpg,image,"/alma, /hot-ticket, , /pakawalla, /radisson-blu, /twentyone, /work",47732,47732,0,0,none,false,skipped,0
+public/assets/images/39919464-0f7f-4b79-8d8f-1f877df7d599.png,image,"src/data/projects.js, src/sections/about/MondayteersSection.jsx",62074,62074,0,0,none,false,not optimizable,151

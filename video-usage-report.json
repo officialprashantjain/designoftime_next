@@ -1,0 +1,2565 @@
+{
+  "allAssets": [
+    {
+      "path": "public/assets/Project-images/Mantram/Banner.png",
+      "type": "image",
+      "used_in": [
+        "/alma",
+        "/mantra_infra",
+        "/mantram-industries",
+        "/pakawalla",
+        "/palmyrion",
+        "/twentyone"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/Project-images/Mantram/homepage-mobile-1.jpg",
+      "type": "image",
+      "used_in": [
+        "/alma",
+        "/mantram-industries",
+        "/matrix",
+        "/orange-chowk",
+        "/pakawalla"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/Project-images/Mantram/homepage-mobile-2.jpg",
+      "type": "image",
+      "used_in": [
+        "/mantram-industries"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/Project-images/Mantram/house1.mp4",
+      "type": "video",
+      "used_in": [],
+      "detection_method": "none",
+      "missingReference": true
+    },
+    {
+      "path": "public/assets/Project-images/Mantram/mi_fullscreen_img.jpg",
+      "type": "image",
+      "used_in": [
+        "/mantram-industries"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/Project-images/Mantram/mi_hero-image.png",
+      "type": "image",
+      "used_in": [
+        "/mantram-industries"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/Project-images/Mantram/mi_hero-image_portrait.png",
+      "type": "image",
+      "used_in": [
+        "/mantram-industries"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/Project-images/Mantram/video-potrait.mp4",
+      "type": "video",
+      "used_in": [
+        "/mantram-industries"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/Project-images/Mantram/video3.mp4",
+      "type": "video",
+      "used_in": [
+        "/mantram-industries"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/Project-images/Orange-chowk/IMG_2302.jpg",
+      "type": "image",
+      "used_in": [],
+      "detection_method": "none",
+      "missingReference": true
+    },
+    {
+      "path": "public/assets/Project-images/Orange-chowk/homepage-mobile-1.jpg",
+      "type": "image",
+      "used_in": [
+        "/alma",
+        "/mantram-industries",
+        "/matrix",
+        "/orange-chowk",
+        "/pakawalla"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/Project-images/Orange-chowk/oc_hero-image.png",
+      "type": "image",
+      "used_in": [
+        "/orange-chowk"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/Project-images/Orange-chowk/oc_hero-image_portrait.png",
+      "type": "image",
+      "used_in": [
+        "/orange-chowk"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/Project-images/Radisson-Blu/rb_hero-image-2.png",
+      "type": "image",
+      "used_in": [
+        "/radisson-blu"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/Project-images/Radisson-Blu/rb_hero-image-3.png",
+      "type": "image",
+      "used_in": [
+        "/radisson-blu"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/Project-images/Radisson-Blu/rb_hero-image-4.png",
+      "type": "image",
+      "used_in": [
+        "/radisson-blu"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/Project-images/Radisson-Blu/rb_hero-image-5.png",
+      "type": "image",
+      "used_in": [
+        "/radisson-blu"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/Project-images/Radisson-Blu/rb_hero-image.png",
+      "type": "image",
+      "used_in": [
+        "/radisson-blu"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/Project-images/Radisson-Blu/rb_hero-image_portrait.png",
+      "type": "image",
+      "used_in": [
+        "/radisson-blu"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/Project-images/alma/Banner.png",
+      "type": "image",
+      "used_in": [
+        "/alma",
+        "/mantra_infra",
+        "/mantram-industries",
+        "/pakawalla",
+        "/palmyrion",
+        "/twentyone"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/Project-images/alma/aj_hero-image.png",
+      "type": "image",
+      "used_in": [
+        "/alma"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/Project-images/alma/aj_hero-image_portrait.png",
+      "type": "image",
+      "used_in": [
+        "/alma"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/Project-images/alma/homepage-mobile-1.jpg",
+      "type": "image",
+      "used_in": [
+        "/alma",
+        "/mantram-industries",
+        "/matrix",
+        "/orange-chowk",
+        "/pakawalla"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/Project-images/apsara/at_hero-image.jpg",
+      "type": "image",
+      "used_in": [
+        "/apsara"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/Project-images/apsara/at_hero-image_portrait.jpg",
+      "type": "image",
+      "used_in": [
+        "/apsara"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/Project-images/apsara/case-image-1.jpg",
+      "type": "image",
+      "used_in": [
+        "/apsara"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/Project-images/apsara/case-image-2.jpg",
+      "type": "image",
+      "used_in": [],
+      "detection_method": "none",
+      "missingReference": true
+    },
+    {
+      "path": "public/assets/Project-images/apsara/case-image-2.png",
+      "type": "image",
+      "used_in": [
+        "/apsara"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/Project-images/everlend/elm_hero-image.png",
+      "type": "image",
+      "used_in": [
+        "/everlend"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/Project-images/everlend/elm_hero-image_portrait.png",
+      "type": "image",
+      "used_in": [
+        "/everlend"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/Project-images/everlend/scroll-hero.mp4",
+      "type": "video",
+      "used_in": [
+        "/everlend"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/Project-images/hot-ticket/ht-assets-03.jpg",
+      "type": "image",
+      "used_in": [
+        "/hot-ticket"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/Project-images/hot-ticket/ht-content-02.jpg",
+      "type": "image",
+      "used_in": [
+        "/hot-ticket"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/Project-images/hot-ticket/ht-typo.jpg",
+      "type": "image",
+      "used_in": [
+        "/hot-ticket"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/Project-images/hot-ticket/ht_hero-image.png",
+      "type": "image",
+      "used_in": [
+        "/hot-ticket"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/Project-images/hot-ticket/ht_hero-image_portrait.png",
+      "type": "image",
+      "used_in": [
+        "/hot-ticket"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/Project-images/mantra/Banner.png",
+      "type": "image",
+      "used_in": [
+        "/alma",
+        "/mantra_infra",
+        "/mantram-industries",
+        "/pakawalla",
+        "/palmyrion",
+        "/twentyone"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/Project-images/mantra/mantra_hero-image.png",
+      "type": "image",
+      "used_in": [
+        "/mantra_infra"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/Project-images/mantra/mantra_hero-image_portrait.png",
+      "type": "image",
+      "used_in": [
+        "/mantra_infra"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/Project-images/matrix/homepage-mobile-1.jpg",
+      "type": "image",
+      "used_in": [
+        "/alma",
+        "/mantram-industries",
+        "/matrix",
+        "/orange-chowk",
+        "/pakawalla"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/Project-images/matrix/mfc_hero-image.png",
+      "type": "image",
+      "used_in": [
+        "/matrix"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/Project-images/matrix/mfc_hero-image_portrait.png",
+      "type": "image",
+      "used_in": [
+        "/matrix"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/Project-images/metro/metro_hero-image.png",
+      "type": "image",
+      "used_in": [
+        "/metro-chem"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/Project-images/nexxara/homepage-mobile-1.jpg",
+      "type": "image",
+      "used_in": [
+        "/alma",
+        "/mantram-industries",
+        "/matrix",
+        "/orange-chowk",
+        "/pakawalla"
+      ],
+      "detection_method": "grep",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/Project-images/nexxara/nex_hero-image.png",
+      "type": "image",
+      "used_in": [
+        "/nexxara"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/Project-images/nexxara/nex_hero-image_portrait.png",
+      "type": "image",
+      "used_in": [
+        "/nexxara"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/Project-images/nsd/homepage-mobile-1.jpg",
+      "type": "image",
+      "used_in": [
+        "/alma",
+        "/mantram-industries",
+        "/matrix",
+        "/orange-chowk",
+        "/pakawalla"
+      ],
+      "detection_method": "grep",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/Project-images/nsd/homepage-mobile-1.png",
+      "type": "image",
+      "used_in": [
+        "/nsd-care"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/Project-images/nsd/nsd_fullscreen_img.jpg",
+      "type": "image",
+      "used_in": [
+        "/nsd-care"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/Project-images/nsd/nsd_hero-image.jpg",
+      "type": "image",
+      "used_in": [
+        "/nsd-care"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/Project-images/nsd/nsd_hero-image.png",
+      "type": "image",
+      "used_in": [],
+      "detection_method": "none",
+      "missingReference": true
+    },
+    {
+      "path": "public/assets/Project-images/nsd/nsd_hero-image_portrait.jpg",
+      "type": "image",
+      "used_in": [
+        "/nsd-care"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/Project-images/pakawalla/Banner.png",
+      "type": "image",
+      "used_in": [
+        "/alma",
+        "/mantra_infra",
+        "/mantram-industries",
+        "/pakawalla",
+        "/palmyrion",
+        "/twentyone"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/Project-images/pakawalla/homepage-mobile-1.jpg",
+      "type": "image",
+      "used_in": [
+        "/alma",
+        "/mantram-industries",
+        "/matrix",
+        "/orange-chowk",
+        "/pakawalla"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/Project-images/pakawalla/pk_hero-image.png",
+      "type": "image",
+      "used_in": [
+        "/pakawalla"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/Project-images/pakawalla/pk_hero-image_portrait.png",
+      "type": "image",
+      "used_in": [
+        "/pakawalla"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/Project-images/palmyrion/Banner.png",
+      "type": "image",
+      "used_in": [
+        "/alma",
+        "/mantra_infra",
+        "/mantram-industries",
+        "/pakawalla",
+        "/palmyrion",
+        "/twentyone"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/Project-images/palmyrion/palm_hero-image.png",
+      "type": "image",
+      "used_in": [
+        "/palmyrion"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/Project-images/palmyrion/palm_hero-image_portrait.png",
+      "type": "image",
+      "used_in": [
+        "/palmyrion"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/Project-images/twenty_one/21_hero-image.png",
+      "type": "image",
+      "used_in": [
+        "/twentyone"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/Project-images/twenty_one/21_hero-image_portrait.png",
+      "type": "image",
+      "used_in": [
+        "/twentyone"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/Project-images/twenty_one/Banner.png",
+      "type": "image",
+      "used_in": [
+        "/alma",
+        "/mantra_infra",
+        "/mantram-industries",
+        "/pakawalla",
+        "/palmyrion",
+        "/twentyone"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/images/0871864f-3af3-4261-b66d-1aaa97256d3c.jpg",
+      "type": "image",
+      "used_in": [
+        "src/data/projects.js",
+        "src/sections/about/MondayteersSection.jsx"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/images/1eac3a48-0d56-45b8-9606-f21cfcd91cf0.jpeg",
+      "type": "image",
+      "used_in": [
+        "src/data/projects.js",
+        "src/sections/about/MondayteersSection.jsx"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/images/26f35028-3fd2-4718-8e52-d09a034f4961.jpeg",
+      "type": "image",
+      "used_in": [
+        "src/data/projects.js"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/images/39919464-0f7f-4b79-8d8f-1f877df7d599.png",
+      "type": "image",
+      "used_in": [
+        "src/data/projects.js",
+        "src/sections/about/MondayteersSection.jsx"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/images/Thumbnail_-_Image_-_Landscape-logo.jpeg",
+      "type": "image",
+      "used_in": [
+        "src/data/projects.js"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/images/Thumbnail_-_Image_-_Landscape.jpeg",
+      "type": "image",
+      "used_in": [
+        "src/data/projects.js",
+        "src/sections/about/MondayteersSection.jsx"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/images/Thumbnail_-_Image_-_Landscape.jpg",
+      "type": "image",
+      "used_in": [
+        "src/data/projects.js",
+        "src/sections/about/MondayteersSection.jsx"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/images/Thumbnail_-_Video_-_Portrait_-_Big.jpeg",
+      "type": "image",
+      "used_in": [
+        "src/data/projects.js"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/images/c9e296b7-6f82-486f-9929-e978f38a7853.jpeg",
+      "type": "image",
+      "used_in": [
+        "src/sections/about/MondayteersSection.jsx"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/images/circle.png",
+      "type": "image",
+      "used_in": [
+        "public/build/js/main-e03077acdb.js"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/images/hero-illustration.png",
+      "type": "image",
+      "used_in": [],
+      "detection_method": "none",
+      "missingReference": true
+    },
+    {
+      "path": "public/assets/images/hm-hero-mobile-non-retina.mp4",
+      "type": "video",
+      "used_in": [
+        "src/sections/home/HeroSection.jsx"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/images/landing/hm-hero-desktop.png",
+      "type": "image",
+      "used_in": [
+        ""
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/images/landing/hm-hero-mobile.png",
+      "type": "image",
+      "used_in": [],
+      "detection_method": "none",
+      "missingReference": true
+    },
+    {
+      "path": "public/assets/images/logo.png",
+      "type": "image",
+      "used_in": [
+        "src/components/layout/Header.jsx"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/images/trail.png",
+      "type": "image",
+      "used_in": [
+        "public/build/js/main-e03077acdb.js"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/people/Sujita.png",
+      "type": "image",
+      "used_in": [
+        "/about"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/people/aditi.jpg",
+      "type": "image",
+      "used_in": [
+        "/about"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/people/aditi.png",
+      "type": "image",
+      "used_in": [],
+      "detection_method": "none",
+      "missingReference": true
+    },
+    {
+      "path": "public/assets/people/apoorv.jpg",
+      "type": "image",
+      "used_in": [
+        "/about"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/people/ayush.jpg",
+      "type": "image",
+      "used_in": [
+        "/about"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/people/nikhil.jpg",
+      "type": "image",
+      "used_in": [
+        "/about"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/people/prakhar.jpg",
+      "type": "image",
+      "used_in": [
+        "/about"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/people/prakrati.jpg",
+      "type": "image",
+      "used_in": [
+        "/about"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/people/prashant.jpeg",
+      "type": "image",
+      "used_in": [
+        "/about"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/people/purva.jpg",
+      "type": "image",
+      "used_in": [
+        "/about"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/people/shikhar.jpg",
+      "type": "image",
+      "used_in": [
+        "/about"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/people/subham.png",
+      "type": "image",
+      "used_in": [
+        "/about"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/people/vaibhav.png",
+      "type": "image",
+      "used_in": [
+        "/about"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/spritesheets/behind_eye.png",
+      "type": "image",
+      "used_in": [
+        "public/assets/spritesheets/behind_eye.json",
+        "assets/spritesheets/behind_eye.json"
+      ],
+      "detection_method": "grep",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/spritesheets/dot2.png",
+      "type": "image",
+      "used_in": [
+        "public/assets/spritesheets/dot2.json",
+        "assets/spritesheets/dot2.json"
+      ],
+      "detection_method": "grep",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/spritesheets/face_all.png",
+      "type": "image",
+      "used_in": [
+        "public/assets/spritesheets/face_all.json",
+        "assets/spritesheets/face_all.json"
+      ],
+      "detection_method": "grep",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/spritesheets/menu_blob_init.png",
+      "type": "image",
+      "used_in": [
+        "public/assets/spritesheets/menu_blob_init.json",
+        "assets/spritesheets/menu_blob_init.json"
+      ],
+      "detection_method": "grep",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/spritesheets/menu_blob_init_black.png",
+      "type": "image",
+      "used_in": [
+        "public/assets/spritesheets/menu_blob_init_black.json",
+        "assets/spritesheets/menu_blob_init_black.json"
+      ],
+      "detection_method": "grep",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/spritesheets/play-pause.png",
+      "type": "image",
+      "used_in": [
+        "public/assets/spritesheets/play-pause.json",
+        "assets/spritesheets/play-pause.json"
+      ],
+      "detection_method": "grep",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/spritesheets/scroll-dot (1).png",
+      "type": "image",
+      "used_in": [],
+      "detection_method": "none",
+      "missingReference": true
+    },
+    {
+      "path": "public/assets/spritesheets/scroll-dot.png",
+      "type": "image",
+      "used_in": [
+        "public/assets/spritesheets/scroll-dot.json",
+        "assets/spritesheets/scroll-dot.json"
+      ],
+      "detection_method": "grep",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/thumbnails/21_Landscape.jpg",
+      "type": "image",
+      "used_in": [
+        "/alma",
+        "/hot-ticket",
+        "/orange-chowk",
+        "",
+        "/pakawalla",
+        "/palmyrion",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/thumbnails/21_Portrait.jpg",
+      "type": "image",
+      "used_in": [
+        "/alma",
+        "/hot-ticket",
+        "/orange-chowk",
+        "",
+        "/pakawalla",
+        "/palmyrion",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/thumbnails/Mantram_Portrait.jpg",
+      "type": "image",
+      "used_in": [
+        "/mantra_infra",
+        "/matrix",
+        "/metro-chem",
+        "",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/thumbnails/aj_Landscape.jpg",
+      "type": "image",
+      "used_in": [
+        "",
+        "/pakawalla",
+        "/palmyrion",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/thumbnails/aj_Portrait.jpg",
+      "type": "image",
+      "used_in": [
+        "",
+        "/pakawalla",
+        "/palmyrion",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/thumbnails/at_Landscape.jpg",
+      "type": "image",
+      "used_in": [
+        "/everlend",
+        "/nsd-care",
+        "",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/thumbnails/at_Portrait.jpg",
+      "type": "image",
+      "used_in": [
+        "/everlend",
+        "/nsd-care",
+        "",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/thumbnails/ec_Landscape.jpg",
+      "type": "image",
+      "used_in": [
+        "/apsara",
+        "/mantra_infra",
+        "/nexxara",
+        "/nsd-care",
+        "",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/thumbnails/ec_Portrait.jpg",
+      "type": "image",
+      "used_in": [
+        "/apsara",
+        "/mantra_infra",
+        "/nexxara",
+        "/nsd-care",
+        "",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/thumbnails/ht_Landscape.jpg",
+      "type": "image",
+      "used_in": [
+        "/orange-chowk",
+        "",
+        "/services",
+        "/twentyone",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/thumbnails/ht_Portrait.jpg",
+      "type": "image",
+      "used_in": [
+        "/orange-chowk",
+        "",
+        "/services",
+        "/twentyone",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/thumbnails/mantram_Landscape.jpg",
+      "type": "image",
+      "used_in": [
+        "/mantra_infra",
+        "/matrix",
+        "/metro-chem",
+        "",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/thumbnails/metro_Landscape.jpg",
+      "type": "image",
+      "used_in": [
+        "/mantram-industries",
+        "/matrix",
+        "",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/thumbnails/metro_Portrait.jpg",
+      "type": "image",
+      "used_in": [
+        "/mantram-industries",
+        "/matrix",
+        "",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/thumbnails/mfc_Landscape.jpg",
+      "type": "image",
+      "used_in": [
+        "/apsara",
+        "/mantram-industries",
+        "/metro-chem",
+        "/nsd-care",
+        "",
+        "/services",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/thumbnails/mfc_Portrait.jpg",
+      "type": "image",
+      "used_in": [
+        "/apsara",
+        "/mantram-industries",
+        "/metro-chem",
+        "/nsd-care",
+        "",
+        "/services",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/thumbnails/mif_Landscape.jpg",
+      "type": "image",
+      "used_in": [
+        "/mantram-industries",
+        "/nexxara",
+        "",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/thumbnails/mif_Portrait.jpg",
+      "type": "image",
+      "used_in": [
+        "/mantram-industries",
+        "/nexxara",
+        "",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/thumbnails/nsd_Landscape.jpg",
+      "type": "image",
+      "used_in": [
+        "/apsara",
+        "/everlend",
+        "/matrix",
+        "/nexxara",
+        "",
+        "/services",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/thumbnails/nsd_Portrait.jpg",
+      "type": "image",
+      "used_in": [
+        "/apsara",
+        "/everlend",
+        "/matrix",
+        "/nexxara",
+        "",
+        "/services",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/thumbnails/nx_Landscape.jpg",
+      "type": "image",
+      "used_in": [
+        "/everlend",
+        "/mantra_infra",
+        "/metro-chem",
+        "",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/thumbnails/nx_Portrait.jpg",
+      "type": "image",
+      "used_in": [
+        "/everlend",
+        "/mantra_infra",
+        "/metro-chem",
+        "",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/thumbnails/oc_Landscape.jpg",
+      "type": "image",
+      "used_in": [
+        "",
+        "/radisson-blu",
+        "/services",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/thumbnails/oc_Portrait.jpg",
+      "type": "image",
+      "used_in": [
+        "",
+        "/radisson-blu",
+        "/services",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/thumbnails/pm_Landscape.jpg",
+      "type": "image",
+      "used_in": [
+        "/alma",
+        "/hot-ticket",
+        "",
+        "/pakawalla",
+        "/radisson-blu",
+        "/twentyone",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/thumbnails/pm_Portrait.jpg",
+      "type": "image",
+      "used_in": [
+        "/alma",
+        "/hot-ticket",
+        "",
+        "/pakawalla",
+        "/radisson-blu",
+        "/twentyone",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/thumbnails/pw_Landscape.jpg",
+      "type": "image",
+      "used_in": [
+        "/alma",
+        "/hot-ticket",
+        "/orange-chowk",
+        "",
+        "/palmyrion",
+        "/radisson-blu",
+        "/services",
+        "/twentyone",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/thumbnails/pw_Portrait.jpg",
+      "type": "image",
+      "used_in": [
+        "/alma",
+        "/hot-ticket",
+        "/orange-chowk",
+        "",
+        "/palmyrion",
+        "/radisson-blu",
+        "/services",
+        "/twentyone",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/thumbnails/rb_Landscape.jpg",
+      "type": "image",
+      "used_in": [
+        "",
+        "/services",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/assets/thumbnails/rb_Portrait.jpg",
+      "type": "image",
+      "used_in": [
+        "",
+        "/services",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/favicon_io/android-chrome-192x192.png",
+      "type": "image",
+      "used_in": [],
+      "detection_method": "none",
+      "missingReference": true
+    },
+    {
+      "path": "public/favicon_io/android-chrome-512x512.png",
+      "type": "image",
+      "used_in": [],
+      "detection_method": "none",
+      "missingReference": true
+    },
+    {
+      "path": "public/favicon_io/apple-touch-icon.png",
+      "type": "image",
+      "used_in": [
+        "/layout.tsx"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/favicon_io/favicon-16x16.png",
+      "type": "image",
+      "used_in": [
+        "/layout.tsx"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "public/favicon_io/favicon-32x32.png",
+      "type": "image",
+      "used_in": [
+        "/layout.tsx"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/Project-images/Mantram/Banner.png",
+      "type": "image",
+      "used_in": [
+        "/alma",
+        "/mantra_infra",
+        "/mantram-industries",
+        "/pakawalla",
+        "/palmyrion",
+        "/twentyone"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/Project-images/Mantram/homepage-mobile-1.jpg",
+      "type": "image",
+      "used_in": [
+        "/alma",
+        "/mantram-industries",
+        "/matrix",
+        "/orange-chowk",
+        "/pakawalla"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/Project-images/Mantram/homepage-mobile-2.jpg",
+      "type": "image",
+      "used_in": [
+        "/mantram-industries"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/Project-images/Mantram/house1.mp4",
+      "type": "video",
+      "used_in": [],
+      "detection_method": "none",
+      "missingReference": true
+    },
+    {
+      "path": "assets/Project-images/Mantram/mi_fullscreen_img.jpg",
+      "type": "image",
+      "used_in": [
+        "/mantram-industries"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/Project-images/Mantram/mi_hero-image.png",
+      "type": "image",
+      "used_in": [
+        "/mantram-industries"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/Project-images/Mantram/mi_hero-image_portrait.png",
+      "type": "image",
+      "used_in": [
+        "/mantram-industries"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/Project-images/Mantram/video-potrait.mp4",
+      "type": "video",
+      "used_in": [
+        "/mantram-industries"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/Project-images/Mantram/video2.mp4",
+      "type": "video",
+      "used_in": [],
+      "detection_method": "none",
+      "missingReference": true
+    },
+    {
+      "path": "assets/Project-images/Orange-chowk/IMG_2302.jpg",
+      "type": "image",
+      "used_in": [],
+      "detection_method": "none",
+      "missingReference": true
+    },
+    {
+      "path": "assets/Project-images/Orange-chowk/homepage-mobile-1.jpg",
+      "type": "image",
+      "used_in": [
+        "/alma",
+        "/mantram-industries",
+        "/matrix",
+        "/orange-chowk",
+        "/pakawalla"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/Project-images/Orange-chowk/oc_hero-image.png",
+      "type": "image",
+      "used_in": [
+        "/orange-chowk"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/Project-images/Orange-chowk/oc_hero-image_portrait.png",
+      "type": "image",
+      "used_in": [
+        "/orange-chowk"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/Project-images/Radisson-Blu/rb_hero-image-2.png",
+      "type": "image",
+      "used_in": [
+        "/radisson-blu"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/Project-images/Radisson-Blu/rb_hero-image-3.png",
+      "type": "image",
+      "used_in": [
+        "/radisson-blu"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/Project-images/Radisson-Blu/rb_hero-image-4.png",
+      "type": "image",
+      "used_in": [
+        "/radisson-blu"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/Project-images/Radisson-Blu/rb_hero-image-5.png",
+      "type": "image",
+      "used_in": [
+        "/radisson-blu"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/Project-images/Radisson-Blu/rb_hero-image.png",
+      "type": "image",
+      "used_in": [
+        "/radisson-blu"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/Project-images/Radisson-Blu/rb_hero-image_portrait.png",
+      "type": "image",
+      "used_in": [
+        "/radisson-blu"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/Project-images/alma/Banner.png",
+      "type": "image",
+      "used_in": [
+        "/alma",
+        "/mantra_infra",
+        "/mantram-industries",
+        "/pakawalla",
+        "/palmyrion",
+        "/twentyone"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/Project-images/alma/aj_hero-image.png",
+      "type": "image",
+      "used_in": [
+        "/alma"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/Project-images/alma/aj_hero-image_portrait.png",
+      "type": "image",
+      "used_in": [
+        "/alma"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/Project-images/alma/homepage-mobile-1.jpg",
+      "type": "image",
+      "used_in": [
+        "/alma",
+        "/mantram-industries",
+        "/matrix",
+        "/orange-chowk",
+        "/pakawalla"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/Project-images/apsara/at_hero-image.jpg",
+      "type": "image",
+      "used_in": [
+        "/apsara"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/Project-images/apsara/at_hero-image_portrait.jpg",
+      "type": "image",
+      "used_in": [
+        "/apsara"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/Project-images/apsara/case-image-1.jpg",
+      "type": "image",
+      "used_in": [
+        "/apsara"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/Project-images/apsara/case-image-2.jpg",
+      "type": "image",
+      "used_in": [],
+      "detection_method": "none",
+      "missingReference": true
+    },
+    {
+      "path": "assets/Project-images/apsara/case-image-2.png",
+      "type": "image",
+      "used_in": [
+        "/apsara"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/Project-images/everlend/elm_hero-image.png",
+      "type": "image",
+      "used_in": [
+        "/everlend"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/Project-images/everlend/elm_hero-image_portrait.png",
+      "type": "image",
+      "used_in": [
+        "/everlend"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/Project-images/hot-ticket/ht-assets-03.jpg",
+      "type": "image",
+      "used_in": [
+        "/hot-ticket"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/Project-images/hot-ticket/ht-content-02.jpg",
+      "type": "image",
+      "used_in": [
+        "/hot-ticket"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/Project-images/hot-ticket/ht-typo.jpg",
+      "type": "image",
+      "used_in": [
+        "/hot-ticket"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/Project-images/hot-ticket/ht_hero-image.png",
+      "type": "image",
+      "used_in": [
+        "/hot-ticket"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/Project-images/hot-ticket/ht_hero-image_portrait.png",
+      "type": "image",
+      "used_in": [
+        "/hot-ticket"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/Project-images/mantra/Banner.png",
+      "type": "image",
+      "used_in": [
+        "/alma",
+        "/mantra_infra",
+        "/mantram-industries",
+        "/pakawalla",
+        "/palmyrion",
+        "/twentyone"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/Project-images/mantra/mantra_hero-image.png",
+      "type": "image",
+      "used_in": [
+        "/mantra_infra"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/Project-images/mantra/mantra_hero-image_portrait.png",
+      "type": "image",
+      "used_in": [
+        "/mantra_infra"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/Project-images/matrix/homepage-mobile-1.jpg",
+      "type": "image",
+      "used_in": [
+        "/alma",
+        "/mantram-industries",
+        "/matrix",
+        "/orange-chowk",
+        "/pakawalla"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/Project-images/matrix/mfc_hero-image.png",
+      "type": "image",
+      "used_in": [
+        "/matrix"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/Project-images/matrix/mfc_hero-image_portrait.png",
+      "type": "image",
+      "used_in": [
+        "/matrix"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/Project-images/metro/metro_hero-image.png",
+      "type": "image",
+      "used_in": [
+        "/metro-chem"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/Project-images/nexxara/homepage-mobile-1.jpg",
+      "type": "image",
+      "used_in": [
+        "/alma",
+        "/mantram-industries",
+        "/matrix",
+        "/orange-chowk",
+        "/pakawalla"
+      ],
+      "detection_method": "grep",
+      "missingReference": false
+    },
+    {
+      "path": "assets/Project-images/nexxara/nex_hero-image.png",
+      "type": "image",
+      "used_in": [
+        "/nexxara"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/Project-images/nexxara/nex_hero-image_portrait.png",
+      "type": "image",
+      "used_in": [
+        "/nexxara"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/Project-images/nsd/homepage-mobile-1.jpg",
+      "type": "image",
+      "used_in": [
+        "/alma",
+        "/mantram-industries",
+        "/matrix",
+        "/orange-chowk",
+        "/pakawalla"
+      ],
+      "detection_method": "grep",
+      "missingReference": false
+    },
+    {
+      "path": "assets/Project-images/nsd/homepage-mobile-1.png",
+      "type": "image",
+      "used_in": [
+        "/nsd-care"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/Project-images/nsd/nsd_fullscreen_img.jpg",
+      "type": "image",
+      "used_in": [
+        "/nsd-care"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/Project-images/nsd/nsd_hero-image.jpg",
+      "type": "image",
+      "used_in": [
+        "/nsd-care"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/Project-images/nsd/nsd_hero-image.png",
+      "type": "image",
+      "used_in": [],
+      "detection_method": "none",
+      "missingReference": true
+    },
+    {
+      "path": "assets/Project-images/nsd/nsd_hero-image_portrait.jpg",
+      "type": "image",
+      "used_in": [
+        "/nsd-care"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/Project-images/pakawalla/Banner.png",
+      "type": "image",
+      "used_in": [
+        "/alma",
+        "/mantra_infra",
+        "/mantram-industries",
+        "/pakawalla",
+        "/palmyrion",
+        "/twentyone"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/Project-images/pakawalla/homepage-mobile-1.jpg",
+      "type": "image",
+      "used_in": [
+        "/alma",
+        "/mantram-industries",
+        "/matrix",
+        "/orange-chowk",
+        "/pakawalla"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/Project-images/pakawalla/pk_hero-image.png",
+      "type": "image",
+      "used_in": [
+        "/pakawalla"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/Project-images/pakawalla/pk_hero-image_portrait.png",
+      "type": "image",
+      "used_in": [
+        "/pakawalla"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/Project-images/palmyrion/Banner.png",
+      "type": "image",
+      "used_in": [
+        "/alma",
+        "/mantra_infra",
+        "/mantram-industries",
+        "/pakawalla",
+        "/palmyrion",
+        "/twentyone"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/Project-images/palmyrion/palm_hero-image.png",
+      "type": "image",
+      "used_in": [
+        "/palmyrion"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/Project-images/palmyrion/palm_hero-image_portrait.png",
+      "type": "image",
+      "used_in": [
+        "/palmyrion"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/Project-images/twenty_one/21_hero-image.png",
+      "type": "image",
+      "used_in": [
+        "/twentyone"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/Project-images/twenty_one/21_hero-image_portrait.png",
+      "type": "image",
+      "used_in": [
+        "/twentyone"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/Project-images/twenty_one/Banner.png",
+      "type": "image",
+      "used_in": [
+        "/alma",
+        "/mantra_infra",
+        "/mantram-industries",
+        "/pakawalla",
+        "/palmyrion",
+        "/twentyone"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/images/circle.png",
+      "type": "image",
+      "used_in": [
+        "public/build/js/main-e03077acdb.js"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/images/landing/hm-hero-desktop.png",
+      "type": "image",
+      "used_in": [
+        ""
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/images/landing/hm-hero-mobile.png",
+      "type": "image",
+      "used_in": [],
+      "detection_method": "none",
+      "missingReference": true
+    },
+    {
+      "path": "assets/images/trail.png",
+      "type": "image",
+      "used_in": [
+        "public/build/js/main-e03077acdb.js"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/people/apoorv.jpg",
+      "type": "image",
+      "used_in": [
+        "/about"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/people/ayush.jpg",
+      "type": "image",
+      "used_in": [
+        "/about"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/people/nikhil.jpg",
+      "type": "image",
+      "used_in": [
+        "/about"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/people/prakhar.jpg",
+      "type": "image",
+      "used_in": [
+        "/about"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/people/prakrati.jpg",
+      "type": "image",
+      "used_in": [
+        "/about"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/people/purva.jpg",
+      "type": "image",
+      "used_in": [
+        "/about"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/people/shikhar.jpg",
+      "type": "image",
+      "used_in": [
+        "/about"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/spritesheets/behind_eye.png",
+      "type": "image",
+      "used_in": [
+        "public/assets/spritesheets/behind_eye.json",
+        "assets/spritesheets/behind_eye.json"
+      ],
+      "detection_method": "grep",
+      "missingReference": false
+    },
+    {
+      "path": "assets/spritesheets/dot2.png",
+      "type": "image",
+      "used_in": [
+        "public/assets/spritesheets/dot2.json",
+        "assets/spritesheets/dot2.json"
+      ],
+      "detection_method": "grep",
+      "missingReference": false
+    },
+    {
+      "path": "assets/spritesheets/face_all.png",
+      "type": "image",
+      "used_in": [
+        "public/assets/spritesheets/face_all.json",
+        "assets/spritesheets/face_all.json"
+      ],
+      "detection_method": "grep",
+      "missingReference": false
+    },
+    {
+      "path": "assets/spritesheets/menu_blob_init.png",
+      "type": "image",
+      "used_in": [
+        "public/assets/spritesheets/menu_blob_init.json",
+        "assets/spritesheets/menu_blob_init.json"
+      ],
+      "detection_method": "grep",
+      "missingReference": false
+    },
+    {
+      "path": "assets/spritesheets/menu_blob_init_black.png",
+      "type": "image",
+      "used_in": [
+        "public/assets/spritesheets/menu_blob_init_black.json",
+        "assets/spritesheets/menu_blob_init_black.json"
+      ],
+      "detection_method": "grep",
+      "missingReference": false
+    },
+    {
+      "path": "assets/spritesheets/play-pause.png",
+      "type": "image",
+      "used_in": [
+        "public/assets/spritesheets/play-pause.json",
+        "assets/spritesheets/play-pause.json"
+      ],
+      "detection_method": "grep",
+      "missingReference": false
+    },
+    {
+      "path": "assets/spritesheets/scroll-dot (1).png",
+      "type": "image",
+      "used_in": [],
+      "detection_method": "none",
+      "missingReference": true
+    },
+    {
+      "path": "assets/spritesheets/scroll-dot.png",
+      "type": "image",
+      "used_in": [
+        "public/assets/spritesheets/scroll-dot.json",
+        "assets/spritesheets/scroll-dot.json"
+      ],
+      "detection_method": "grep",
+      "missingReference": false
+    },
+    {
+      "path": "assets/thumbnails/21_Landscape.jpg",
+      "type": "image",
+      "used_in": [
+        "/alma",
+        "/hot-ticket",
+        "/orange-chowk",
+        "",
+        "/pakawalla",
+        "/palmyrion",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/thumbnails/21_Portrait.jpg",
+      "type": "image",
+      "used_in": [
+        "/alma",
+        "/hot-ticket",
+        "/orange-chowk",
+        "",
+        "/pakawalla",
+        "/palmyrion",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/thumbnails/Mantram_Portrait.jpg",
+      "type": "image",
+      "used_in": [
+        "/mantra_infra",
+        "/matrix",
+        "/metro-chem",
+        "",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/thumbnails/aj_Landscape.jpg",
+      "type": "image",
+      "used_in": [
+        "",
+        "/pakawalla",
+        "/palmyrion",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/thumbnails/aj_Portrait.jpg",
+      "type": "image",
+      "used_in": [
+        "",
+        "/pakawalla",
+        "/palmyrion",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/thumbnails/at_Landscape.jpg",
+      "type": "image",
+      "used_in": [
+        "/everlend",
+        "/nsd-care",
+        "",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/thumbnails/at_Portrait.jpg",
+      "type": "image",
+      "used_in": [
+        "/everlend",
+        "/nsd-care",
+        "",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/thumbnails/ec_Landscape.jpg",
+      "type": "image",
+      "used_in": [
+        "/apsara",
+        "/mantra_infra",
+        "/nexxara",
+        "/nsd-care",
+        "",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/thumbnails/ec_Portrait.jpg",
+      "type": "image",
+      "used_in": [
+        "/apsara",
+        "/mantra_infra",
+        "/nexxara",
+        "/nsd-care",
+        "",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/thumbnails/ht_Landscape.jpg",
+      "type": "image",
+      "used_in": [
+        "/orange-chowk",
+        "",
+        "/services",
+        "/twentyone",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/thumbnails/ht_Portrait.jpg",
+      "type": "image",
+      "used_in": [
+        "/orange-chowk",
+        "",
+        "/services",
+        "/twentyone",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/thumbnails/mantram_Landscape.jpg",
+      "type": "image",
+      "used_in": [
+        "/mantra_infra",
+        "/matrix",
+        "/metro-chem",
+        "",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/thumbnails/metro_Landscape.jpg",
+      "type": "image",
+      "used_in": [
+        "/mantram-industries",
+        "/matrix",
+        "",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/thumbnails/metro_Portrait.jpg",
+      "type": "image",
+      "used_in": [
+        "/mantram-industries",
+        "/matrix",
+        "",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/thumbnails/mfc_Landscape.jpg",
+      "type": "image",
+      "used_in": [
+        "/apsara",
+        "/mantram-industries",
+        "/metro-chem",
+        "/nsd-care",
+        "",
+        "/services",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/thumbnails/mfc_Portrait.jpg",
+      "type": "image",
+      "used_in": [
+        "/apsara",
+        "/mantram-industries",
+        "/metro-chem",
+        "/nsd-care",
+        "",
+        "/services",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/thumbnails/mif_Landscape.jpg",
+      "type": "image",
+      "used_in": [
+        "/mantram-industries",
+        "/nexxara",
+        "",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/thumbnails/mif_Portrait.jpg",
+      "type": "image",
+      "used_in": [
+        "/mantram-industries",
+        "/nexxara",
+        "",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/thumbnails/nsd_Landscape.jpg",
+      "type": "image",
+      "used_in": [
+        "/apsara",
+        "/everlend",
+        "/matrix",
+        "/nexxara",
+        "",
+        "/services",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/thumbnails/nsd_Portrait.jpg",
+      "type": "image",
+      "used_in": [
+        "/apsara",
+        "/everlend",
+        "/matrix",
+        "/nexxara",
+        "",
+        "/services",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/thumbnails/nx_Landscape.jpg",
+      "type": "image",
+      "used_in": [
+        "/everlend",
+        "/mantra_infra",
+        "/metro-chem",
+        "",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/thumbnails/nx_Portrait.jpg",
+      "type": "image",
+      "used_in": [
+        "/everlend",
+        "/mantra_infra",
+        "/metro-chem",
+        "",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/thumbnails/oc_Landscape.jpg",
+      "type": "image",
+      "used_in": [
+        "",
+        "/radisson-blu",
+        "/services",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/thumbnails/oc_Portrait.jpg",
+      "type": "image",
+      "used_in": [
+        "",
+        "/radisson-blu",
+        "/services",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/thumbnails/pm_Landscape.jpg",
+      "type": "image",
+      "used_in": [
+        "/alma",
+        "/hot-ticket",
+        "",
+        "/pakawalla",
+        "/radisson-blu",
+        "/twentyone",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/thumbnails/pm_Portrait.jpg",
+      "type": "image",
+      "used_in": [
+        "/alma",
+        "/hot-ticket",
+        "",
+        "/pakawalla",
+        "/radisson-blu",
+        "/twentyone",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/thumbnails/pw_Landscape.jpg",
+      "type": "image",
+      "used_in": [
+        "/alma",
+        "/hot-ticket",
+        "/orange-chowk",
+        "",
+        "/palmyrion",
+        "/radisson-blu",
+        "/services",
+        "/twentyone",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/thumbnails/pw_Portrait.jpg",
+      "type": "image",
+      "used_in": [
+        "/alma",
+        "/hot-ticket",
+        "/orange-chowk",
+        "",
+        "/palmyrion",
+        "/radisson-blu",
+        "/services",
+        "/twentyone",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/thumbnails/rb_Landscape.jpg",
+      "type": "image",
+      "used_in": [
+        "",
+        "/services",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    },
+    {
+      "path": "assets/thumbnails/rb_Portrait.jpg",
+      "type": "image",
+      "used_in": [
+        "",
+        "/services",
+        "/work"
+      ],
+      "detection_method": "static",
+      "missingReference": false
+    }
+  ]
+}

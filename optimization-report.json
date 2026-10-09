@@ -1,0 +1,32 @@
+[
+  {
+    "file": "public/assets/Project-images/everlend/scroll-hero.mp4",
+    "usedIn": "/everlend, public/build/js/main-e03077acdb.js",
+    "originalMB": 67.84495067596436,
+    "optimizedMB": 67.84495067596436,
+    "savedMB": 0,
+    "savedPercent": 0,
+    "codecBefore": "h264",
+    "codecAfter": "h264",
+    "bitrateBefore": 2423250,
+    "bitrateAfter": 2423250,
+    "ssim": "-",
+    "vmaf": "-",
+    "status": "Optimized size larger"
+  },
+  {
+    "file": "public/assets/images/hm-hero-mobile-non-retina.mp4",
+    "usedIn": "src/sections/home/HeroSection.jsx",
+    "originalMB": 1.0640134811401367,
+    "optimizedMB": 1.0640134811401367,
+    "savedMB": 0,
+    "savedPercent": 0,
+    "codecBefore": "h264",
+    "codecAfter": "h264",
+    "bitrateBefore": 235137,
+    "bitrateAfter": 235137,
+    "ssim": "-",
+    "vmaf": "-",
+    "status": "Optimized size larger"
+  }
+]

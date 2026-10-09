@@ -1,0 +1,5738 @@
+{
+  "totalMediaFiles": 261,
+  "totalSize": 86939112,
+  "topLargest": [
+    {
+      "path": "public/assets/Project-images/metro/Banner.gif",
+      "size": 2240226
+    },
+    {
+      "path": "assets/Project-images/metro/Banner.gif",
+      "size": 2240226
+    },
+    {
+      "path": "public/assets/Project-images/Radisson-Blu/rb_hero-image-4.png",
+      "size": 2133416
+    },
+    {
+      "path": "assets/Project-images/Radisson-Blu/rb_hero-image-4.png",
+      "size": 2133416
+    },
+    {
+      "path": "public/assets/Project-images/palmyrion/palm_hero-image_portrait.png",
+      "size": 2083241
+    },
+    {
+      "path": "assets/Project-images/palmyrion/palm_hero-image_portrait.png",
+      "size": 2083241
+    },
+    {
+      "path": "public/assets/Project-images/Orange-chowk/oc_hero-image_portrait.png",
+      "size": 1662394
+    },
+    {
+      "path": "assets/Project-images/Orange-chowk/oc_hero-image_portrait.png",
+      "size": 1662394
+    },
+    {
+      "path": "public/assets/Project-images/palmyrion/palm_hero-image.png",
+      "size": 1607148
+    },
+    {
+      "path": "assets/Project-images/palmyrion/palm_hero-image.png",
+      "size": 1607148
+    },
+    {
+      "path": "public/assets/Project-images/Radisson-Blu/rb_hero-image_portrait.png",
+      "size": 1592405
+    },
+    {
+      "path": "assets/Project-images/Radisson-Blu/rb_hero-image_portrait.png",
+      "size": 1592405
+    },
+    {
+      "path": "public/assets/Project-images/Mantram/mi_hero-image_portrait.png",
+      "size": 1427852
+    },
+    {
+      "path": "assets/Project-images/Mantram/mi_hero-image_portrait.png",
+      "size": 1427852
+    },
+    {
+      "path": "public/assets/Project-images/alma/aj_hero-image_portrait.png",
+      "size": 1362595
+    },
+    {
+      "path": "assets/Project-images/alma/aj_hero-image_portrait.png",
+      "size": 1362595
+    },
+    {
+      "path": "public/assets/images/about/branding.gif",
+      "size": 1322173
+    },
+    {
+      "path": "public/assets/images/branding_GIF.gif",
+      "size": 1322173
+    },
+    {
+      "path": "assets/images/about/branding.gif",
+      "size": 1322173
+    },
+    {
+      "path": "public/assets/Project-images/pakawalla/pk_hero-image_portrait.png",
+      "size": 1264105
+    }
+  ],
+  "unusedAssets": [
+    {
+      "path": "assets/Project-images/Orange-chowk/IMG_2302.jpg",
+      "size": 37131
+    },
+    {
+      "path": "assets/Project-images/apsara/case-image-2.jpg",
+      "size": 31557
+    },
+    {
+      "path": "assets/Project-images/hot-ticket/ht-content-02.jpg",
+      "size": 44975
+    },
+    {
+      "path": "assets/Project-images/hot-ticket/ht_hero-image.png",
+      "size": 238887
+    },
+    {
+      "path": "assets/Project-images/nexxara/homepage-mobile-1.jpg",
+      "size": 51195
+    },
+    {
+      "path": "assets/Project-images/nsd/homepage-mobile-1.jpg",
+      "size": 9191
+    },
+    {
+      "path": "assets/Project-images/nsd/nsd_hero-image.png",
+      "size": 799216
+    },
+    {
+      "path": "assets/images/cursor.svg",
+      "size": 681
+    },
+    {
+      "path": "public/assets/images/hero-illustration.png",
+      "size": 632348
+    },
+    {
+      "path": "assets/images/landing/hm-hero-mobile.png",
+      "size": 15536
+    },
+    {
+      "path": "public/assets/people/aditi.png",
+      "size": 420668
+    },
+    {
+      "path": "assets/spritesheets/behind_eye.png",
+      "size": 2726
+    },
+    {
+      "path": "assets/spritesheets/dot2.png",
+      "size": 546
+    },
+    {
+      "path": "assets/spritesheets/face_all.png",
+      "size": 33226
+    },
+    {
+      "path": "assets/spritesheets/menu_blob_init.png",
+      "size": 2109
+    },
+    {
+      "path": "assets/spritesheets/menu_blob_init_black.png",
+      "size": 2109
+    },
+    {
+      "path": "assets/spritesheets/play-pause.png",
+      "size": 3090
+    },
+    {
+      "path": "assets/spritesheets/scroll-dot (1).png",
+      "size": 3581
+    },
+    {
+      "path": "assets/spritesheets/scroll-dot.png",
+      "size": 3581
+    },
+    {
+      "path": "public/favicon_io/android-chrome-192x192.png",
+      "size": 5501
+    },
+    {
+      "path": "public/favicon_io/android-chrome-512x512.png",
+      "size": 17882
+    },
+    {
+      "path": "public/file.svg",
+      "size": 391
+    },
+    {
+      "path": "public/globe.svg",
+      "size": 1035
+    },
+    {
+      "path": "public/next.svg",
+      "size": 1375
+    },
+    {
+      "path": "public/vercel.svg",
+      "size": 128
+    },
+    {
+      "path": "public/window.svg",
+      "size": 385
+    }
+  ],
+  "missingRefs": [
+    {
+      "file": "app/alma/page.tsx",
+      "ref": "lazyload\" data-src=\"/assets/Project-images/alma/Mantram-Scroll.mp4"
+    },
+    {
+      "file": "app/everlend/page.tsx",
+      "ref": "lazyload\" data-src=\"/assets/Project-images/everlend/scroll-hero.mp4"
+    },
+    {
+      "file": "app/hot-ticket/page.tsx",
+      "ref": "lazyloading\" data-src=\"\" style={{position: 'absolute', inset: '0', width: '100%', height: '100%', objectFit: 'cover', display: 'block', boxShadow: '0px 32px 64px 0px rgba(0, 0, 0, 0)'}} muted autoPlay loop playsInline preload=\"none\" src=\"/assets/Project-images/hot-ticket/FInal-render-D.mp4"
+    },
+    {
+      "file": "app/mantram-industries/page.tsx",
+      "ref": "lazyload\" data-src=\"/assets/Project-images/Mantram/Mantram-Scroll.mp4"
+    },
+    {
+      "file": "app/mantram-industries/page.tsx",
+      "ref": "lazyload\" data-src=\"/assets/Project-images/Mantram/Mobile-record.mp4"
+    },
+    {
+      "file": "app/metro-chem/page.tsx",
+      "ref": "/assets/Project-images/metro/metro_hero-image_portrait.png"
+    },
+    {
+      "file": "app/nexxara/page.tsx",
+      "ref": "lazyload\" data-src=\"/assets/Project-images/nexxara/scroll.mp4"
+    },
+    {
+      "file": "app/orange-chowk/page.tsx",
+      "ref": "lazyload\" data-src=\"/assets/Project-images/Orange-chowk/first-scroll.mov"
+    },
+    {
+      "file": "app/page.tsx",
+      "ref": "auto\" src=\"/assets/video/animations/hm-hero-mobile.mp4"
+    },
+    {
+      "file": "app/pakawalla/page.tsx",
+      "ref": "lazyload\" data-src=\"/assets/Project-images/pakawalla/scroll-web.mp4"
+    },
+    {
+      "file": "src/data/stories.js",
+      "ref": "/assets/images/story-one.jpg"
+    },
+    {
+      "file": "app/alma/page.tsx",
+      "ref": "lazyload\" data-src=\"/assets/Project-images/alma/Mantram-Scroll.mp4"
+    },
+    {
+      "file": "app/everlend/page.tsx",
+      "ref": "lazyload\" data-src=\"/assets/Project-images/everlend/scroll-hero.mp4"
+    },
+    {
+      "file": "app/hot-ticket/page.tsx",
+      "ref": "lazyloading\" data-src=\"\" style={{position: 'absolute', inset: '0', width: '100%', height: '100%', objectFit: 'cover', display: 'block', boxShadow: '0px 32px 64px 0px rgba(0, 0, 0, 0)'}} muted autoPlay loop playsInline preload=\"none\" src=\"/assets/Project-images/hot-ticket/FInal-render-D.mp4"
+    },
+    {
+      "file": "app/mantram-industries/page.tsx",
+      "ref": "lazyload\" data-src=\"/assets/Project-images/Mantram/Mantram-Scroll.mp4"
+    },
+    {
+      "file": "app/mantram-industries/page.tsx",
+      "ref": "lazyload\" data-src=\"/assets/Project-images/Mantram/Mobile-record.mp4"
+    },
+    {
+      "file": "app/metro-chem/page.tsx",
+      "ref": "/assets/Project-images/metro/metro_hero-image_portrait.png"
+    },
+    {
+      "file": "app/nexxara/page.tsx",
+      "ref": "lazyload\" data-src=\"/assets/Project-images/nexxara/scroll.mp4"
+    },
+    {
+      "file": "app/orange-chowk/page.tsx",
+      "ref": "lazyload\" data-src=\"/assets/Project-images/Orange-chowk/first-scroll.mov"
+    },
+    {
+      "file": "app/page.tsx",
+      "ref": "auto\" src=\"/assets/video/animations/hm-hero-mobile.mp4"
+    },
+    {
+      "file": "app/pakawalla/page.tsx",
+      "ref": "lazyload\" data-src=\"/assets/Project-images/pakawalla/scroll-web.mp4"
+    },
+    {
+      "file": "assets/spritesheets/behind_eye.json",
+      "ref": "eye01.png"
+    },
+    {
+      "file": "assets/spritesheets/behind_eye.json",
+      "ref": "eye02.png"
+    },
+    {
+      "file": "assets/spritesheets/behind_eye.json",
+      "ref": "eye03.png"
+    },
+    {
+      "file": "assets/spritesheets/behind_eye.json",
+      "ref": "eye04.png"
+    },
+    {
+      "file": "assets/spritesheets/behind_eye.json",
+      "ref": "eye05.png"
+    },
+    {
+      "file": "assets/spritesheets/behind_eye.json",
+      "ref": "eye06.png"
+    },
+    {
+      "file": "assets/spritesheets/behind_eye.json",
+      "ref": "eye\": [\"eye01.png"
+    },
+    {
+      "file": "assets/spritesheets/behind_eye.json",
+      "ref": "eye02.png"
+    },
+    {
+      "file": "assets/spritesheets/behind_eye.json",
+      "ref": "eye03.png"
+    },
+    {
+      "file": "assets/spritesheets/behind_eye.json",
+      "ref": "eye04.png"
+    },
+    {
+      "file": "assets/spritesheets/behind_eye.json",
+      "ref": "eye05.png"
+    },
+    {
+      "file": "assets/spritesheets/behind_eye.json",
+      "ref": "eye06.png"
+    },
+    {
+      "file": "assets/spritesheets/behind_eye.json",
+      "ref": "image\": \"behind_eye.png"
+    },
+    {
+      "file": "assets/spritesheets/dot2.json",
+      "ref": "dot_hm0.png"
+    },
+    {
+      "file": "assets/spritesheets/dot2.json",
+      "ref": "dot_hm1.png"
+    },
+    {
+      "file": "assets/spritesheets/dot2.json",
+      "ref": "dot_hm2.png"
+    },
+    {
+      "file": "assets/spritesheets/dot2.json",
+      "ref": "dot_hm3.png"
+    },
+    {
+      "file": "assets/spritesheets/dot2.json",
+      "ref": "dot_hm4.png"
+    },
+    {
+      "file": "assets/spritesheets/dot2.json",
+      "ref": "dot_hm5.png"
+    },
+    {
+      "file": "assets/spritesheets/dot2.json",
+      "ref": "dot_hm6.png"
+    },
+    {
+      "file": "assets/spritesheets/dot2.json",
+      "ref": "dot_hm7.png"
+    },
+    {
+      "file": "assets/spritesheets/dot2.json",
+      "ref": "dot_hm8.png"
+    },
+    {
+      "file": "assets/spritesheets/dot2.json",
+      "ref": "dot_hm9.png"
+    },
+    {
+      "file": "assets/spritesheets/dot2.json",
+      "ref": "dot_hm10.png"
+    },
+    {
+      "file": "assets/spritesheets/dot2.json",
+      "ref": "dot_hm11.png"
+    },
+    {
+      "file": "assets/spritesheets/dot2.json",
+      "ref": "dot_hm12.png"
+    },
+    {
+      "file": "assets/spritesheets/dot2.json",
+      "ref": "dot_hm13.png"
+    },
+    {
+      "file": "assets/spritesheets/dot2.json",
+      "ref": "dot_hm14.png"
+    },
+    {
+      "file": "assets/spritesheets/dot2.json",
+      "ref": "dot_hm15.png"
+    },
+    {
+      "file": "assets/spritesheets/dot2.json",
+      "ref": "dot_hm\": [\"dot_hm0.png"
+    },
+    {
+      "file": "assets/spritesheets/dot2.json",
+      "ref": "dot_hm1.png"
+    },
+    {
+      "file": "assets/spritesheets/dot2.json",
+      "ref": "dot_hm2.png"
+    },
+    {
+      "file": "assets/spritesheets/dot2.json",
+      "ref": "dot_hm3.png"
+    },
+    {
+      "file": "assets/spritesheets/dot2.json",
+      "ref": "dot_hm4.png"
+    },
+    {
+      "file": "assets/spritesheets/dot2.json",
+      "ref": "dot_hm5.png"
+    },
+    {
+      "file": "assets/spritesheets/dot2.json",
+      "ref": "dot_hm6.png"
+    },
+    {
+      "file": "assets/spritesheets/dot2.json",
+      "ref": "dot_hm7.png"
+    },
+    {
+      "file": "assets/spritesheets/dot2.json",
+      "ref": "dot_hm8.png"
+    },
+    {
+      "file": "assets/spritesheets/dot2.json",
+      "ref": "dot_hm9.png"
+    },
+    {
+      "file": "assets/spritesheets/dot2.json",
+      "ref": "dot_hm10.png"
+    },
+    {
+      "file": "assets/spritesheets/dot2.json",
+      "ref": "dot_hm11.png"
+    },
+    {
+      "file": "assets/spritesheets/dot2.json",
+      "ref": "dot_hm12.png"
+    },
+    {
+      "file": "assets/spritesheets/dot2.json",
+      "ref": "dot_hm13.png"
+    },
+    {
+      "file": "assets/spritesheets/dot2.json",
+      "ref": "dot_hm14.png"
+    },
+    {
+      "file": "assets/spritesheets/dot2.json",
+      "ref": "dot_hm15.png"
+    },
+    {
+      "file": "assets/spritesheets/dot2.json",
+      "ref": "image\": \"dot2.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0000.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0001.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0002.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0003.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0004.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0005.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0006.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0007.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0008.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0009.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0010.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0011.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0012.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0013.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0014.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0015.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0016.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0000.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0001.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0002.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0003.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0004.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0005.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0006.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0007.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0008.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0009.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0010.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0011.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0012.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0013.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0014.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0015.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0016.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0017.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0018.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0019.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0020.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0021.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0022.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0000.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0001.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0002.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0003.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0004.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0005.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0006.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0007.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0008.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0009.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0010.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0011.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0012.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0000.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0001.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0002.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0003.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0004.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0005.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0006.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0007.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0008.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0009.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0010.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0000.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0001.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0002.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0003.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0004.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0005.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0006.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0007.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0008.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0009.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0010.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90000.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90001.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90002.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90003.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90004.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90005.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90006.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90007.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90008.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90009.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90010.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90011.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90012.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90013.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90014.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90015.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90016.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90017.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90018.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90019.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90020.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90021.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90022.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90023.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90024.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90025.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90026.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90027.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90028.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90029.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90030.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90031.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90032.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90033.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90034.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90035.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90036.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90037.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90038.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown001.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown002.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown003.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown004.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown005.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown006.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown007.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown008.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown009.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown010.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown011.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown012.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown013.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby\": [\"AdultToBaby/AdultToBaby0000.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0001.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0002.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0003.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0004.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0005.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0006.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0007.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0008.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0009.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0010.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0011.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0012.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0013.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0014.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0015.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0016.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen\": [\"BabyToTeen/BabyToTeen0000.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0001.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0002.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0003.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0004.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0005.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0006.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0007.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0008.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0009.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0010.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0011.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0012.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0013.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0014.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0015.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0016.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0017.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0018.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0019.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0020.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0021.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0022.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "DownUp\": [\"DownUp/DownUp0000.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0001.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0002.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0003.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0004.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0005.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0006.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0007.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0008.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0009.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0010.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0011.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0012.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "LtoR\": [\"LtoR/LtoR0000.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0001.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0002.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0003.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0004.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0005.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0006.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0007.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0008.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0009.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0010.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "RtoL\": [\"RtoL/RtoL0000.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0001.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0002.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0003.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0004.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0005.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0006.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0007.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0008.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0009.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0010.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult\": [\"TeenToAdult/Untitled-90000.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90001.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90002.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90003.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90004.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90005.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90006.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90007.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90008.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90009.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90010.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90011.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90012.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90013.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90014.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90015.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90016.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90017.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90018.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90019.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90020.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90021.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90022.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90023.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90024.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90025.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90026.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90027.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90028.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90029.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90030.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90031.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90032.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90033.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90034.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90035.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90036.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90037.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90038.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "UpDown\": [\"UpDown/UpDown001.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown002.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown003.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown004.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown005.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown006.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown007.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown008.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown009.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown010.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown011.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown012.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown013.png"
+    },
+    {
+      "file": "assets/spritesheets/face_all.json",
+      "ref": "image\": \"face_all.png"
+    },
+    {
+      "file": "assets/spritesheets/menu_blob_init.json",
+      "ref": "blob-hover-entry_00174.png"
+    },
+    {
+      "file": "assets/spritesheets/menu_blob_init.json",
+      "ref": "blob-hover-entry_00175.png"
+    },
+    {
+      "file": "assets/spritesheets/menu_blob_init.json",
+      "ref": "blob-hover-entry_00176.png"
+    },
+    {
+      "file": "assets/spritesheets/menu_blob_init.json",
+      "ref": "blob-hover-entry_00177.png"
+    },
+    {
+      "file": "assets/spritesheets/menu_blob_init.json",
+      "ref": "blob-hover-entry_00178.png"
+    },
+    {
+      "file": "assets/spritesheets/menu_blob_init.json",
+      "ref": "blob-hover-entry_00179.png"
+    },
+    {
+      "file": "assets/spritesheets/menu_blob_init.json",
+      "ref": "blob-hover-entry_00180.png"
+    },
+    {
+      "file": "assets/spritesheets/menu_blob_init.json",
+      "ref": "blob-hover-entry_00181.png"
+    },
+    {
+      "file": "assets/spritesheets/menu_blob_init.json",
+      "ref": "blob-hover-entry_00182.png"
+    },
+    {
+      "file": "assets/spritesheets/menu_blob_init.json",
+      "ref": "blob-hover-entry\": [\"blob-hover-entry_00174.png"
+    },
+    {
+      "file": "assets/spritesheets/menu_blob_init.json",
+      "ref": "blob-hover-entry_00175.png"
+    },
+    {
+      "file": "assets/spritesheets/menu_blob_init.json",
+      "ref": "blob-hover-entry_00176.png"
+    },
+    {
+      "file": "assets/spritesheets/menu_blob_init.json",
+      "ref": "blob-hover-entry_00177.png"
+    },
+    {
+      "file": "assets/spritesheets/menu_blob_init.json",
+      "ref": "blob-hover-entry_00178.png"
+    },
+    {
+      "file": "assets/spritesheets/menu_blob_init.json",
+      "ref": "blob-hover-entry_00179.png"
+    },
+    {
+      "file": "assets/spritesheets/menu_blob_init.json",
+      "ref": "blob-hover-entry_00180.png"
+    },
+    {
+      "file": "assets/spritesheets/menu_blob_init.json",
+      "ref": "blob-hover-entry_00181.png"
+    },
+    {
+      "file": "assets/spritesheets/menu_blob_init.json",
+      "ref": "blob-hover-entry_00182.png"
+    },
+    {
+      "file": "assets/spritesheets/menu_blob_init.json",
+      "ref": "image\": \"menu_blob_init.png"
+    },
+    {
+      "file": "assets/spritesheets/menu_blob_init_black.json",
+      "ref": "theFrameX0174.png"
+    },
+    {
+      "file": "assets/spritesheets/menu_blob_init_black.json",
+      "ref": "theFrameX0175.png"
+    },
+    {
+      "file": "assets/spritesheets/menu_blob_init_black.json",
+      "ref": "theFrameX0176.png"
+    },
+    {
+      "file": "assets/spritesheets/menu_blob_init_black.json",
+      "ref": "theFrameX0177.png"
+    },
+    {
+      "file": "assets/spritesheets/menu_blob_init_black.json",
+      "ref": "theFrameX0178.png"
+    },
+    {
+      "file": "assets/spritesheets/menu_blob_init_black.json",
+      "ref": "theFrameX0179.png"
+    },
+    {
+      "file": "assets/spritesheets/menu_blob_init_black.json",
+      "ref": "theFrameX0180.png"
+    },
+    {
+      "file": "assets/spritesheets/menu_blob_init_black.json",
+      "ref": "theFrameX0181.png"
+    },
+    {
+      "file": "assets/spritesheets/menu_blob_init_black.json",
+      "ref": "theFrameX0182.png"
+    },
+    {
+      "file": "assets/spritesheets/menu_blob_init_black.json",
+      "ref": "blob-hover-entry\": [\"theFrameX0174.png"
+    },
+    {
+      "file": "assets/spritesheets/menu_blob_init_black.json",
+      "ref": "theFrameX0175.png"
+    },
+    {
+      "file": "assets/spritesheets/menu_blob_init_black.json",
+      "ref": "theFrameX0176.png"
+    },
+    {
+      "file": "assets/spritesheets/menu_blob_init_black.json",
+      "ref": "theFrameX0177.png"
+    },
+    {
+      "file": "assets/spritesheets/menu_blob_init_black.json",
+      "ref": "theFrameX0178.png"
+    },
+    {
+      "file": "assets/spritesheets/menu_blob_init_black.json",
+      "ref": "theFrameX0179.png"
+    },
+    {
+      "file": "assets/spritesheets/menu_blob_init_black.json",
+      "ref": "theFrameX0180.png"
+    },
+    {
+      "file": "assets/spritesheets/menu_blob_init_black.json",
+      "ref": "theFrameX0181.png"
+    },
+    {
+      "file": "assets/spritesheets/menu_blob_init_black.json",
+      "ref": "theFrameX0182.png"
+    },
+    {
+      "file": "assets/spritesheets/menu_blob_init_black.json",
+      "ref": "image\": \"menu_blob_init_black.png"
+    },
+    {
+      "file": "assets/spritesheets/play-pause.json",
+      "ref": "play_pause0.png"
+    },
+    {
+      "file": "assets/spritesheets/play-pause.json",
+      "ref": "play_pause1.png"
+    },
+    {
+      "file": "assets/spritesheets/play-pause.json",
+      "ref": "play_pause2.png"
+    },
+    {
+      "file": "assets/spritesheets/play-pause.json",
+      "ref": "play_pause3.png"
+    },
+    {
+      "file": "assets/spritesheets/play-pause.json",
+      "ref": "play_pause4.png"
+    },
+    {
+      "file": "assets/spritesheets/play-pause.json",
+      "ref": "play_pause5.png"
+    },
+    {
+      "file": "assets/spritesheets/play-pause.json",
+      "ref": "play_pause6.png"
+    },
+    {
+      "file": "assets/spritesheets/play-pause.json",
+      "ref": "play_pause7.png"
+    },
+    {
+      "file": "assets/spritesheets/play-pause.json",
+      "ref": "play_pause8.png"
+    },
+    {
+      "file": "assets/spritesheets/play-pause.json",
+      "ref": "play_pause9.png"
+    },
+    {
+      "file": "assets/spritesheets/play-pause.json",
+      "ref": "play_pause\": [\"play_pause0.png"
+    },
+    {
+      "file": "assets/spritesheets/play-pause.json",
+      "ref": "play_pause1.png"
+    },
+    {
+      "file": "assets/spritesheets/play-pause.json",
+      "ref": "play_pause2.png"
+    },
+    {
+      "file": "assets/spritesheets/play-pause.json",
+      "ref": "play_pause3.png"
+    },
+    {
+      "file": "assets/spritesheets/play-pause.json",
+      "ref": "play_pause4.png"
+    },
+    {
+      "file": "assets/spritesheets/play-pause.json",
+      "ref": "play_pause5.png"
+    },
+    {
+      "file": "assets/spritesheets/play-pause.json",
+      "ref": "play_pause6.png"
+    },
+    {
+      "file": "assets/spritesheets/play-pause.json",
+      "ref": "play_pause7.png"
+    },
+    {
+      "file": "assets/spritesheets/play-pause.json",
+      "ref": "play_pause8.png"
+    },
+    {
+      "file": "assets/spritesheets/play-pause.json",
+      "ref": "play_pause9.png"
+    },
+    {
+      "file": "assets/spritesheets/play-pause.json",
+      "ref": "image\": \"play-pause.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00000.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00001.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00002.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00003.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00004.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00005.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00006.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00007.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00008.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00009.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00010.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00011.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00012.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00013.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00014.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00015.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00016.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00017.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00018.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00019.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00020.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00021.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00022.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00023.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00024.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00025.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00026.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00027.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00028.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00029.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00030.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00031.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00032.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00033.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00034.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00035.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00036.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00037.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00038.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00039.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00040.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00041.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00042.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot\": [\"dot_00000.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00001.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00002.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00003.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00004.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00005.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00006.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00007.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00008.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00009.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00010.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00011.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00012.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00013.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00014.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00015.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00016.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00017.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00018.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00019.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00020.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00021.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00022.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00023.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00024.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00025.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00026.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00027.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00028.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00029.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00030.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00031.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00032.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00033.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00034.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00035.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00036.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00037.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00038.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00039.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00040.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00041.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00042.png"
+    },
+    {
+      "file": "assets/spritesheets/scroll-dot.json",
+      "ref": "image\": \"scroll-dot.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/behind_eye.json",
+      "ref": "eye01.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/behind_eye.json",
+      "ref": "eye02.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/behind_eye.json",
+      "ref": "eye03.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/behind_eye.json",
+      "ref": "eye04.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/behind_eye.json",
+      "ref": "eye05.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/behind_eye.json",
+      "ref": "eye06.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/behind_eye.json",
+      "ref": "eye\": [\"eye01.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/behind_eye.json",
+      "ref": "eye02.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/behind_eye.json",
+      "ref": "eye03.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/behind_eye.json",
+      "ref": "eye04.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/behind_eye.json",
+      "ref": "eye05.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/behind_eye.json",
+      "ref": "eye06.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/behind_eye.json",
+      "ref": "image\": \"behind_eye.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/dot2.json",
+      "ref": "dot_hm0.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/dot2.json",
+      "ref": "dot_hm1.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/dot2.json",
+      "ref": "dot_hm2.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/dot2.json",
+      "ref": "dot_hm3.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/dot2.json",
+      "ref": "dot_hm4.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/dot2.json",
+      "ref": "dot_hm5.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/dot2.json",
+      "ref": "dot_hm6.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/dot2.json",
+      "ref": "dot_hm7.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/dot2.json",
+      "ref": "dot_hm8.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/dot2.json",
+      "ref": "dot_hm9.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/dot2.json",
+      "ref": "dot_hm10.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/dot2.json",
+      "ref": "dot_hm11.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/dot2.json",
+      "ref": "dot_hm12.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/dot2.json",
+      "ref": "dot_hm13.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/dot2.json",
+      "ref": "dot_hm14.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/dot2.json",
+      "ref": "dot_hm15.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/dot2.json",
+      "ref": "dot_hm\": [\"dot_hm0.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/dot2.json",
+      "ref": "dot_hm1.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/dot2.json",
+      "ref": "dot_hm2.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/dot2.json",
+      "ref": "dot_hm3.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/dot2.json",
+      "ref": "dot_hm4.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/dot2.json",
+      "ref": "dot_hm5.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/dot2.json",
+      "ref": "dot_hm6.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/dot2.json",
+      "ref": "dot_hm7.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/dot2.json",
+      "ref": "dot_hm8.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/dot2.json",
+      "ref": "dot_hm9.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/dot2.json",
+      "ref": "dot_hm10.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/dot2.json",
+      "ref": "dot_hm11.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/dot2.json",
+      "ref": "dot_hm12.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/dot2.json",
+      "ref": "dot_hm13.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/dot2.json",
+      "ref": "dot_hm14.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/dot2.json",
+      "ref": "dot_hm15.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/dot2.json",
+      "ref": "image\": \"dot2.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0000.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0001.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0002.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0003.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0004.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0005.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0006.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0007.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0008.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0009.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0010.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0011.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0012.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0013.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0014.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0015.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0016.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0000.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0001.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0002.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0003.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0004.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0005.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0006.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0007.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0008.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0009.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0010.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0011.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0012.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0013.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0014.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0015.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0016.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0017.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0018.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0019.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0020.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0021.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0022.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0000.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0001.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0002.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0003.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0004.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0005.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0006.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0007.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0008.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0009.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0010.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0011.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0012.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0000.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0001.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0002.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0003.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0004.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0005.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0006.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0007.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0008.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0009.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0010.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0000.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0001.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0002.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0003.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0004.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0005.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0006.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0007.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0008.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0009.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0010.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90000.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90001.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90002.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90003.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90004.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90005.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90006.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90007.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90008.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90009.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90010.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90011.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90012.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90013.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90014.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90015.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90016.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90017.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90018.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90019.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90020.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90021.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90022.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90023.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90024.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90025.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90026.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90027.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90028.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90029.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90030.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90031.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90032.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90033.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90034.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90035.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90036.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90037.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90038.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown001.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown002.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown003.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown004.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown005.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown006.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown007.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown008.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown009.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown010.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown011.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown012.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown013.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "AdultToBaby\": [\"AdultToBaby/AdultToBaby0000.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0001.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0002.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0003.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0004.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0005.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0006.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0007.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0008.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0009.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0010.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0011.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0012.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0013.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0014.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0015.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0016.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "BabyToTeen\": [\"BabyToTeen/BabyToTeen0000.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0001.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0002.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0003.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0004.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0005.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0006.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0007.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0008.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0009.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0010.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0011.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0012.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0013.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0014.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0015.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0016.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0017.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0018.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0019.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0020.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0021.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0022.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "DownUp\": [\"DownUp/DownUp0000.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0001.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0002.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0003.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0004.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0005.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0006.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0007.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0008.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0009.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0010.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0011.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0012.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "LtoR\": [\"LtoR/LtoR0000.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0001.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0002.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0003.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0004.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0005.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0006.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0007.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0008.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0009.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0010.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "RtoL\": [\"RtoL/RtoL0000.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0001.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0002.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0003.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0004.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0005.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0006.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0007.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0008.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0009.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0010.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult\": [\"TeenToAdult/Untitled-90000.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90001.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90002.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90003.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90004.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90005.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90006.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90007.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90008.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90009.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90010.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90011.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90012.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90013.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90014.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90015.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90016.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90017.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90018.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90019.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90020.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90021.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90022.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90023.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90024.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90025.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90026.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90027.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90028.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90029.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90030.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90031.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90032.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90033.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90034.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90035.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90036.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90037.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90038.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "UpDown\": [\"UpDown/UpDown001.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown002.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown003.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown004.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown005.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown006.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown007.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown008.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown009.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown010.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown011.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown012.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown013.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/face_all.json",
+      "ref": "image\": \"face_all.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/menu_blob_init.json",
+      "ref": "blob-hover-entry_00174.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/menu_blob_init.json",
+      "ref": "blob-hover-entry_00175.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/menu_blob_init.json",
+      "ref": "blob-hover-entry_00176.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/menu_blob_init.json",
+      "ref": "blob-hover-entry_00177.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/menu_blob_init.json",
+      "ref": "blob-hover-entry_00178.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/menu_blob_init.json",
+      "ref": "blob-hover-entry_00179.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/menu_blob_init.json",
+      "ref": "blob-hover-entry_00180.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/menu_blob_init.json",
+      "ref": "blob-hover-entry_00181.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/menu_blob_init.json",
+      "ref": "blob-hover-entry_00182.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/menu_blob_init.json",
+      "ref": "blob-hover-entry\": [\"blob-hover-entry_00174.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/menu_blob_init.json",
+      "ref": "blob-hover-entry_00175.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/menu_blob_init.json",
+      "ref": "blob-hover-entry_00176.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/menu_blob_init.json",
+      "ref": "blob-hover-entry_00177.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/menu_blob_init.json",
+      "ref": "blob-hover-entry_00178.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/menu_blob_init.json",
+      "ref": "blob-hover-entry_00179.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/menu_blob_init.json",
+      "ref": "blob-hover-entry_00180.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/menu_blob_init.json",
+      "ref": "blob-hover-entry_00181.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/menu_blob_init.json",
+      "ref": "blob-hover-entry_00182.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/menu_blob_init.json",
+      "ref": "image\": \"menu_blob_init.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/menu_blob_init_black.json",
+      "ref": "theFrameX0174.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/menu_blob_init_black.json",
+      "ref": "theFrameX0175.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/menu_blob_init_black.json",
+      "ref": "theFrameX0176.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/menu_blob_init_black.json",
+      "ref": "theFrameX0177.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/menu_blob_init_black.json",
+      "ref": "theFrameX0178.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/menu_blob_init_black.json",
+      "ref": "theFrameX0179.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/menu_blob_init_black.json",
+      "ref": "theFrameX0180.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/menu_blob_init_black.json",
+      "ref": "theFrameX0181.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/menu_blob_init_black.json",
+      "ref": "theFrameX0182.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/menu_blob_init_black.json",
+      "ref": "blob-hover-entry\": [\"theFrameX0174.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/menu_blob_init_black.json",
+      "ref": "theFrameX0175.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/menu_blob_init_black.json",
+      "ref": "theFrameX0176.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/menu_blob_init_black.json",
+      "ref": "theFrameX0177.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/menu_blob_init_black.json",
+      "ref": "theFrameX0178.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/menu_blob_init_black.json",
+      "ref": "theFrameX0179.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/menu_blob_init_black.json",
+      "ref": "theFrameX0180.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/menu_blob_init_black.json",
+      "ref": "theFrameX0181.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/menu_blob_init_black.json",
+      "ref": "theFrameX0182.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/menu_blob_init_black.json",
+      "ref": "image\": \"menu_blob_init_black.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/play-pause.json",
+      "ref": "play_pause0.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/play-pause.json",
+      "ref": "play_pause1.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/play-pause.json",
+      "ref": "play_pause2.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/play-pause.json",
+      "ref": "play_pause3.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/play-pause.json",
+      "ref": "play_pause4.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/play-pause.json",
+      "ref": "play_pause5.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/play-pause.json",
+      "ref": "play_pause6.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/play-pause.json",
+      "ref": "play_pause7.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/play-pause.json",
+      "ref": "play_pause8.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/play-pause.json",
+      "ref": "play_pause9.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/play-pause.json",
+      "ref": "play_pause\": [\"play_pause0.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/play-pause.json",
+      "ref": "play_pause1.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/play-pause.json",
+      "ref": "play_pause2.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/play-pause.json",
+      "ref": "play_pause3.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/play-pause.json",
+      "ref": "play_pause4.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/play-pause.json",
+      "ref": "play_pause5.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/play-pause.json",
+      "ref": "play_pause6.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/play-pause.json",
+      "ref": "play_pause7.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/play-pause.json",
+      "ref": "play_pause8.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/play-pause.json",
+      "ref": "play_pause9.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/play-pause.json",
+      "ref": "image\": \"play-pause.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00000.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00001.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00002.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00003.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00004.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00005.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00006.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00007.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00008.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00009.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00010.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00011.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00012.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00013.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00014.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00015.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00016.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00017.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00018.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00019.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00020.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00021.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00022.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00023.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00024.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00025.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00026.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00027.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00028.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00029.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00030.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00031.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00032.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00033.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00034.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00035.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00036.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00037.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00038.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00039.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00040.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00041.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00042.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot\": [\"dot_00000.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00001.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00002.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00003.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00004.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00005.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00006.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00007.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00008.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00009.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00010.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00011.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00012.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00013.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00014.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00015.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00016.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00017.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00018.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00019.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00020.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00021.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00022.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00023.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00024.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00025.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00026.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00027.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00028.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00029.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00030.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00031.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00032.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00033.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00034.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00035.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00036.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00037.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00038.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00039.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00040.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00041.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "dot_00042.png"
+    },
+    {
+      "file": "assets-backup/spritesheets/scroll-dot.json",
+      "ref": "image\": \"scroll-dot.png"
+    },
+    {
+      "file": "build/js/main-e03077acdb.js",
+      "ref": "image/svg+xml\") || ui(t, \".svg"
+    },
+    {
+      "file": "build/js/main-e03077acdb.js",
+      "ref": ".webp"
+    },
+    {
+      "file": "build/js/main-e03077acdb.js",
+      "ref": ".avif"
+    },
+    {
+      "file": "build/js/main-e03077acdb.js",
+      "ref": ".m4v\", \".webm"
+    },
+    {
+      "file": "build/js/main-e03077acdb.js",
+      "ref": ".ogg\", \".ogv\", \".h264\", \".avi"
+    },
+    {
+      "file": "build/js/main-e03077acdb.js",
+      "ref": ".mov"
+    },
+    {
+      "file": "build/js/main-e03077acdb.js",
+      "ref": "cph_tadaa_once.gif"
+    },
+    {
+      "file": "build/js/main-e03077acdb.js",
+      "ref": "aarh_tadaa_once.gif"
+    },
+    {
+      "file": "public/assets/spritesheets/behind_eye.json",
+      "ref": "eye01.png"
+    },
+    {
+      "file": "public/assets/spritesheets/behind_eye.json",
+      "ref": "eye02.png"
+    },
+    {
+      "file": "public/assets/spritesheets/behind_eye.json",
+      "ref": "eye03.png"
+    },
+    {
+      "file": "public/assets/spritesheets/behind_eye.json",
+      "ref": "eye04.png"
+    },
+    {
+      "file": "public/assets/spritesheets/behind_eye.json",
+      "ref": "eye05.png"
+    },
+    {
+      "file": "public/assets/spritesheets/behind_eye.json",
+      "ref": "eye06.png"
+    },
+    {
+      "file": "public/assets/spritesheets/behind_eye.json",
+      "ref": "eye\": [\"eye01.png"
+    },
+    {
+      "file": "public/assets/spritesheets/behind_eye.json",
+      "ref": "eye02.png"
+    },
+    {
+      "file": "public/assets/spritesheets/behind_eye.json",
+      "ref": "eye03.png"
+    },
+    {
+      "file": "public/assets/spritesheets/behind_eye.json",
+      "ref": "eye04.png"
+    },
+    {
+      "file": "public/assets/spritesheets/behind_eye.json",
+      "ref": "eye05.png"
+    },
+    {
+      "file": "public/assets/spritesheets/behind_eye.json",
+      "ref": "eye06.png"
+    },
+    {
+      "file": "public/assets/spritesheets/behind_eye.json",
+      "ref": "image\": \"behind_eye.png"
+    },
+    {
+      "file": "public/assets/spritesheets/dot2.json",
+      "ref": "dot_hm0.png"
+    },
+    {
+      "file": "public/assets/spritesheets/dot2.json",
+      "ref": "dot_hm1.png"
+    },
+    {
+      "file": "public/assets/spritesheets/dot2.json",
+      "ref": "dot_hm2.png"
+    },
+    {
+      "file": "public/assets/spritesheets/dot2.json",
+      "ref": "dot_hm3.png"
+    },
+    {
+      "file": "public/assets/spritesheets/dot2.json",
+      "ref": "dot_hm4.png"
+    },
+    {
+      "file": "public/assets/spritesheets/dot2.json",
+      "ref": "dot_hm5.png"
+    },
+    {
+      "file": "public/assets/spritesheets/dot2.json",
+      "ref": "dot_hm6.png"
+    },
+    {
+      "file": "public/assets/spritesheets/dot2.json",
+      "ref": "dot_hm7.png"
+    },
+    {
+      "file": "public/assets/spritesheets/dot2.json",
+      "ref": "dot_hm8.png"
+    },
+    {
+      "file": "public/assets/spritesheets/dot2.json",
+      "ref": "dot_hm9.png"
+    },
+    {
+      "file": "public/assets/spritesheets/dot2.json",
+      "ref": "dot_hm10.png"
+    },
+    {
+      "file": "public/assets/spritesheets/dot2.json",
+      "ref": "dot_hm11.png"
+    },
+    {
+      "file": "public/assets/spritesheets/dot2.json",
+      "ref": "dot_hm12.png"
+    },
+    {
+      "file": "public/assets/spritesheets/dot2.json",
+      "ref": "dot_hm13.png"
+    },
+    {
+      "file": "public/assets/spritesheets/dot2.json",
+      "ref": "dot_hm14.png"
+    },
+    {
+      "file": "public/assets/spritesheets/dot2.json",
+      "ref": "dot_hm15.png"
+    },
+    {
+      "file": "public/assets/spritesheets/dot2.json",
+      "ref": "dot_hm\": [\"dot_hm0.png"
+    },
+    {
+      "file": "public/assets/spritesheets/dot2.json",
+      "ref": "dot_hm1.png"
+    },
+    {
+      "file": "public/assets/spritesheets/dot2.json",
+      "ref": "dot_hm2.png"
+    },
+    {
+      "file": "public/assets/spritesheets/dot2.json",
+      "ref": "dot_hm3.png"
+    },
+    {
+      "file": "public/assets/spritesheets/dot2.json",
+      "ref": "dot_hm4.png"
+    },
+    {
+      "file": "public/assets/spritesheets/dot2.json",
+      "ref": "dot_hm5.png"
+    },
+    {
+      "file": "public/assets/spritesheets/dot2.json",
+      "ref": "dot_hm6.png"
+    },
+    {
+      "file": "public/assets/spritesheets/dot2.json",
+      "ref": "dot_hm7.png"
+    },
+    {
+      "file": "public/assets/spritesheets/dot2.json",
+      "ref": "dot_hm8.png"
+    },
+    {
+      "file": "public/assets/spritesheets/dot2.json",
+      "ref": "dot_hm9.png"
+    },
+    {
+      "file": "public/assets/spritesheets/dot2.json",
+      "ref": "dot_hm10.png"
+    },
+    {
+      "file": "public/assets/spritesheets/dot2.json",
+      "ref": "dot_hm11.png"
+    },
+    {
+      "file": "public/assets/spritesheets/dot2.json",
+      "ref": "dot_hm12.png"
+    },
+    {
+      "file": "public/assets/spritesheets/dot2.json",
+      "ref": "dot_hm13.png"
+    },
+    {
+      "file": "public/assets/spritesheets/dot2.json",
+      "ref": "dot_hm14.png"
+    },
+    {
+      "file": "public/assets/spritesheets/dot2.json",
+      "ref": "dot_hm15.png"
+    },
+    {
+      "file": "public/assets/spritesheets/dot2.json",
+      "ref": "image\": \"dot2.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0000.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0001.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0002.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0003.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0004.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0005.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0006.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0007.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0008.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0009.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0010.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0011.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0012.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0013.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0014.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0015.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0016.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0000.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0001.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0002.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0003.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0004.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0005.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0006.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0007.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0008.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0009.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0010.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0011.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0012.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0013.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0014.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0015.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0016.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0017.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0018.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0019.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0020.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0021.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0022.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0000.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0001.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0002.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0003.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0004.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0005.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0006.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0007.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0008.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0009.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0010.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0011.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0012.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0000.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0001.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0002.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0003.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0004.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0005.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0006.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0007.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0008.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0009.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0010.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0000.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0001.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0002.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0003.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0004.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0005.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0006.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0007.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0008.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0009.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0010.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90000.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90001.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90002.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90003.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90004.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90005.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90006.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90007.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90008.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90009.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90010.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90011.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90012.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90013.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90014.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90015.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90016.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90017.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90018.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90019.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90020.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90021.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90022.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90023.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90024.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90025.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90026.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90027.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90028.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90029.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90030.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90031.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90032.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90033.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90034.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90035.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90036.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90037.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90038.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown001.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown002.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown003.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown004.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown005.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown006.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown007.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown008.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown009.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown010.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown011.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown012.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown013.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby\": [\"AdultToBaby/AdultToBaby0000.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0001.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0002.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0003.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0004.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0005.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0006.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0007.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0008.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0009.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0010.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0011.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0012.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0013.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0014.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0015.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "AdultToBaby/AdultToBaby0016.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen\": [\"BabyToTeen/BabyToTeen0000.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0001.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0002.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0003.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0004.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0005.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0006.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0007.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0008.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0009.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0010.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0011.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0012.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0013.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0014.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0015.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0016.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0017.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0018.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0019.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0020.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0021.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "BabyToTeen/BabyToTeen0022.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "DownUp\": [\"DownUp/DownUp0000.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0001.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0002.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0003.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0004.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0005.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0006.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0007.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0008.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0009.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0010.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0011.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "DownUp/DownUp0012.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "LtoR\": [\"LtoR/LtoR0000.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0001.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0002.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0003.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0004.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0005.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0006.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0007.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0008.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0009.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "LtoR/LtoR0010.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "RtoL\": [\"RtoL/RtoL0000.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0001.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0002.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0003.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0004.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0005.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0006.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0007.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0008.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0009.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "RtoL/RtoL0010.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult\": [\"TeenToAdult/Untitled-90000.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90001.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90002.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90003.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90004.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90005.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90006.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90007.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90008.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90009.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90010.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90011.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90012.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90013.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90014.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90015.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90016.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90017.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90018.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90019.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90020.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90021.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90022.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90023.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90024.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90025.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90026.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90027.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90028.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90029.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90030.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90031.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90032.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90033.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90034.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90035.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90036.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90037.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "TeenToAdult/Untitled-90038.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "UpDown\": [\"UpDown/UpDown001.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown002.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown003.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown004.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown005.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown006.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown007.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown008.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown009.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown010.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown011.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown012.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "UpDown/UpDown013.png"
+    },
+    {
+      "file": "public/assets/spritesheets/face_all.json",
+      "ref": "image\": \"face_all.png"
+    },
+    {
+      "file": "public/assets/spritesheets/menu_blob_init.json",
+      "ref": "blob-hover-entry_00174.png"
+    },
+    {
+      "file": "public/assets/spritesheets/menu_blob_init.json",
+      "ref": "blob-hover-entry_00175.png"
+    },
+    {
+      "file": "public/assets/spritesheets/menu_blob_init.json",
+      "ref": "blob-hover-entry_00176.png"
+    },
+    {
+      "file": "public/assets/spritesheets/menu_blob_init.json",
+      "ref": "blob-hover-entry_00177.png"
+    },
+    {
+      "file": "public/assets/spritesheets/menu_blob_init.json",
+      "ref": "blob-hover-entry_00178.png"
+    },
+    {
+      "file": "public/assets/spritesheets/menu_blob_init.json",
+      "ref": "blob-hover-entry_00179.png"
+    },
+    {
+      "file": "public/assets/spritesheets/menu_blob_init.json",
+      "ref": "blob-hover-entry_00180.png"
+    },
+    {
+      "file": "public/assets/spritesheets/menu_blob_init.json",
+      "ref": "blob-hover-entry_00181.png"
+    },
+    {
+      "file": "public/assets/spritesheets/menu_blob_init.json",
+      "ref": "blob-hover-entry_00182.png"
+    },
+    {
+      "file": "public/assets/spritesheets/menu_blob_init.json",
+      "ref": "blob-hover-entry\": [\"blob-hover-entry_00174.png"
+    },
+    {
+      "file": "public/assets/spritesheets/menu_blob_init.json",
+      "ref": "blob-hover-entry_00175.png"
+    },
+    {
+      "file": "public/assets/spritesheets/menu_blob_init.json",
+      "ref": "blob-hover-entry_00176.png"
+    },
+    {
+      "file": "public/assets/spritesheets/menu_blob_init.json",
+      "ref": "blob-hover-entry_00177.png"
+    },
+    {
+      "file": "public/assets/spritesheets/menu_blob_init.json",
+      "ref": "blob-hover-entry_00178.png"
+    },
+    {
+      "file": "public/assets/spritesheets/menu_blob_init.json",
+      "ref": "blob-hover-entry_00179.png"
+    },
+    {
+      "file": "public/assets/spritesheets/menu_blob_init.json",
+      "ref": "blob-hover-entry_00180.png"
+    },
+    {
+      "file": "public/assets/spritesheets/menu_blob_init.json",
+      "ref": "blob-hover-entry_00181.png"
+    },
+    {
+      "file": "public/assets/spritesheets/menu_blob_init.json",
+      "ref": "blob-hover-entry_00182.png"
+    },
+    {
+      "file": "public/assets/spritesheets/menu_blob_init.json",
+      "ref": "image\": \"menu_blob_init.png"
+    },
+    {
+      "file": "public/assets/spritesheets/menu_blob_init_black.json",
+      "ref": "theFrameX0174.png"
+    },
+    {
+      "file": "public/assets/spritesheets/menu_blob_init_black.json",
+      "ref": "theFrameX0175.png"
+    },
+    {
+      "file": "public/assets/spritesheets/menu_blob_init_black.json",
+      "ref": "theFrameX0176.png"
+    },
+    {
+      "file": "public/assets/spritesheets/menu_blob_init_black.json",
+      "ref": "theFrameX0177.png"
+    },
+    {
+      "file": "public/assets/spritesheets/menu_blob_init_black.json",
+      "ref": "theFrameX0178.png"
+    },
+    {
+      "file": "public/assets/spritesheets/menu_blob_init_black.json",
+      "ref": "theFrameX0179.png"
+    },
+    {
+      "file": "public/assets/spritesheets/menu_blob_init_black.json",
+      "ref": "theFrameX0180.png"
+    },
+    {
+      "file": "public/assets/spritesheets/menu_blob_init_black.json",
+      "ref": "theFrameX0181.png"
+    },
+    {
+      "file": "public/assets/spritesheets/menu_blob_init_black.json",
+      "ref": "theFrameX0182.png"
+    },
+    {
+      "file": "public/assets/spritesheets/menu_blob_init_black.json",
+      "ref": "blob-hover-entry\": [\"theFrameX0174.png"
+    },
+    {
+      "file": "public/assets/spritesheets/menu_blob_init_black.json",
+      "ref": "theFrameX0175.png"
+    },
+    {
+      "file": "public/assets/spritesheets/menu_blob_init_black.json",
+      "ref": "theFrameX0176.png"
+    },
+    {
+      "file": "public/assets/spritesheets/menu_blob_init_black.json",
+      "ref": "theFrameX0177.png"
+    },
+    {
+      "file": "public/assets/spritesheets/menu_blob_init_black.json",
+      "ref": "theFrameX0178.png"
+    },
+    {
+      "file": "public/assets/spritesheets/menu_blob_init_black.json",
+      "ref": "theFrameX0179.png"
+    },
+    {
+      "file": "public/assets/spritesheets/menu_blob_init_black.json",
+      "ref": "theFrameX0180.png"
+    },
+    {
+      "file": "public/assets/spritesheets/menu_blob_init_black.json",
+      "ref": "theFrameX0181.png"
+    },
+    {
+      "file": "public/assets/spritesheets/menu_blob_init_black.json",
+      "ref": "theFrameX0182.png"
+    },
+    {
+      "file": "public/assets/spritesheets/menu_blob_init_black.json",
+      "ref": "image\": \"menu_blob_init_black.png"
+    },
+    {
+      "file": "public/assets/spritesheets/play-pause.json",
+      "ref": "play_pause0.png"
+    },
+    {
+      "file": "public/assets/spritesheets/play-pause.json",
+      "ref": "play_pause1.png"
+    },
+    {
+      "file": "public/assets/spritesheets/play-pause.json",
+      "ref": "play_pause2.png"
+    },
+    {
+      "file": "public/assets/spritesheets/play-pause.json",
+      "ref": "play_pause3.png"
+    },
+    {
+      "file": "public/assets/spritesheets/play-pause.json",
+      "ref": "play_pause4.png"
+    },
+    {
+      "file": "public/assets/spritesheets/play-pause.json",
+      "ref": "play_pause5.png"
+    },
+    {
+      "file": "public/assets/spritesheets/play-pause.json",
+      "ref": "play_pause6.png"
+    },
+    {
+      "file": "public/assets/spritesheets/play-pause.json",
+      "ref": "play_pause7.png"
+    },
+    {
+      "file": "public/assets/spritesheets/play-pause.json",
+      "ref": "play_pause8.png"
+    },
+    {
+      "file": "public/assets/spritesheets/play-pause.json",
+      "ref": "play_pause9.png"
+    },
+    {
+      "file": "public/assets/spritesheets/play-pause.json",
+      "ref": "play_pause\": [\"play_pause0.png"
+    },
+    {
+      "file": "public/assets/spritesheets/play-pause.json",
+      "ref": "play_pause1.png"
+    },
+    {
+      "file": "public/assets/spritesheets/play-pause.json",
+      "ref": "play_pause2.png"
+    },
+    {
+      "file": "public/assets/spritesheets/play-pause.json",
+      "ref": "play_pause3.png"
+    },
+    {
+      "file": "public/assets/spritesheets/play-pause.json",
+      "ref": "play_pause4.png"
+    },
+    {
+      "file": "public/assets/spritesheets/play-pause.json",
+      "ref": "play_pause5.png"
+    },
+    {
+      "file": "public/assets/spritesheets/play-pause.json",
+      "ref": "play_pause6.png"
+    },
+    {
+      "file": "public/assets/spritesheets/play-pause.json",
+      "ref": "play_pause7.png"
+    },
+    {
+      "file": "public/assets/spritesheets/play-pause.json",
+      "ref": "play_pause8.png"
+    },
+    {
+      "file": "public/assets/spritesheets/play-pause.json",
+      "ref": "play_pause9.png"
+    },
+    {
+      "file": "public/assets/spritesheets/play-pause.json",
+      "ref": "image\": \"play-pause.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00000.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00001.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00002.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00003.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00004.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00005.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00006.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00007.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00008.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00009.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00010.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00011.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00012.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00013.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00014.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00015.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00016.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00017.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00018.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00019.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00020.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00021.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00022.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00023.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00024.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00025.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00026.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00027.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00028.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00029.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00030.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00031.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00032.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00033.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00034.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00035.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00036.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00037.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00038.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00039.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00040.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00041.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00042.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot\": [\"dot_00000.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00001.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00002.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00003.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00004.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00005.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00006.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00007.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00008.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00009.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00010.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00011.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00012.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00013.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00014.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00015.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00016.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00017.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00018.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00019.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00020.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00021.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00022.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00023.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00024.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00025.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00026.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00027.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00028.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00029.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00030.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00031.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00032.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00033.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00034.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00035.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00036.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00037.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00038.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00039.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00040.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00041.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "dot_00042.png"
+    },
+    {
+      "file": "public/assets/spritesheets/scroll-dot.json",
+      "ref": "image\": \"scroll-dot.png"
+    },
+    {
+      "file": "public/build/js/main-e03077acdb.js",
+      "ref": "image/svg+xml\") || ui(t, \".svg"
+    },
+    {
+      "file": "public/build/js/main-e03077acdb.js",
+      "ref": ".webp"
+    },
+    {
+      "file": "public/build/js/main-e03077acdb.js",
+      "ref": ".avif"
+    },
+    {
+      "file": "public/build/js/main-e03077acdb.js",
+      "ref": ".m4v\", \".webm"
+    },
+    {
+      "file": "public/build/js/main-e03077acdb.js",
+      "ref": ".ogg\", \".ogv\", \".h264\", \".avi"
+    },
+    {
+      "file": "public/build/js/main-e03077acdb.js",
+      "ref": ".mov"
+    },
+    {
+      "file": "public/build/js/main-e03077acdb.js",
+      "ref": "/assets/images/landing/hm-hero-\" + this._breakpoint + \".png"
+    },
+    {
+      "file": "public/build/js/main-e03077acdb.js",
+      "ref": "cph_tadaa_once.gif"
+    },
+    {
+      "file": "public/build/js/main-e03077acdb.js",
+      "ref": "aarh_tadaa_once.gif"
+    },
+    {
+      "file": "scripts/optimize-assets.js",
+      "ref": ".webp"
+    },
+    {
+      "file": "scripts/optimize-assets.js",
+      "ref": ".avif"
+    },
+    {
+      "file": "scripts/optimize-assets.js",
+      "ref": ".mov"
+    },
+    {
+      "file": "scripts/optimize-assets.js",
+      "ref": ".webm"
+    },
+    {
+      "file": "scripts/optimize-assets.js",
+      "ref": ".mkv"
+    },
+    {
+      "file": "scripts/optimize-assets.js",
+      "ref": ".avi"
+    },
+    {
+      "file": "src/data/stories.js",
+      "ref": "/assets/images/story-one.jpg"
+    }
+  ]
+}

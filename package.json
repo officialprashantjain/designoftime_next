@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "optimize:v7": "node scripts/optimize-assets-v7.js"
   },
   "dependencies": {
     "cheerio": "^1.2.0",
@@ -20,9 +21,24 @@
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "chalk": "^4.1.2",
+    "cli-progress": "^3.12.0",
+    "csv-writer": "^1.6.0",
     "eslint": "^9",
     "eslint-config-next": "16.2.7",
+    "ffmpeg-static": "^5.3.0",
+    "ffprobe-static": "^3.1.0",
+    "fluent-ffmpeg": "^2.1.3",
+    "fs-extra": "^11.3.5",
+    "imagemin": "^9.0.1",
+    "imagemin-mozjpeg": "^10.0.0",
+    "imagemin-optipng": "^8.0.0",
+    "imagemin-pngquant": "^10.0.0",
+    "imagemin-zopfli": "^7.0.0",
+    "p-limit": "^3.1.0",
     "puppeteer": "^25.1.0",
+    "sharp": "^0.35.1",
+    "ssim.js": "^3.5.0",
     "tailwindcss": "^4",
     "typescript": "^5"
   }

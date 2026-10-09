@@ -1,0 +1,3136 @@
+[
+  {
+    "path": "assets/Project-images/Mantram/Banner.png",
+    "size": 924667,
+    "references": [
+      {
+        "file": "app/mantram-industries/page.tsx",
+        "rawRef": "lazyload\" data-src=\"/assets/Project-images/Mantram/Banner.png"
+      },
+      {
+        "file": "app/mantram-industries/page.tsx",
+        "rawRef": "lazyload\" data-src=\"/assets/Project-images/Mantram/Banner.png"
+      },
+      {
+        "file": "build/js/main-e03077acdb.js",
+        "rawRef": ".png"
+      },
+      {
+        "file": "public/build/js/main-e03077acdb.js",
+        "rawRef": ".png"
+      },
+      {
+        "file": "scripts/optimize-assets.js",
+        "rawRef": ".png"
+      }
+    ]
+  },
+  {
+    "path": "assets/Project-images/Mantram/homepage-mobile-1.jpg",
+    "size": 21867,
+    "references": [
+      {
+        "file": "app/mantram-industries/page.tsx",
+        "rawRef": "/assets/Project-images/Mantram/homepage-mobile-1.jpg"
+      },
+      {
+        "file": "app/mantram-industries/page.tsx",
+        "rawRef": "/assets/Project-images/Mantram/homepage-mobile-1.jpg"
+      },
+      {
+        "file": "build/js/main-e03077acdb.js",
+        "rawRef": ".jpg"
+      },
+      {
+        "file": "public/build/js/main-e03077acdb.js",
+        "rawRef": ".jpg"
+      },
+      {
+        "file": "scripts/optimize-assets.js",
+        "rawRef": ".jpg"
+      }
+    ]
+  },
+  {
+    "path": "assets/Project-images/Mantram/homepage-mobile-2.jpg",
+    "size": 53124,
+    "references": [
+      {
+        "file": "app/mantram-industries/page.tsx",
+        "rawRef": "/assets/Project-images/Mantram/homepage-mobile-2.jpg"
+      },
+      {
+        "file": "app/mantram-industries/page.tsx",
+        "rawRef": "/assets/Project-images/Mantram/homepage-mobile-2.jpg"
+      }
+    ]
+  },
+  {
+    "path": "assets/Project-images/Mantram/mi_fullscreen_img.jpg",
+    "size": 305682,
+    "references": [
+      {
+        "file": "app/mantram-industries/page.tsx",
+        "rawRef": "/assets/Project-images/Mantram/mi_fullscreen_img.jpg"
+      },
+      {
+        "file": "app/mantram-industries/page.tsx",
+        "rawRef": "/assets/Project-images/Mantram/mi_fullscreen_img.jpg"
+      }
+    ]
+  },
+  {
+    "path": "assets/Project-images/Mantram/mi_hero-image.png",
+    "size": 1029171,
+    "references": [
+      {
+        "file": "app/mantram-industries/page.tsx",
+        "rawRef": "/assets/Project-images/Mantram/mi_hero-image.png"
+      },
+      {
+        "file": "app/mantram-industries/page.tsx",
+        "rawRef": "/assets/Project-images/Mantram/mi_hero-image.png"
+      },
+      {
+        "file": "build/js/777.js",
+        "rawRef": "image.png"
+      },
+      {
+        "file": "public/build/js/777.js",
+        "rawRef": "image.png"
+      }
+    ]
+  },
+  {
+    "path": "assets/Project-images/Mantram/mi_hero-image_portrait.png",
+    "size": 1427852,
+    "references": [
+      {
+        "file": "app/mantram-industries/page.tsx",
+        "rawRef": "/assets/Project-images/Mantram/mi_hero-image_portrait.png"
+      },
+      {
+        "file": "advanced-asset-analysis.json",
+        "rawRef": "path\": \"public/assets/Project-images/Mantram/mi_hero-image_portrait.png"
+      },
+      {
+        "file": "app/mantram-industries/page.tsx",
+        "rawRef": "/assets/Project-images/Mantram/mi_hero-image_portrait.png"
+      }
+    ]
+  },
+  {
+    "path": "assets/Project-images/Orange-chowk/homepage-mobile-1.jpg",
+    "size": 24771,
+    "references": [
+      {
+        "file": "app/orange-chowk/page.tsx",
+        "rawRef": "/assets/Project-images/Orange-chowk/homepage-mobile-1.jpg"
+      },
+      {
+        "file": "app/orange-chowk/page.tsx",
+        "rawRef": "/assets/Project-images/Orange-chowk/homepage-mobile-1.jpg"
+      }
+    ]
+  },
+  {
+    "path": "assets/Project-images/Orange-chowk/oc_hero-image.png",
+    "size": 1196558,
+    "references": [
+      {
+        "file": "app/orange-chowk/page.tsx",
+        "rawRef": "/assets/Project-images/Orange-chowk/oc_hero-image.png"
+      },
+      {
+        "file": "app/orange-chowk/page.tsx",
+        "rawRef": "/assets/Project-images/Orange-chowk/oc_hero-image.png"
+      }
+    ]
+  },
+  {
+    "path": "assets/Project-images/Orange-chowk/oc_hero-image_portrait.png",
+    "size": 1662394,
+    "references": [
+      {
+        "file": "app/orange-chowk/page.tsx",
+        "rawRef": "/assets/Project-images/Orange-chowk/oc_hero-image_portrait.png"
+      },
+      {
+        "file": "advanced-asset-analysis.json",
+        "rawRef": "path\": \"public/assets/Project-images/Orange-chowk/oc_hero-image_portrait.png"
+      },
+      {
+        "file": "app/orange-chowk/page.tsx",
+        "rawRef": "/assets/Project-images/Orange-chowk/oc_hero-image_portrait.png"
+      }
+    ]
+  },
+  {
+    "path": "assets/Project-images/Radisson-Blu/rb_hero-image-2.png",
+    "size": 713952,
+    "references": [
+      {
+        "file": "app/radisson-blu/page.tsx",
+        "rawRef": "lazyload\" data-src=\"/assets/Project-images/Radisson-Blu/rb_hero-image-2.png"
+      },
+      {
+        "file": "app/radisson-blu/page.tsx",
+        "rawRef": "lazyload\" data-src=\"/assets/Project-images/Radisson-Blu/rb_hero-image-2.png"
+      }
+    ]
+  },
+  {
+    "path": "assets/Project-images/Radisson-Blu/rb_hero-image-3.png",
+    "size": 667613,
+    "references": [
+      {
+        "file": "app/radisson-blu/page.tsx",
+        "rawRef": "lazyload\" data-src=\"/assets/Project-images/Radisson-Blu/rb_hero-image-3.png"
+      },
+      {
+        "file": "app/radisson-blu/page.tsx",
+        "rawRef": "lazyload\" data-src=\"/assets/Project-images/Radisson-Blu/rb_hero-image-3.png"
+      }
+    ]
+  },
+  {
+    "path": "assets/Project-images/Radisson-Blu/rb_hero-image-4.png",
+    "size": 2133416,
+    "references": [
+      {
+        "file": "app/radisson-blu/page.tsx",
+        "rawRef": "/assets/Project-images/Radisson-Blu/rb_hero-image-4.png"
+      },
+      {
+        "file": "advanced-asset-analysis.json",
+        "rawRef": "path\": \"public/assets/Project-images/Radisson-Blu/rb_hero-image-4.png"
+      },
+      {
+        "file": "app/radisson-blu/page.tsx",
+        "rawRef": "/assets/Project-images/Radisson-Blu/rb_hero-image-4.png"
+      }
+    ]
+  },
+  {
+    "path": "assets/Project-images/Radisson-Blu/rb_hero-image-5.png",
+    "size": 960611,
+    "references": [
+      {
+        "file": "app/radisson-blu/page.tsx",
+        "rawRef": "lazyload\" data-src=\"/assets/Project-images/Radisson-Blu/rb_hero-image-5.png"
+      },
+      {
+        "file": "app/radisson-blu/page.tsx",
+        "rawRef": "lazyload\" data-src=\"/assets/Project-images/Radisson-Blu/rb_hero-image-5.png"
+      }
+    ]
+  },
+  {
+    "path": "assets/Project-images/Radisson-Blu/rb_hero-image.png",
+    "size": 1171485,
+    "references": [
+      {
+        "file": "app/radisson-blu/page.tsx",
+        "rawRef": "/assets/Project-images/Radisson-Blu/rb_hero-image.png"
+      },
+      {
+        "file": "app/radisson-blu/page.tsx",
+        "rawRef": "/assets/Project-images/Radisson-Blu/rb_hero-image.png"
+      }
+    ]
+  },
+  {
+    "path": "assets/Project-images/Radisson-Blu/rb_hero-image_portrait.png",
+    "size": 1592405,
+    "references": [
+      {
+        "file": "app/radisson-blu/page.tsx",
+        "rawRef": "/assets/Project-images/Radisson-Blu/rb_hero-image_portrait.png"
+      },
+      {
+        "file": "advanced-asset-analysis.json",
+        "rawRef": "path\": \"public/assets/Project-images/Radisson-Blu/rb_hero-image_portrait.png"
+      },
+      {
+        "file": "app/radisson-blu/page.tsx",
+        "rawRef": "/assets/Project-images/Radisson-Blu/rb_hero-image_portrait.png"
+      }
+    ]
+  },
+  {
+    "path": "assets/Project-images/alma/Banner.png",
+    "size": 82016,
+    "references": [
+      {
+        "file": "app/alma/page.tsx",
+        "rawRef": "lazyload\" data-src=\"/assets/Project-images/alma/Banner.png"
+      },
+      {
+        "file": "app/alma/page.tsx",
+        "rawRef": "lazyload\" data-src=\"/assets/Project-images/alma/Banner.png"
+      }
+    ]
+  },
+  {
+    "path": "assets/Project-images/alma/aj_hero-image.png",
+    "size": 943380,
+    "references": [
+      {
+        "file": "app/alma/page.tsx",
+        "rawRef": "/assets/Project-images/alma/aj_hero-image.png"
+      },
+      {
+        "file": "app/alma/page.tsx",
+        "rawRef": "/assets/Project-images/alma/aj_hero-image.png"
+      }
+    ]
+  },
+  {
+    "path": "assets/Project-images/alma/aj_hero-image_portrait.png",
+    "size": 1362595,
+    "references": [
+      {
+        "file": "app/alma/page.tsx",
+        "rawRef": "/assets/Project-images/alma/aj_hero-image_portrait.png"
+      },
+      {
+        "file": "advanced-asset-analysis.json",
+        "rawRef": "path\": \"public/assets/Project-images/alma/aj_hero-image_portrait.png"
+      },
+      {
+        "file": "app/alma/page.tsx",
+        "rawRef": "/assets/Project-images/alma/aj_hero-image_portrait.png"
+      }
+    ]
+  },
+  {
+    "path": "assets/Project-images/alma/homepage-mobile-1.jpg",
+    "size": 34501,
+    "references": [
+      {
+        "file": "app/alma/page.tsx",
+        "rawRef": "/assets/Project-images/alma/homepage-mobile-1.jpg"
+      },
+      {
+        "file": "app/alma/page.tsx",
+        "rawRef": "/assets/Project-images/alma/homepage-mobile-1.jpg"
+      }
+    ]
+  },
+  {
+    "path": "assets/Project-images/apsara/at_hero-image.jpg",
+    "size": 66303,
+    "references": [
+      {
+        "file": "app/apsara/page.tsx",
+        "rawRef": "/assets/Project-images/apsara/at_hero-image.jpg"
+      },
+      {
+        "file": "app/apsara/page.tsx",
+        "rawRef": "/assets/Project-images/apsara/at_hero-image.jpg"
+      }
+    ]
+  },
+  {
+    "path": "assets/Project-images/apsara/at_hero-image_portrait.jpg",
+    "size": 84190,
+    "references": [
+      {
+        "file": "app/apsara/page.tsx",
+        "rawRef": "/assets/Project-images/apsara/at_hero-image_portrait.jpg"
+      },
+      {
+        "file": "app/apsara/page.tsx",
+        "rawRef": "/assets/Project-images/apsara/at_hero-image_portrait.jpg"
+      }
+    ]
+  },
+  {
+    "path": "assets/Project-images/apsara/case-image-1.jpg",
+    "size": 247813,
+    "references": [
+      {
+        "file": "app/apsara/page.tsx",
+        "rawRef": "/assets/Project-images/apsara/case-image-1.jpg"
+      },
+      {
+        "file": "app/apsara/page.tsx",
+        "rawRef": "/assets/Project-images/apsara/case-image-1.jpg"
+      }
+    ]
+  },
+  {
+    "path": "assets/Project-images/apsara/case-image-2.png",
+    "size": 53337,
+    "references": [
+      {
+        "file": "app/apsara/page.tsx",
+        "rawRef": "/assets/Project-images/apsara/case-image-2.png"
+      },
+      {
+        "file": "app/apsara/page.tsx",
+        "rawRef": "/assets/Project-images/apsara/case-image-2.png"
+      }
+    ]
+  },
+  {
+    "path": "assets/Project-images/everlend/elm_hero-image.png",
+    "size": 123494,
+    "references": [
+      {
+        "file": "app/everlend/page.tsx",
+        "rawRef": "/assets/Project-images/everlend/elm_hero-image.png"
+      },
+      {
+        "file": "app/everlend/page.tsx",
+        "rawRef": "/assets/Project-images/everlend/elm_hero-image.png"
+      }
+    ]
+  },
+  {
+    "path": "assets/Project-images/everlend/elm_hero-image_portrait.png",
+    "size": 97356,
+    "references": [
+      {
+        "file": "app/everlend/page.tsx",
+        "rawRef": "/assets/Project-images/everlend/elm_hero-image_portrait.png"
+      },
+      {
+        "file": "app/everlend/page.tsx",
+        "rawRef": "/assets/Project-images/everlend/elm_hero-image_portrait.png"
+      }
+    ]
+  },
+  {
+    "path": "assets/Project-images/hot-ticket/ht-assets-03.jpg",
+    "size": 127677,
+    "references": [
+      {
+        "file": "app/hot-ticket/page.tsx",
+        "rawRef": "/assets/Project-images/hot-ticket/ht-assets-03.jpg"
+      },
+      {
+        "file": "app/hot-ticket/page.tsx",
+        "rawRef": "/assets/Project-images/hot-ticket/ht-assets-03.jpg"
+      }
+    ]
+  },
+  {
+    "path": "assets/Project-images/hot-ticket/ht-typo.jpg",
+    "size": 188375,
+    "references": [
+      {
+        "file": "app/hot-ticket/page.tsx",
+        "rawRef": "/assets/Project-images/hot-ticket/ht-typo.jpg"
+      },
+      {
+        "file": "app/hot-ticket/page.tsx",
+        "rawRef": "/assets/Project-images/hot-ticket/ht-typo.jpg"
+      }
+    ]
+  },
+  {
+    "path": "assets/Project-images/hot-ticket/ht_hero-image_portrait.png",
+    "size": 439904,
+    "references": [
+      {
+        "file": "app/hot-ticket/page.tsx",
+        "rawRef": "/assets/Project-images/hot-ticket/ht_hero-image_portrait.png"
+      },
+      {
+        "file": "app/hot-ticket/page.tsx",
+        "rawRef": "/assets/Project-images/hot-ticket/ht_hero-image_portrait.png"
+      }
+    ]
+  },
+  {
+    "path": "assets/Project-images/mantra/Banner.png",
+    "size": 157550,
+    "references": [
+      {
+        "file": "app/mantra_infra/page.tsx",
+        "rawRef": "lazyload\" data-src=\"/assets/Project-images/mantra/Banner.png"
+      },
+      {
+        "file": "app/mantra_infra/page.tsx",
+        "rawRef": "lazyload\" data-src=\"/assets/Project-images/mantra/Banner.png"
+      }
+    ]
+  },
+  {
+    "path": "assets/Project-images/mantra/mantra_hero-image.png",
+    "size": 599901,
+    "references": [
+      {
+        "file": "app/mantra_infra/page.tsx",
+        "rawRef": "/assets/Project-images/mantra/mantra_hero-image.png"
+      },
+      {
+        "file": "app/mantra_infra/page.tsx",
+        "rawRef": "/assets/Project-images/mantra/mantra_hero-image.png"
+      }
+    ]
+  },
+  {
+    "path": "assets/Project-images/mantra/mantra_hero-image_portrait.png",
+    "size": 389858,
+    "references": [
+      {
+        "file": "app/mantra_infra/page.tsx",
+        "rawRef": "/assets/Project-images/mantra/mantra_hero-image_portrait.png"
+      },
+      {
+        "file": "app/mantra_infra/page.tsx",
+        "rawRef": "/assets/Project-images/mantra/mantra_hero-image_portrait.png"
+      }
+    ]
+  },
+  {
+    "path": "assets/Project-images/matrix/homepage-mobile-1.jpg",
+    "size": 40924,
+    "references": [
+      {
+        "file": "app/matrix/page.tsx",
+        "rawRef": "/assets/Project-images/matrix/homepage-mobile-1.jpg"
+      },
+      {
+        "file": "app/matrix/page.tsx",
+        "rawRef": "/assets/Project-images/matrix/homepage-mobile-1.jpg"
+      }
+    ]
+  },
+  {
+    "path": "assets/Project-images/matrix/mfc_hero-image.png",
+    "size": 900180,
+    "references": [
+      {
+        "file": "app/matrix/page.tsx",
+        "rawRef": "/assets/Project-images/matrix/mfc_hero-image.png"
+      },
+      {
+        "file": "app/matrix/page.tsx",
+        "rawRef": "/assets/Project-images/matrix/mfc_hero-image.png"
+      }
+    ]
+  },
+  {
+    "path": "assets/Project-images/matrix/mfc_hero-image_portrait.png",
+    "size": 1223561,
+    "references": [
+      {
+        "file": "app/matrix/page.tsx",
+        "rawRef": "/assets/Project-images/matrix/mfc_hero-image_portrait.png"
+      },
+      {
+        "file": "app/matrix/page.tsx",
+        "rawRef": "/assets/Project-images/matrix/mfc_hero-image_portrait.png"
+      }
+    ]
+  },
+  {
+    "path": "assets/Project-images/metro/Banner.gif",
+    "size": 2240226,
+    "references": [
+      {
+        "file": "app/metro-chem/page.tsx",
+        "rawRef": "lazyload\" data-src=\"/assets/Project-images/metro/Banner.gif"
+      },
+      {
+        "file": "advanced-asset-analysis.json",
+        "rawRef": "path\": \"public/assets/Project-images/metro/Banner.gif"
+      },
+      {
+        "file": "app/metro-chem/page.tsx",
+        "rawRef": "lazyload\" data-src=\"/assets/Project-images/metro/Banner.gif"
+      }
+    ]
+  },
+  {
+    "path": "assets/Project-images/metro/metro_hero-image.png",
+    "size": 1102419,
+    "references": [
+      {
+        "file": "app/metro-chem/page.tsx",
+        "rawRef": "/assets/Project-images/metro/metro_hero-image.png"
+      },
+      {
+        "file": "app/metro-chem/page.tsx",
+        "rawRef": "/assets/Project-images/metro/metro_hero-image.png"
+      }
+    ]
+  },
+  {
+    "path": "assets/Project-images/nexxara/nex_hero-image.png",
+    "size": 25010,
+    "references": [
+      {
+        "file": "app/nexxara/page.tsx",
+        "rawRef": "/assets/Project-images/nexxara/nex_hero-image.png"
+      },
+      {
+        "file": "app/nexxara/page.tsx",
+        "rawRef": "/assets/Project-images/nexxara/nex_hero-image.png"
+      }
+    ]
+  },
+  {
+    "path": "assets/Project-images/nexxara/nex_hero-image_portrait.png",
+    "size": 18538,
+    "references": [
+      {
+        "file": "app/nexxara/page.tsx",
+        "rawRef": "/assets/Project-images/nexxara/nex_hero-image_portrait.png"
+      },
+      {
+        "file": "app/nexxara/page.tsx",
+        "rawRef": "/assets/Project-images/nexxara/nex_hero-image_portrait.png"
+      }
+    ]
+  },
+  {
+    "path": "assets/Project-images/nsd/homepage-mobile-1.png",
+    "size": 17124,
+    "references": [
+      {
+        "file": "app/nsd-care/page.tsx",
+        "rawRef": "/assets/Project-images/nsd/homepage-mobile-1.png"
+      },
+      {
+        "file": "app/nsd-care/page.tsx",
+        "rawRef": "/assets/Project-images/nsd/homepage-mobile-1.png"
+      }
+    ]
+  },
+  {
+    "path": "assets/Project-images/nsd/nsd_fullscreen_img.jpg",
+    "size": 176643,
+    "references": [
+      {
+        "file": "app/nsd-care/page.tsx",
+        "rawRef": "/assets/Project-images/nsd/nsd_fullscreen_img.jpg"
+      },
+      {
+        "file": "app/nsd-care/page.tsx",
+        "rawRef": "/assets/Project-images/nsd/nsd_fullscreen_img.jpg"
+      }
+    ]
+  },
+  {
+    "path": "assets/Project-images/nsd/nsd_hero-image.jpg",
+    "size": 96768,
+    "references": [
+      {
+        "file": "app/nsd-care/page.tsx",
+        "rawRef": "/assets/Project-images/nsd/nsd_hero-image.jpg"
+      },
+      {
+        "file": "app/nsd-care/page.tsx",
+        "rawRef": "/assets/Project-images/nsd/nsd_hero-image.jpg"
+      }
+    ]
+  },
+  {
+    "path": "assets/Project-images/nsd/nsd_hero-image_portrait.jpg",
+    "size": 144835,
+    "references": [
+      {
+        "file": "app/nsd-care/page.tsx",
+        "rawRef": "/assets/Project-images/nsd/nsd_hero-image_portrait.jpg"
+      },
+      {
+        "file": "app/nsd-care/page.tsx",
+        "rawRef": "/assets/Project-images/nsd/nsd_hero-image_portrait.jpg"
+      }
+    ]
+  },
+  {
+    "path": "assets/Project-images/pakawalla/Banner.png",
+    "size": 1042702,
+    "references": [
+      {
+        "file": "app/pakawalla/page.tsx",
+        "rawRef": "lazyload\" data-src=\"/assets/Project-images/pakawalla/Banner.png"
+      },
+      {
+        "file": "app/pakawalla/page.tsx",
+        "rawRef": "lazyload\" data-src=\"/assets/Project-images/pakawalla/Banner.png"
+      }
+    ]
+  },
+  {
+    "path": "assets/Project-images/pakawalla/homepage-mobile-1.jpg",
+    "size": 67317,
+    "references": [
+      {
+        "file": "app/pakawalla/page.tsx",
+        "rawRef": "/assets/Project-images/pakawalla/homepage-mobile-1.jpg"
+      },
+      {
+        "file": "app/pakawalla/page.tsx",
+        "rawRef": "/assets/Project-images/pakawalla/homepage-mobile-1.jpg"
+      }
+    ]
+  },
+  {
+    "path": "assets/Project-images/pakawalla/pk_hero-image.png",
+    "size": 872543,
+    "references": [
+      {
+        "file": "app/pakawalla/page.tsx",
+        "rawRef": "/assets/Project-images/pakawalla/pk_hero-image.png"
+      },
+      {
+        "file": "app/pakawalla/page.tsx",
+        "rawRef": "/assets/Project-images/pakawalla/pk_hero-image.png"
+      }
+    ]
+  },
+  {
+    "path": "assets/Project-images/pakawalla/pk_hero-image_portrait.png",
+    "size": 1264105,
+    "references": [
+      {
+        "file": "app/pakawalla/page.tsx",
+        "rawRef": "/assets/Project-images/pakawalla/pk_hero-image_portrait.png"
+      },
+      {
+        "file": "advanced-asset-analysis.json",
+        "rawRef": "path\": \"public/assets/Project-images/pakawalla/pk_hero-image_portrait.png"
+      },
+      {
+        "file": "app/pakawalla/page.tsx",
+        "rawRef": "/assets/Project-images/pakawalla/pk_hero-image_portrait.png"
+      }
+    ]
+  },
+  {
+    "path": "assets/Project-images/palmyrion/Banner.png",
+    "size": 728926,
+    "references": [
+      {
+        "file": "app/palmyrion/page.tsx",
+        "rawRef": "lazyload\" data-src=\"/assets/Project-images/palmyrion/Banner.png"
+      },
+      {
+        "file": "app/palmyrion/page.tsx",
+        "rawRef": "lazyload\" data-src=\"/assets/Project-images/palmyrion/Banner.png"
+      }
+    ]
+  },
+  {
+    "path": "assets/Project-images/palmyrion/palm_hero-image.png",
+    "size": 1607148,
+    "references": [
+      {
+        "file": "app/palmyrion/page.tsx",
+        "rawRef": "/assets/Project-images/palmyrion/palm_hero-image.png"
+      },
+      {
+        "file": "advanced-asset-analysis.json",
+        "rawRef": "path\": \"public/assets/Project-images/palmyrion/palm_hero-image.png"
+      },
+      {
+        "file": "app/palmyrion/page.tsx",
+        "rawRef": "/assets/Project-images/palmyrion/palm_hero-image.png"
+      }
+    ]
+  },
+  {
+    "path": "assets/Project-images/palmyrion/palm_hero-image_portrait.png",
+    "size": 2083241,
+    "references": [
+      {
+        "file": "app/palmyrion/page.tsx",
+        "rawRef": "/assets/Project-images/palmyrion/palm_hero-image_portrait.png"
+      },
+      {
+        "file": "advanced-asset-analysis.json",
+        "rawRef": "path\": \"public/assets/Project-images/palmyrion/palm_hero-image_portrait.png"
+      },
+      {
+        "file": "app/palmyrion/page.tsx",
+        "rawRef": "/assets/Project-images/palmyrion/palm_hero-image_portrait.png"
+      }
+    ]
+  },
+  {
+    "path": "assets/Project-images/twenty_one/21_hero-image.png",
+    "size": 849861,
+    "references": [
+      {
+        "file": "app/twentyone/page.tsx",
+        "rawRef": "/assets/Project-images/twenty_one/21_hero-image.png"
+      },
+      {
+        "file": "app/twentyone/page.tsx",
+        "rawRef": "/assets/Project-images/twenty_one/21_hero-image.png"
+      }
+    ]
+  },
+  {
+    "path": "assets/Project-images/twenty_one/21_hero-image_portrait.png",
+    "size": 1184077,
+    "references": [
+      {
+        "file": "app/twentyone/page.tsx",
+        "rawRef": "/assets/Project-images/twenty_one/21_hero-image_portrait.png"
+      },
+      {
+        "file": "app/twentyone/page.tsx",
+        "rawRef": "/assets/Project-images/twenty_one/21_hero-image_portrait.png"
+      }
+    ]
+  },
+  {
+    "path": "assets/Project-images/twenty_one/Banner.png",
+    "size": 811138,
+    "references": [
+      {
+        "file": "app/twentyone/page.tsx",
+        "rawRef": "/assets/Project-images/twenty_one/Banner.png"
+      },
+      {
+        "file": "app/twentyone/page.tsx",
+        "rawRef": "/assets/Project-images/twenty_one/Banner.png"
+      }
+    ]
+  },
+  {
+    "path": "public/assets/images/0871864f-3af3-4261-b66d-1aaa97256d3c.jpg",
+    "size": 15934,
+    "references": [
+      {
+        "file": "src/data/projects.js",
+        "rawRef": "/assets/images/0871864f-3af3-4261-b66d-1aaa97256d3c.jpg"
+      },
+      {
+        "file": "src/sections/about/MondayteersSection.jsx",
+        "rawRef": "Savine\", loc: \"Amsterdam\", img: \"/assets/images/0871864f-3af3-4261-b66d-1aaa97256d3c.jpg"
+      },
+      {
+        "file": "src/data/projects.js",
+        "rawRef": "/assets/images/0871864f-3af3-4261-b66d-1aaa97256d3c.jpg"
+      },
+      {
+        "file": "src/sections/about/MondayteersSection.jsx",
+        "rawRef": "Savine\", loc: \"Amsterdam\", img: \"/assets/images/0871864f-3af3-4261-b66d-1aaa97256d3c.jpg"
+      }
+    ]
+  },
+  {
+    "path": "public/assets/images/1eac3a48-0d56-45b8-9606-f21cfcd91cf0.jpeg",
+    "size": 21944,
+    "references": [
+      {
+        "file": "src/data/projects.js",
+        "rawRef": "/assets/images/1eac3a48-0d56-45b8-9606-f21cfcd91cf0.jpeg"
+      },
+      {
+        "file": "src/data/projects.js",
+        "rawRef": "/assets/images/1eac3a48-0d56-45b8-9606-f21cfcd91cf0.jpeg"
+      },
+      {
+        "file": "src/sections/about/MondayteersSection.jsx",
+        "rawRef": "Jeppe\", loc: \"Aarhus\", img: \"/assets/images/1eac3a48-0d56-45b8-9606-f21cfcd91cf0.jpeg"
+      },
+      {
+        "file": "build/js/main-e03077acdb.js",
+        "rawRef": ".jpeg"
+      },
+      {
+        "file": "public/build/js/main-e03077acdb.js",
+        "rawRef": ".jpeg"
+      },
+      {
+        "file": "scripts/optimize-assets.js",
+        "rawRef": ".jpeg"
+      },
+      {
+        "file": "src/data/projects.js",
+        "rawRef": "/assets/images/1eac3a48-0d56-45b8-9606-f21cfcd91cf0.jpeg"
+      },
+      {
+        "file": "src/data/projects.js",
+        "rawRef": "/assets/images/1eac3a48-0d56-45b8-9606-f21cfcd91cf0.jpeg"
+      },
+      {
+        "file": "src/sections/about/MondayteersSection.jsx",
+        "rawRef": "Jeppe\", loc: \"Aarhus\", img: \"/assets/images/1eac3a48-0d56-45b8-9606-f21cfcd91cf0.jpeg"
+      }
+    ]
+  },
+  {
+    "path": "public/assets/images/26f35028-3fd2-4718-8e52-d09a034f4961.jpeg",
+    "size": 27963,
+    "references": [
+      {
+        "file": "src/data/projects.js",
+        "rawRef": "/assets/images/26f35028-3fd2-4718-8e52-d09a034f4961.jpeg"
+      },
+      {
+        "file": "src/data/projects.js",
+        "rawRef": "/assets/images/26f35028-3fd2-4718-8e52-d09a034f4961.jpeg"
+      }
+    ]
+  },
+  {
+    "path": "public/assets/images/39919464-0f7f-4b79-8d8f-1f877df7d599.png",
+    "size": 62074,
+    "references": [
+      {
+        "file": "src/data/projects.js",
+        "rawRef": "/assets/images/39919464-0f7f-4b79-8d8f-1f877df7d599.png"
+      },
+      {
+        "file": "src/sections/about/MondayteersSection.jsx",
+        "rawRef": "Johanne\", loc: \"Copenhagen\", img: \"/assets/images/39919464-0f7f-4b79-8d8f-1f877df7d599.png"
+      },
+      {
+        "file": "src/data/projects.js",
+        "rawRef": "/assets/images/39919464-0f7f-4b79-8d8f-1f877df7d599.png"
+      },
+      {
+        "file": "src/sections/about/MondayteersSection.jsx",
+        "rawRef": "Johanne\", loc: \"Copenhagen\", img: \"/assets/images/39919464-0f7f-4b79-8d8f-1f877df7d599.png"
+      }
+    ]
+  },
+  {
+    "path": "assets/images/Logo_mono.svg",
+    "size": 516,
+    "references": [
+      {
+        "file": "app/layout.tsx",
+        "rawRef": "/assets/images/Logo_mono.svg"
+      },
+      {
+        "file": "app/privacy-policy/page.tsx",
+        "rawRef": "privacy-logo\" src=\"https://d1hokgyh8522ma.cloudfront.net/assets/images/Logo_mono.svg"
+      },
+      {
+        "file": "app/layout.tsx",
+        "rawRef": "/assets/images/Logo_mono.svg"
+      },
+      {
+        "file": "app/privacy-policy/page.tsx",
+        "rawRef": "privacy-logo\" src=\"https://d1hokgyh8522ma.cloudfront.net/assets/images/Logo_mono.svg"
+      },
+      {
+        "file": "build/js/main-e03077acdb.js",
+        "rawRef": "black\" === this._currentColor ? \"https://d1hokgyh8522ma.cloudfront.net/assets/images/Logo_mono.svg"
+      },
+      {
+        "file": "public/build/js/main-e03077acdb.js",
+        "rawRef": "black\" === this._currentColor ? \"/assets/images/Logo_mono.svg"
+      }
+    ]
+  },
+  {
+    "path": "assets/images/Logo_mono_white.svg",
+    "size": 637,
+    "references": [
+      {
+        "file": "app/layout.tsx",
+        "rawRef": "staticLogoImg\" src=\"/assets/images/Logo_mono_white.svg"
+      },
+      {
+        "file": "app/layout.tsx",
+        "rawRef": "staticLogoImg\" src=\"/assets/images/Logo_mono_white.svg"
+      },
+      {
+        "file": "build/js/main-e03077acdb.js",
+        "rawRef": "https://d1hokgyh8522ma.cloudfront.net/assets/images/Logo_mono_white.svg"
+      },
+      {
+        "file": "public/build/js/main-e03077acdb.js",
+        "rawRef": "/assets/images/Logo_mono_white.svg"
+      }
+    ]
+  },
+  {
+    "path": "public/assets/images/Thumbnail_-_Image_-_Landscape-logo.jpeg",
+    "size": 33063,
+    "references": [
+      {
+        "file": "src/data/projects.js",
+        "rawRef": "/assets/images/Thumbnail_-_Image_-_Landscape-logo.jpeg"
+      },
+      {
+        "file": "src/data/projects.js",
+        "rawRef": "/assets/images/Thumbnail_-_Image_-_Landscape-logo.jpeg"
+      }
+    ]
+  },
+  {
+    "path": "public/assets/images/Thumbnail_-_Image_-_Landscape.jpeg",
+    "size": 21178,
+    "references": [
+      {
+        "file": "src/data/projects.js",
+        "rawRef": "/assets/images/Thumbnail_-_Image_-_Landscape.jpeg"
+      },
+      {
+        "file": "src/sections/about/MondayteersSection.jsx",
+        "rawRef": "Mads\", loc: \"Copenhagen\", img: \"/assets/images/Thumbnail_-_Image_-_Landscape.jpeg"
+      },
+      {
+        "file": "src/data/projects.js",
+        "rawRef": "/assets/images/Thumbnail_-_Image_-_Landscape.jpeg"
+      },
+      {
+        "file": "src/sections/about/MondayteersSection.jsx",
+        "rawRef": "Mads\", loc: \"Copenhagen\", img: \"/assets/images/Thumbnail_-_Image_-_Landscape.jpeg"
+      }
+    ]
+  },
+  {
+    "path": "public/assets/images/Thumbnail_-_Image_-_Landscape.jpg",
+    "size": 20693,
+    "references": [
+      {
+        "file": "src/data/projects.js",
+        "rawRef": "/assets/images/Thumbnail_-_Image_-_Landscape.jpg"
+      },
+      {
+        "file": "src/sections/about/MondayteersSection.jsx",
+        "rawRef": "Andreas\", loc: \"Aarhus\", img: \"/assets/images/Thumbnail_-_Image_-_Landscape.jpg"
+      },
+      {
+        "file": "src/data/projects.js",
+        "rawRef": "/assets/images/Thumbnail_-_Image_-_Landscape.jpg"
+      },
+      {
+        "file": "src/sections/about/MondayteersSection.jsx",
+        "rawRef": "Andreas\", loc: \"Aarhus\", img: \"/assets/images/Thumbnail_-_Image_-_Landscape.jpg"
+      }
+    ]
+  },
+  {
+    "path": "public/assets/images/Thumbnail_-_Video_-_Portrait_-_Big.jpeg",
+    "size": 147437,
+    "references": [
+      {
+        "file": "src/data/projects.js",
+        "rawRef": "/assets/images/Thumbnail_-_Video_-_Portrait_-_Big.jpeg"
+      },
+      {
+        "file": "src/data/projects.js",
+        "rawRef": "/assets/images/Thumbnail_-_Video_-_Portrait_-_Big.jpeg"
+      }
+    ]
+  },
+  {
+    "path": "assets/images/about/branding.gif",
+    "size": 1322173,
+    "references": [
+      {
+        "file": "app/services/page.tsx",
+        "rawRef": "lazyload animation\" data-src=\"/assets/images/about/branding.gif"
+      },
+      {
+        "file": "advanced-asset-analysis.json",
+        "rawRef": "path\": \"public/assets/images/about/branding.gif"
+      },
+      {
+        "file": "app/services/page.tsx",
+        "rawRef": "lazyload animation\" data-src=\"/assets/images/about/branding.gif"
+      }
+    ]
+  },
+  {
+    "path": "assets/images/about/experiences.gif",
+    "size": 830192,
+    "references": [
+      {
+        "file": "app/services/page.tsx",
+        "rawRef": "lazyload animation\" data-src=\"/assets/images/about/experiences.gif"
+      },
+      {
+        "file": "app/services/page.tsx",
+        "rawRef": "lazyload animation\" data-src=\"/assets/images/about/experiences.gif"
+      }
+    ]
+  },
+  {
+    "path": "assets/images/about/products.gif",
+    "size": 860556,
+    "references": [
+      {
+        "file": "app/services/page.tsx",
+        "rawRef": "lazyload animation\" data-src=\"/assets/images/about/products.gif"
+      },
+      {
+        "file": "app/services/page.tsx",
+        "rawRef": "lazyload animation\" data-src=\"/assets/images/about/products.gif"
+      }
+    ]
+  },
+  {
+    "path": "public/assets/images/branding_GIF.gif",
+    "size": 1322173,
+    "references": [
+      {
+        "file": "src/app/services/page.js",
+        "rawRef": "/assets/images/branding_GIF.gif"
+      },
+      {
+        "file": "src/app/services/page.js",
+        "rawRef": "/assets/images/branding_GIF.gif"
+      },
+      {
+        "file": "src/app/services/page.js",
+        "rawRef": "/assets/images/branding_GIF.gif"
+      },
+      {
+        "file": "advanced-asset-analysis.json",
+        "rawRef": "path\": \"public/assets/images/branding_GIF.gif"
+      },
+      {
+        "file": "src/app/services/page.js",
+        "rawRef": "/assets/images/branding_GIF.gif"
+      },
+      {
+        "file": "src/app/services/page.js",
+        "rawRef": "/assets/images/branding_GIF.gif"
+      },
+      {
+        "file": "src/app/services/page.js",
+        "rawRef": "/assets/images/branding_GIF.gif"
+      }
+    ]
+  },
+  {
+    "path": "public/assets/images/c9e296b7-6f82-486f-9929-e978f38a7853.jpeg",
+    "size": 18341,
+    "references": [
+      {
+        "file": "src/sections/about/MondayteersSection.jsx",
+        "rawRef": "Erin\", loc: \"New York\", img: \"/assets/images/c9e296b7-6f82-486f-9929-e978f38a7853.jpeg"
+      },
+      {
+        "file": "src/sections/about/MondayteersSection.jsx",
+        "rawRef": "Erin\", loc: \"New York\", img: \"/assets/images/c9e296b7-6f82-486f-9929-e978f38a7853.jpeg"
+      }
+    ]
+  },
+  {
+    "path": "assets/images/circle.png",
+    "size": 1015,
+    "references": [
+      {
+        "file": "build/js/main-e03077acdb.js",
+        "rawRef": "https://d1hokgyh8522ma.cloudfront.net/assets/images/circle.png"
+      },
+      {
+        "file": "build/js/main-e03077acdb.js",
+        "rawRef": "https://d1hokgyh8522ma.cloudfront.net/assets/images/circle.png"
+      },
+      {
+        "file": "public/build/js/main-e03077acdb.js",
+        "rawRef": "/assets/images/circle.png"
+      },
+      {
+        "file": "public/build/js/main-e03077acdb.js",
+        "rawRef": "/assets/images/circle.png"
+      }
+    ]
+  },
+  {
+    "path": "assets/images/contact/nyc_tadaa_once.gif",
+    "size": 239330,
+    "references": [
+      {
+        "file": "build/js/main-e03077acdb.js",
+        "rawRef": "nyc_tadaa_once.gif"
+      },
+      {
+        "file": "public/build/js/main-e03077acdb.js",
+        "rawRef": "nyc_tadaa_once.gif"
+      }
+    ]
+  },
+  {
+    "path": "public/assets/images/footerAnimationgif.gif",
+    "size": 89190,
+    "references": [
+      {
+        "file": "src/components/layout/Footer.jsx",
+        "rawRef": "/assets/images/footerAnimationgif.gif"
+      },
+      {
+        "file": "src/sections/about/ContactSection.jsx",
+        "rawRef": "/assets/images/footerAnimationgif.gif"
+      },
+      {
+        "file": "src/components/layout/Footer.jsx",
+        "rawRef": "/assets/images/footerAnimationgif.gif"
+      },
+      {
+        "file": "src/sections/about/ContactSection.jsx",
+        "rawRef": "/assets/images/footerAnimationgif.gif"
+      }
+    ]
+  },
+  {
+    "path": "public/assets/images/hero-illustration.png",
+    "size": 632348,
+    "references": [
+      {
+        "file": "advanced-asset-analysis.json",
+        "rawRef": "path\": \"public/assets/images/hero-illustration.png"
+      }
+    ]
+  },
+  {
+    "path": "public/assets/images/hm-hero-mobile-non-retina.mp4",
+    "size": 1115699,
+    "references": [
+      {
+        "file": "src/sections/home/HeroSection.jsx",
+        "rawRef": "/assets/images/hm-hero-mobile-non-retina.mp4"
+      },
+      {
+        "file": "build/js/main-e03077acdb.js",
+        "rawRef": ".mp4"
+      },
+      {
+        "file": "build/js/main-e03077acdb.js",
+        "rawRef": ".mp4"
+      },
+      {
+        "file": "public/build/js/main-e03077acdb.js",
+        "rawRef": ".mp4"
+      },
+      {
+        "file": "public/build/js/main-e03077acdb.js",
+        "rawRef": ".mp4"
+      },
+      {
+        "file": "scripts/optimize-assets.js",
+        "rawRef": ".mp4"
+      },
+      {
+        "file": "src/sections/home/HeroSection.jsx",
+        "rawRef": "/assets/images/hm-hero-mobile-non-retina.mp4"
+      }
+    ]
+  },
+  {
+    "path": "assets/images/landing/hm-hero-desktop.png",
+    "size": 57386,
+    "references": [
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/assets/images/landing/hm-hero-desktop.png"
+      },
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/assets/images/landing/hm-hero-desktop.png"
+      }
+    ]
+  },
+  {
+    "path": "public/assets/images/logo.png",
+    "size": 1246,
+    "references": [
+      {
+        "file": "src/components/layout/Header.jsx",
+        "rawRef": "/assets/images/logo.png"
+      },
+      {
+        "file": "src/components/layout/Header.jsx",
+        "rawRef": "/assets/images/logo.png"
+      }
+    ]
+  },
+  {
+    "path": "assets/images/trail.png",
+    "size": 525,
+    "references": [
+      {
+        "file": "build/js/main-e03077acdb.js",
+        "rawRef": "https://d1hokgyh8522ma.cloudfront.net/assets/images/trail.png"
+      },
+      {
+        "file": "public/build/js/main-e03077acdb.js",
+        "rawRef": "/assets/images/trail.png"
+      }
+    ]
+  },
+  {
+    "path": "public/assets/people/Sujita.png",
+    "size": 159216,
+    "references": [
+      {
+        "file": "app/about/page.tsx",
+        "rawRef": "entry\" data-slug=\"#\" data-thumbnail-mode=\"Mondayteer\" data-color=\"0xffffff\" data-splash-color=\"ffffff\" data-landscape-image=\"/assets/people/Sujita.png"
+      },
+      {
+        "file": "app/about/page.tsx",
+        "rawRef": "/assets/people/Sujita.png"
+      },
+      {
+        "file": "app/about/page.tsx",
+        "rawRef": "entry\" data-slug=\"#\" data-thumbnail-mode=\"Mondayteer\" data-color=\"0xffffff\" data-splash-color=\"ffffff\" data-landscape-image=\"/assets/people/Sujita.png"
+      },
+      {
+        "file": "app/about/page.tsx",
+        "rawRef": "/assets/people/Sujita.png"
+      }
+    ]
+  },
+  {
+    "path": "public/assets/people/aditi.jpg",
+    "size": 26711,
+    "references": [
+      {
+        "file": "app/about/page.tsx",
+        "rawRef": "entry\" data-slug=\"#\" data-thumbnail-mode=\"Mondayteer\" data-color=\"0xffffff\" data-splash-color=\"ffffff\" data-landscape-image=\"/assets/people/aditi.jpg"
+      },
+      {
+        "file": "app/about/page.tsx",
+        "rawRef": "/assets/people/aditi.jpg"
+      },
+      {
+        "file": "app/about/page.tsx",
+        "rawRef": "entry\" data-slug=\"#\" data-thumbnail-mode=\"Mondayteer\" data-color=\"0xffffff\" data-splash-color=\"ffffff\" data-landscape-image=\"/assets/people/aditi.jpg"
+      },
+      {
+        "file": "app/about/page.tsx",
+        "rawRef": "/assets/people/aditi.jpg"
+      }
+    ]
+  },
+  {
+    "path": "public/assets/people/aditi.png",
+    "size": 420668,
+    "references": [
+      {
+        "file": "advanced-asset-analysis.json",
+        "rawRef": "path\": \"public/assets/people/aditi.png"
+      }
+    ]
+  },
+  {
+    "path": "assets/people/apoorv.jpg",
+    "size": 22519,
+    "references": [
+      {
+        "file": "app/about/page.tsx",
+        "rawRef": "entry\" data-slug=\"#\" data-thumbnail-mode=\"Mondayteer\" data-color=\"0xffffff\" data-splash-color=\"ffffff\" data-landscape-image=\"/assets/people/apoorv.jpg"
+      },
+      {
+        "file": "app/about/page.tsx",
+        "rawRef": "/assets/people/apoorv.jpg"
+      },
+      {
+        "file": "app/about/page.tsx",
+        "rawRef": "entry\" data-slug=\"#\" data-thumbnail-mode=\"Mondayteer\" data-color=\"0xffffff\" data-splash-color=\"ffffff\" data-landscape-image=\"/assets/people/apoorv.jpg"
+      },
+      {
+        "file": "app/about/page.tsx",
+        "rawRef": "/assets/people/apoorv.jpg"
+      }
+    ]
+  },
+  {
+    "path": "assets/people/ayush.jpg",
+    "size": 55124,
+    "references": [
+      {
+        "file": "app/about/page.tsx",
+        "rawRef": "entry\" data-slug=\"#\" data-thumbnail-mode=\"Mondayteer\" data-color=\"0xffffff\" data-splash-color=\"ffffff\" data-landscape-image=\"/assets/people/ayush.jpg"
+      },
+      {
+        "file": "app/about/page.tsx",
+        "rawRef": "/assets/people/ayush.jpg"
+      },
+      {
+        "file": "app/about/page.tsx",
+        "rawRef": "entry\" data-slug=\"#\" data-thumbnail-mode=\"Mondayteer\" data-color=\"0xffffff\" data-splash-color=\"ffffff\" data-landscape-image=\"/assets/people/ayush.jpg"
+      },
+      {
+        "file": "app/about/page.tsx",
+        "rawRef": "/assets/people/ayush.jpg"
+      }
+    ]
+  },
+  {
+    "path": "assets/people/nikhil.jpg",
+    "size": 22697,
+    "references": [
+      {
+        "file": "app/about/page.tsx",
+        "rawRef": "entry\" data-slug=\"#\" data-thumbnail-mode=\"Mondayteer\" data-color=\"0xffffff\" data-splash-color=\"ffffff\" data-landscape-image=\"/assets/people/nikhil.jpg"
+      },
+      {
+        "file": "app/about/page.tsx",
+        "rawRef": "/assets/people/nikhil.jpg"
+      },
+      {
+        "file": "app/about/page.tsx",
+        "rawRef": "entry\" data-slug=\"#\" data-thumbnail-mode=\"Mondayteer\" data-color=\"0xffffff\" data-splash-color=\"ffffff\" data-landscape-image=\"/assets/people/nikhil.jpg"
+      },
+      {
+        "file": "app/about/page.tsx",
+        "rawRef": "/assets/people/nikhil.jpg"
+      }
+    ]
+  },
+  {
+    "path": "assets/people/prakhar.jpg",
+    "size": 56734,
+    "references": [
+      {
+        "file": "app/about/page.tsx",
+        "rawRef": "entry\" data-slug=\"#\" data-thumbnail-mode=\"Mondayteer\" data-color=\"0xffffff\" data-splash-color=\"ffffff\" data-landscape-image=\"/assets/people/prakhar.jpg"
+      },
+      {
+        "file": "app/about/page.tsx",
+        "rawRef": "/assets/people/prakhar.jpg"
+      },
+      {
+        "file": "app/about/page.tsx",
+        "rawRef": "entry\" data-slug=\"#\" data-thumbnail-mode=\"Mondayteer\" data-color=\"0xffffff\" data-splash-color=\"ffffff\" data-landscape-image=\"/assets/people/prakhar.jpg"
+      },
+      {
+        "file": "app/about/page.tsx",
+        "rawRef": "/assets/people/prakhar.jpg"
+      }
+    ]
+  },
+  {
+    "path": "assets/people/prakrati.jpg",
+    "size": 36702,
+    "references": [
+      {
+        "file": "app/about/page.tsx",
+        "rawRef": "entry\" data-slug=\"#\" data-thumbnail-mode=\"Mondayteer\" data-color=\"0xffffff\" data-splash-color=\"ffffff\" data-landscape-image=\"/assets/people/prakrati.jpg"
+      },
+      {
+        "file": "app/about/page.tsx",
+        "rawRef": "/assets/people/prakrati.jpg"
+      },
+      {
+        "file": "app/about/page.tsx",
+        "rawRef": "entry\" data-slug=\"#\" data-thumbnail-mode=\"Mondayteer\" data-color=\"0xffffff\" data-splash-color=\"ffffff\" data-landscape-image=\"/assets/people/prakrati.jpg"
+      },
+      {
+        "file": "app/about/page.tsx",
+        "rawRef": "/assets/people/prakrati.jpg"
+      }
+    ]
+  },
+  {
+    "path": "public/assets/people/prashant.jpeg",
+    "size": 27983,
+    "references": [
+      {
+        "file": "app/about/page.tsx",
+        "rawRef": "entry\" data-slug=\"#\" data-thumbnail-mode=\"Mondayteer\" data-color=\"0xffffff\" data-splash-color=\"ffffff\" data-landscape-image=\"/assets/people/prashant.jpeg"
+      },
+      {
+        "file": "app/about/page.tsx",
+        "rawRef": "/assets/people/prashant.jpeg"
+      },
+      {
+        "file": "app/about/page.tsx",
+        "rawRef": "entry\" data-slug=\"#\" data-thumbnail-mode=\"Mondayteer\" data-color=\"0xffffff\" data-splash-color=\"ffffff\" data-landscape-image=\"/assets/people/prashant.jpeg"
+      },
+      {
+        "file": "app/about/page.tsx",
+        "rawRef": "/assets/people/prashant.jpeg"
+      }
+    ]
+  },
+  {
+    "path": "assets/people/purva.jpg",
+    "size": 31561,
+    "references": [
+      {
+        "file": "app/about/page.tsx",
+        "rawRef": "entry\" data-slug=\"#\" data-thumbnail-mode=\"Mondayteer\" data-color=\"0xffffff\" data-splash-color=\"ffffff\" data-landscape-image=\"/assets/people/purva.jpg"
+      },
+      {
+        "file": "app/about/page.tsx",
+        "rawRef": "/assets/people/purva.jpg"
+      },
+      {
+        "file": "app/about/page.tsx",
+        "rawRef": "entry\" data-slug=\"#\" data-thumbnail-mode=\"Mondayteer\" data-color=\"0xffffff\" data-splash-color=\"ffffff\" data-landscape-image=\"/assets/people/purva.jpg"
+      },
+      {
+        "file": "app/about/page.tsx",
+        "rawRef": "/assets/people/purva.jpg"
+      }
+    ]
+  },
+  {
+    "path": "assets/people/shikhar.jpg",
+    "size": 41615,
+    "references": [
+      {
+        "file": "app/about/page.tsx",
+        "rawRef": "entry\" data-slug=\"#\" data-thumbnail-mode=\"Mondayteer\" data-color=\"0xffffff\" data-splash-color=\"ffffff\" data-landscape-image=\"/assets/people/shikhar.jpg"
+      },
+      {
+        "file": "app/about/page.tsx",
+        "rawRef": "/assets/people/shikhar.jpg"
+      },
+      {
+        "file": "app/about/page.tsx",
+        "rawRef": "entry\" data-slug=\"#\" data-thumbnail-mode=\"Mondayteer\" data-color=\"0xffffff\" data-splash-color=\"ffffff\" data-landscape-image=\"/assets/people/shikhar.jpg"
+      },
+      {
+        "file": "app/about/page.tsx",
+        "rawRef": "/assets/people/shikhar.jpg"
+      }
+    ]
+  },
+  {
+    "path": "public/assets/people/subham.png",
+    "size": 157603,
+    "references": [
+      {
+        "file": "app/about/page.tsx",
+        "rawRef": "entry\" data-slug=\"#\" data-thumbnail-mode=\"Mondayteer\" data-color=\"0xffffff\" data-splash-color=\"ffffff\" data-landscape-image=\"/assets/people/subham.png"
+      },
+      {
+        "file": "app/about/page.tsx",
+        "rawRef": "/assets/people/subham.png"
+      },
+      {
+        "file": "app/about/page.tsx",
+        "rawRef": "entry\" data-slug=\"#\" data-thumbnail-mode=\"Mondayteer\" data-color=\"0xffffff\" data-splash-color=\"ffffff\" data-landscape-image=\"/assets/people/subham.png"
+      },
+      {
+        "file": "app/about/page.tsx",
+        "rawRef": "/assets/people/subham.png"
+      }
+    ]
+  },
+  {
+    "path": "public/assets/people/vaibhav.png",
+    "size": 154701,
+    "references": [
+      {
+        "file": "app/about/page.tsx",
+        "rawRef": "entry\" data-slug=\"#\" data-thumbnail-mode=\"Mondayteer\" data-color=\"0xffffff\" data-splash-color=\"ffffff\" data-landscape-image=\"/assets/people/vaibhav.png"
+      },
+      {
+        "file": "app/about/page.tsx",
+        "rawRef": "/assets/people/vaibhav.png"
+      },
+      {
+        "file": "app/about/page.tsx",
+        "rawRef": "entry\" data-slug=\"#\" data-thumbnail-mode=\"Mondayteer\" data-color=\"0xffffff\" data-splash-color=\"ffffff\" data-landscape-image=\"/assets/people/vaibhav.png"
+      },
+      {
+        "file": "app/about/page.tsx",
+        "rawRef": "/assets/people/vaibhav.png"
+      }
+    ]
+  },
+  {
+    "path": "assets/thumbnails/21_Landscape.jpg",
+    "size": 17899,
+    "references": [
+      {
+        "file": "app/alma/page.tsx",
+        "rawRef": "/twentyone\" className=\"entry\" data-slug=\"/twentyone\" data-thumbnail-mode=\"Portrait\" data-color=\"0x1c1c1c\" data-splash-color=\"1c1c1c\" data-tags=\"Experiences\" data-landscape-image=\"/assets/thumbnails/21_Landscape.jpg"
+      },
+      {
+        "file": "app/hot-ticket/page.tsx",
+        "rawRef": "/twentyone\" className=\"entry\" data-slug=\"/twentyone\" data-thumbnail-mode=\"Portrait\" data-color=\"0x1c1c1c\" data-splash-color=\"1c1c1c\" data-tags=\"Experiences\" data-landscape-image=\"/assets/thumbnails/21_Landscape.jpg"
+      },
+      {
+        "file": "app/orange-chowk/page.tsx",
+        "rawRef": "/twentyone\" className=\"entry\" data-slug=\"/twentyone\" data-thumbnail-mode=\"Portrait\" data-color=\"0x1c1c1c\" data-splash-color=\"1c1c1c\" data-tags=\"Experiences\" data-landscape-image=\"/assets/thumbnails/21_Landscape.jpg"
+      },
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/twentyone\" className=\"entry\" data-slug=\"/twentyone\" data-thumbnail-mode=\"Random\" data-color=\"0x1c1c1c\" data-splash-color=\"1c1c1c\" data-tags=\"Experiences\" data-landscape-image=\"/assets/thumbnails/21_Landscape.jpg"
+      },
+      {
+        "file": "app/pakawalla/page.tsx",
+        "rawRef": "/twentyone\" className=\"entry\" data-slug=\"/twentyone\" data-thumbnail-mode=\"Portrait\" data-color=\"0x1c1c1c\" data-splash-color=\"1c1c1c\" data-tags=\"Experiences\" data-landscape-image=\"/assets/thumbnails/21_Landscape.jpg"
+      },
+      {
+        "file": "app/palmyrion/page.tsx",
+        "rawRef": "/twentyone\" className=\"entry\" data-slug=\"/twentyone\" data-thumbnail-mode=\"Portrait\" data-color=\"0x1c1c1c\" data-splash-color=\"1c1c1c\" data-tags=\"Experiences\" data-landscape-image=\"/assets/thumbnails/21_Landscape.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/twentyone\" className=\"entry\" data-slug=\"/twentyone\" data-thumbnail-mode=\"Random\" data-color=\"0x1c1c1c\" data-splash-color=\"1c1c1c\" data-tags=\"Experiences\" data-landscape-image=\"/assets/thumbnails/21_Landscape.jpg"
+      },
+      {
+        "file": "app/alma/page.tsx",
+        "rawRef": "/twentyone\" className=\"entry\" data-slug=\"/twentyone\" data-thumbnail-mode=\"Portrait\" data-color=\"0x1c1c1c\" data-splash-color=\"1c1c1c\" data-tags=\"Experiences\" data-landscape-image=\"/assets/thumbnails/21_Landscape.jpg"
+      },
+      {
+        "file": "app/hot-ticket/page.tsx",
+        "rawRef": "/twentyone\" className=\"entry\" data-slug=\"/twentyone\" data-thumbnail-mode=\"Portrait\" data-color=\"0x1c1c1c\" data-splash-color=\"1c1c1c\" data-tags=\"Experiences\" data-landscape-image=\"/assets/thumbnails/21_Landscape.jpg"
+      },
+      {
+        "file": "app/orange-chowk/page.tsx",
+        "rawRef": "/twentyone\" className=\"entry\" data-slug=\"/twentyone\" data-thumbnail-mode=\"Portrait\" data-color=\"0x1c1c1c\" data-splash-color=\"1c1c1c\" data-tags=\"Experiences\" data-landscape-image=\"/assets/thumbnails/21_Landscape.jpg"
+      },
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/twentyone\" className=\"entry\" data-slug=\"/twentyone\" data-thumbnail-mode=\"Random\" data-color=\"0x1c1c1c\" data-splash-color=\"1c1c1c\" data-tags=\"Experiences\" data-landscape-image=\"/assets/thumbnails/21_Landscape.jpg"
+      },
+      {
+        "file": "app/pakawalla/page.tsx",
+        "rawRef": "/twentyone\" className=\"entry\" data-slug=\"/twentyone\" data-thumbnail-mode=\"Portrait\" data-color=\"0x1c1c1c\" data-splash-color=\"1c1c1c\" data-tags=\"Experiences\" data-landscape-image=\"/assets/thumbnails/21_Landscape.jpg"
+      },
+      {
+        "file": "app/palmyrion/page.tsx",
+        "rawRef": "/twentyone\" className=\"entry\" data-slug=\"/twentyone\" data-thumbnail-mode=\"Portrait\" data-color=\"0x1c1c1c\" data-splash-color=\"1c1c1c\" data-tags=\"Experiences\" data-landscape-image=\"/assets/thumbnails/21_Landscape.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/twentyone\" className=\"entry\" data-slug=\"/twentyone\" data-thumbnail-mode=\"Random\" data-color=\"0x1c1c1c\" data-splash-color=\"1c1c1c\" data-tags=\"Experiences\" data-landscape-image=\"/assets/thumbnails/21_Landscape.jpg"
+      }
+    ]
+  },
+  {
+    "path": "assets/thumbnails/21_Portrait.jpg",
+    "size": 25919,
+    "references": [
+      {
+        "file": "app/alma/page.tsx",
+        "rawRef": "/assets/thumbnails/21_Portrait.jpg"
+      },
+      {
+        "file": "app/hot-ticket/page.tsx",
+        "rawRef": "/assets/thumbnails/21_Portrait.jpg"
+      },
+      {
+        "file": "app/orange-chowk/page.tsx",
+        "rawRef": "/assets/thumbnails/21_Portrait.jpg"
+      },
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/assets/thumbnails/21_Portrait.jpg"
+      },
+      {
+        "file": "app/pakawalla/page.tsx",
+        "rawRef": "/assets/thumbnails/21_Portrait.jpg"
+      },
+      {
+        "file": "app/palmyrion/page.tsx",
+        "rawRef": "/assets/thumbnails/21_Portrait.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/assets/thumbnails/21_Portrait.jpg"
+      },
+      {
+        "file": "app/alma/page.tsx",
+        "rawRef": "/assets/thumbnails/21_Portrait.jpg"
+      },
+      {
+        "file": "app/hot-ticket/page.tsx",
+        "rawRef": "/assets/thumbnails/21_Portrait.jpg"
+      },
+      {
+        "file": "app/orange-chowk/page.tsx",
+        "rawRef": "/assets/thumbnails/21_Portrait.jpg"
+      },
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/assets/thumbnails/21_Portrait.jpg"
+      },
+      {
+        "file": "app/pakawalla/page.tsx",
+        "rawRef": "/assets/thumbnails/21_Portrait.jpg"
+      },
+      {
+        "file": "app/palmyrion/page.tsx",
+        "rawRef": "/assets/thumbnails/21_Portrait.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/assets/thumbnails/21_Portrait.jpg"
+      }
+    ]
+  },
+  {
+    "path": "assets/thumbnails/Mantram_Portrait.jpg",
+    "size": 25470,
+    "references": [
+      {
+        "file": "app/mantra_infra/page.tsx",
+        "rawRef": "/assets/thumbnails/Mantram_Portrait.jpg"
+      },
+      {
+        "file": "app/matrix/page.tsx",
+        "rawRef": "/assets/thumbnails/Mantram_Portrait.jpg"
+      },
+      {
+        "file": "app/metro-chem/page.tsx",
+        "rawRef": "/assets/thumbnails/Mantram_Portrait.jpg"
+      },
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/assets/thumbnails/Mantram_Portrait.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/assets/thumbnails/Mantram_Portrait.jpg"
+      },
+      {
+        "file": "app/mantra_infra/page.tsx",
+        "rawRef": "/assets/thumbnails/Mantram_Portrait.jpg"
+      },
+      {
+        "file": "app/matrix/page.tsx",
+        "rawRef": "/assets/thumbnails/Mantram_Portrait.jpg"
+      },
+      {
+        "file": "app/metro-chem/page.tsx",
+        "rawRef": "/assets/thumbnails/Mantram_Portrait.jpg"
+      },
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/assets/thumbnails/Mantram_Portrait.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/assets/thumbnails/Mantram_Portrait.jpg"
+      }
+    ]
+  },
+  {
+    "path": "assets/thumbnails/aj_Landscape.jpg",
+    "size": 36315,
+    "references": [
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/alma\" className=\"entry\" data-slug=\"/alma\" data-thumbnail-mode=\"Random\" data-color=\"0x9e6638\" data-splash-color=\"9e6638\" data-tags=\"Platform,Products\" data-landscape-image=\"/assets/thumbnails/aj_Landscape.jpg"
+      },
+      {
+        "file": "app/pakawalla/page.tsx",
+        "rawRef": "/alma\" className=\"entry\" data-slug=\"/alma\" data-thumbnail-mode=\"Portrait\" data-color=\"0x9e6638\" data-splash-color=\"9e6638\" data-tags=\"Platform,Products\" data-landscape-image=\"/assets/thumbnails/aj_Landscape.jpg"
+      },
+      {
+        "file": "app/palmyrion/page.tsx",
+        "rawRef": "/alma\" className=\"entry\" data-slug=\"/alma\" data-thumbnail-mode=\"Portrait\" data-color=\"0x9e6638\" data-splash-color=\"9e6638\" data-tags=\"Platform,Products\" data-landscape-image=\"/assets/thumbnails/aj_Landscape.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/alma\" className=\"entry\" data-slug=\"/alma\" data-thumbnail-mode=\"Random\" data-color=\"0x9e6638\" data-splash-color=\"9e6638\" data-tags=\"Platform,Products\" data-landscape-image=\"/assets/thumbnails/aj_Landscape.jpg"
+      },
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/alma\" className=\"entry\" data-slug=\"/alma\" data-thumbnail-mode=\"Random\" data-color=\"0x9e6638\" data-splash-color=\"9e6638\" data-tags=\"Platform,Products\" data-landscape-image=\"/assets/thumbnails/aj_Landscape.jpg"
+      },
+      {
+        "file": "app/pakawalla/page.tsx",
+        "rawRef": "/alma\" className=\"entry\" data-slug=\"/alma\" data-thumbnail-mode=\"Portrait\" data-color=\"0x9e6638\" data-splash-color=\"9e6638\" data-tags=\"Platform,Products\" data-landscape-image=\"/assets/thumbnails/aj_Landscape.jpg"
+      },
+      {
+        "file": "app/palmyrion/page.tsx",
+        "rawRef": "/alma\" className=\"entry\" data-slug=\"/alma\" data-thumbnail-mode=\"Portrait\" data-color=\"0x9e6638\" data-splash-color=\"9e6638\" data-tags=\"Platform,Products\" data-landscape-image=\"/assets/thumbnails/aj_Landscape.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/alma\" className=\"entry\" data-slug=\"/alma\" data-thumbnail-mode=\"Random\" data-color=\"0x9e6638\" data-splash-color=\"9e6638\" data-tags=\"Platform,Products\" data-landscape-image=\"/assets/thumbnails/aj_Landscape.jpg"
+      }
+    ]
+  },
+  {
+    "path": "assets/thumbnails/aj_Portrait.jpg",
+    "size": 82110,
+    "references": [
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/assets/thumbnails/aj_Portrait.jpg"
+      },
+      {
+        "file": "app/pakawalla/page.tsx",
+        "rawRef": "/assets/thumbnails/aj_Portrait.jpg"
+      },
+      {
+        "file": "app/palmyrion/page.tsx",
+        "rawRef": "/assets/thumbnails/aj_Portrait.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/assets/thumbnails/aj_Portrait.jpg"
+      },
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/assets/thumbnails/aj_Portrait.jpg"
+      },
+      {
+        "file": "app/pakawalla/page.tsx",
+        "rawRef": "/assets/thumbnails/aj_Portrait.jpg"
+      },
+      {
+        "file": "app/palmyrion/page.tsx",
+        "rawRef": "/assets/thumbnails/aj_Portrait.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/assets/thumbnails/aj_Portrait.jpg"
+      }
+    ]
+  },
+  {
+    "path": "assets/thumbnails/at_Landscape.jpg",
+    "size": 15202,
+    "references": [
+      {
+        "file": "app/everlend/page.tsx",
+        "rawRef": "/apsara\" className=\"entry\" data-slug=\"/apsara\" data-thumbnail-mode=\"Portrait\" data-color=\"0x00a44e\" data-splash-color=\"00a44e\" data-tags=\"Products,Platform\" data-landscape-image=\"/assets/thumbnails/at_Landscape.jpg"
+      },
+      {
+        "file": "app/nsd-care/page.tsx",
+        "rawRef": "/apsara\" className=\"entry\" data-slug=\"/apsara\" data-thumbnail-mode=\"Portrait\" data-color=\"0x00a44e\" data-splash-color=\"00a44e\" data-tags=\"Products,Platform\" data-landscape-image=\"/assets/thumbnails/at_Landscape.jpg"
+      },
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/apsara\" className=\"entry\" data-slug=\"/apsara\" data-thumbnail-mode=\"Random\" data-color=\"0x00a44e\" data-splash-color=\"00a44e\" data-tags=\"Products,Platform\" data-landscape-image=\"/assets/thumbnails/at_Landscape.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/apsara\" className=\"entry\" data-slug=\"/apsara\" data-thumbnail-mode=\"Random\" data-color=\"0x00a44e\" data-splash-color=\"00a44e\" data-tags=\"Products,Platform\" data-landscape-image=\"/assets/thumbnails/at_Landscape.jpg"
+      },
+      {
+        "file": "app/everlend/page.tsx",
+        "rawRef": "/apsara\" className=\"entry\" data-slug=\"/apsara\" data-thumbnail-mode=\"Portrait\" data-color=\"0x00a44e\" data-splash-color=\"00a44e\" data-tags=\"Products,Platform\" data-landscape-image=\"/assets/thumbnails/at_Landscape.jpg"
+      },
+      {
+        "file": "app/nsd-care/page.tsx",
+        "rawRef": "/apsara\" className=\"entry\" data-slug=\"/apsara\" data-thumbnail-mode=\"Portrait\" data-color=\"0x00a44e\" data-splash-color=\"00a44e\" data-tags=\"Products,Platform\" data-landscape-image=\"/assets/thumbnails/at_Landscape.jpg"
+      },
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/apsara\" className=\"entry\" data-slug=\"/apsara\" data-thumbnail-mode=\"Random\" data-color=\"0x00a44e\" data-splash-color=\"00a44e\" data-tags=\"Products,Platform\" data-landscape-image=\"/assets/thumbnails/at_Landscape.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/apsara\" className=\"entry\" data-slug=\"/apsara\" data-thumbnail-mode=\"Random\" data-color=\"0x00a44e\" data-splash-color=\"00a44e\" data-tags=\"Products,Platform\" data-landscape-image=\"/assets/thumbnails/at_Landscape.jpg"
+      }
+    ]
+  },
+  {
+    "path": "assets/thumbnails/at_Portrait.jpg",
+    "size": 16112,
+    "references": [
+      {
+        "file": "app/everlend/page.tsx",
+        "rawRef": "/assets/thumbnails/at_Portrait.jpg"
+      },
+      {
+        "file": "app/nsd-care/page.tsx",
+        "rawRef": "/assets/thumbnails/at_Portrait.jpg"
+      },
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/assets/thumbnails/at_Portrait.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/assets/thumbnails/at_Portrait.jpg"
+      },
+      {
+        "file": "app/everlend/page.tsx",
+        "rawRef": "/assets/thumbnails/at_Portrait.jpg"
+      },
+      {
+        "file": "app/nsd-care/page.tsx",
+        "rawRef": "/assets/thumbnails/at_Portrait.jpg"
+      },
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/assets/thumbnails/at_Portrait.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/assets/thumbnails/at_Portrait.jpg"
+      }
+    ]
+  },
+  {
+    "path": "assets/thumbnails/ec_Landscape.jpg",
+    "size": 10112,
+    "references": [
+      {
+        "file": "app/apsara/page.tsx",
+        "rawRef": "/everlend\" className=\"entry\" data-slug=\"/everlend\" data-thumbnail-mode=\"Portrait\" data-color=\"0x478467\" data-splash-color=\"478467\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/ec_Landscape.jpg"
+      },
+      {
+        "file": "app/mantra_infra/page.tsx",
+        "rawRef": "/everlend\" className=\"entry\" data-slug=\"/everlend\" data-thumbnail-mode=\"Portrait\" data-color=\"0x478467\" data-splash-color=\"478467\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/ec_Landscape.jpg"
+      },
+      {
+        "file": "app/nexxara/page.tsx",
+        "rawRef": "/everlend\" className=\"entry\" data-slug=\"/everlend\" data-thumbnail-mode=\"Portrait\" data-color=\"0x478467\" data-splash-color=\"478467\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/ec_Landscape.jpg"
+      },
+      {
+        "file": "app/nsd-care/page.tsx",
+        "rawRef": "/everlend\" className=\"entry\" data-slug=\"/everlend\" data-thumbnail-mode=\"Portrait\" data-color=\"0x478467\" data-splash-color=\"478467\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/ec_Landscape.jpg"
+      },
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/everlend\" className=\"entry\" data-slug=\"/everlend\" data-thumbnail-mode=\"Random\" data-color=\"0x478467\" data-splash-color=\"478467\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/ec_Landscape.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/everlend\" className=\"entry\" data-slug=\"/everlend\" data-thumbnail-mode=\"Random\" data-color=\"0x478467\" data-splash-color=\"478467\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/ec_Landscape.jpg"
+      },
+      {
+        "file": "app/apsara/page.tsx",
+        "rawRef": "/everlend\" className=\"entry\" data-slug=\"/everlend\" data-thumbnail-mode=\"Portrait\" data-color=\"0x478467\" data-splash-color=\"478467\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/ec_Landscape.jpg"
+      },
+      {
+        "file": "app/mantra_infra/page.tsx",
+        "rawRef": "/everlend\" className=\"entry\" data-slug=\"/everlend\" data-thumbnail-mode=\"Portrait\" data-color=\"0x478467\" data-splash-color=\"478467\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/ec_Landscape.jpg"
+      },
+      {
+        "file": "app/nexxara/page.tsx",
+        "rawRef": "/everlend\" className=\"entry\" data-slug=\"/everlend\" data-thumbnail-mode=\"Portrait\" data-color=\"0x478467\" data-splash-color=\"478467\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/ec_Landscape.jpg"
+      },
+      {
+        "file": "app/nsd-care/page.tsx",
+        "rawRef": "/everlend\" className=\"entry\" data-slug=\"/everlend\" data-thumbnail-mode=\"Portrait\" data-color=\"0x478467\" data-splash-color=\"478467\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/ec_Landscape.jpg"
+      },
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/everlend\" className=\"entry\" data-slug=\"/everlend\" data-thumbnail-mode=\"Random\" data-color=\"0x478467\" data-splash-color=\"478467\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/ec_Landscape.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/everlend\" className=\"entry\" data-slug=\"/everlend\" data-thumbnail-mode=\"Random\" data-color=\"0x478467\" data-splash-color=\"478467\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/ec_Landscape.jpg"
+      }
+    ]
+  },
+  {
+    "path": "assets/thumbnails/ec_Portrait.jpg",
+    "size": 9653,
+    "references": [
+      {
+        "file": "app/apsara/page.tsx",
+        "rawRef": "/assets/thumbnails/ec_Portrait.jpg"
+      },
+      {
+        "file": "app/mantra_infra/page.tsx",
+        "rawRef": "/assets/thumbnails/ec_Portrait.jpg"
+      },
+      {
+        "file": "app/nexxara/page.tsx",
+        "rawRef": "/assets/thumbnails/ec_Portrait.jpg"
+      },
+      {
+        "file": "app/nsd-care/page.tsx",
+        "rawRef": "/assets/thumbnails/ec_Portrait.jpg"
+      },
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/assets/thumbnails/ec_Portrait.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/assets/thumbnails/ec_Portrait.jpg"
+      },
+      {
+        "file": "app/apsara/page.tsx",
+        "rawRef": "/assets/thumbnails/ec_Portrait.jpg"
+      },
+      {
+        "file": "app/mantra_infra/page.tsx",
+        "rawRef": "/assets/thumbnails/ec_Portrait.jpg"
+      },
+      {
+        "file": "app/nexxara/page.tsx",
+        "rawRef": "/assets/thumbnails/ec_Portrait.jpg"
+      },
+      {
+        "file": "app/nsd-care/page.tsx",
+        "rawRef": "/assets/thumbnails/ec_Portrait.jpg"
+      },
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/assets/thumbnails/ec_Portrait.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/assets/thumbnails/ec_Portrait.jpg"
+      }
+    ]
+  },
+  {
+    "path": "assets/thumbnails/ht_Landscape.jpg",
+    "size": 11322,
+    "references": [
+      {
+        "file": "app/orange-chowk/page.tsx",
+        "rawRef": "/hot-ticket\" className=\"entry\" data-slug=\"/work/gemini\" data-thumbnail-mode=\"Portrait\" data-color=\"0x232323\" data-splash-color=\"232323\" data-tags=\"Branding\" data-landscape-image=\"/assets/thumbnails/ht_Landscape.jpg"
+      },
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/hot-ticket\" className=\"entry\" data-slug=\"/work/gemini\" data-thumbnail-mode=\"Random\" data-color=\"0x232323\" data-splash-color=\"232323\" data-tags=\"Branding\" data-landscape-image=\"/assets/thumbnails/ht_Landscape.jpg"
+      },
+      {
+        "file": "app/services/page.tsx",
+        "rawRef": "/hot-ticket\" className=\"entry\" data-slug=\"/hot-ticket\" data-thumbnail-mode=\"Portrait\" data-color=\"0x232323\" data-splash-color=\"232323\" data-tags=\"Branding\" data-landscape-image=\"/assets/thumbnails/ht_Landscape.jpg"
+      },
+      {
+        "file": "app/twentyone/page.tsx",
+        "rawRef": "/hot-ticket\" className=\"entry\" data-slug=\"/work/gemini\" data-thumbnail-mode=\"Portrait\" data-color=\"0x232323\" data-splash-color=\"232323\" data-tags=\"Branding\" data-landscape-image=\"/assets/thumbnails/ht_Landscape.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/hot-ticket\" className=\"entry\" data-slug=\"/work/gemini\" data-thumbnail-mode=\"Random\" data-color=\"0x232323\" data-splash-color=\"232323\" data-tags=\"Branding\" data-landscape-image=\"/assets/thumbnails/ht_Landscape.jpg"
+      },
+      {
+        "file": "app/orange-chowk/page.tsx",
+        "rawRef": "/hot-ticket\" className=\"entry\" data-slug=\"/work/gemini\" data-thumbnail-mode=\"Portrait\" data-color=\"0x232323\" data-splash-color=\"232323\" data-tags=\"Branding\" data-landscape-image=\"/assets/thumbnails/ht_Landscape.jpg"
+      },
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/hot-ticket\" className=\"entry\" data-slug=\"/work/gemini\" data-thumbnail-mode=\"Random\" data-color=\"0x232323\" data-splash-color=\"232323\" data-tags=\"Branding\" data-landscape-image=\"/assets/thumbnails/ht_Landscape.jpg"
+      },
+      {
+        "file": "app/services/page.tsx",
+        "rawRef": "/hot-ticket\" className=\"entry\" data-slug=\"/hot-ticket\" data-thumbnail-mode=\"Portrait\" data-color=\"0x232323\" data-splash-color=\"232323\" data-tags=\"Branding\" data-landscape-image=\"/assets/thumbnails/ht_Landscape.jpg"
+      },
+      {
+        "file": "app/twentyone/page.tsx",
+        "rawRef": "/hot-ticket\" className=\"entry\" data-slug=\"/work/gemini\" data-thumbnail-mode=\"Portrait\" data-color=\"0x232323\" data-splash-color=\"232323\" data-tags=\"Branding\" data-landscape-image=\"/assets/thumbnails/ht_Landscape.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/hot-ticket\" className=\"entry\" data-slug=\"/work/gemini\" data-thumbnail-mode=\"Random\" data-color=\"0x232323\" data-splash-color=\"232323\" data-tags=\"Branding\" data-landscape-image=\"/assets/thumbnails/ht_Landscape.jpg"
+      }
+    ]
+  },
+  {
+    "path": "assets/thumbnails/ht_Portrait.jpg",
+    "size": 9806,
+    "references": [
+      {
+        "file": "app/orange-chowk/page.tsx",
+        "rawRef": "/assets/thumbnails/ht_Portrait.jpg"
+      },
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/assets/thumbnails/ht_Portrait.jpg"
+      },
+      {
+        "file": "app/services/page.tsx",
+        "rawRef": "/assets/thumbnails/ht_Portrait.jpg"
+      },
+      {
+        "file": "app/twentyone/page.tsx",
+        "rawRef": "/assets/thumbnails/ht_Portrait.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/assets/thumbnails/ht_Portrait.jpg"
+      },
+      {
+        "file": "app/orange-chowk/page.tsx",
+        "rawRef": "/assets/thumbnails/ht_Portrait.jpg"
+      },
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/assets/thumbnails/ht_Portrait.jpg"
+      },
+      {
+        "file": "app/services/page.tsx",
+        "rawRef": "/assets/thumbnails/ht_Portrait.jpg"
+      },
+      {
+        "file": "app/twentyone/page.tsx",
+        "rawRef": "/assets/thumbnails/ht_Portrait.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/assets/thumbnails/ht_Portrait.jpg"
+      }
+    ]
+  },
+  {
+    "path": "assets/thumbnails/mantram_Landscape.jpg",
+    "size": 26397,
+    "references": [
+      {
+        "file": "app/mantra_infra/page.tsx",
+        "rawRef": "/mantram-industries\" className=\"entry\" data-slug=\"/mantram-industries\" data-thumbnail-mode=\"Portrait\" data-color=\"0x273959\" data-splash-color=\"273959\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/mantram_Landscape.jpg"
+      },
+      {
+        "file": "app/matrix/page.tsx",
+        "rawRef": "/mantram-industries\" className=\"entry\" data-slug=\"/mantram-industries\" data-thumbnail-mode=\"Portrait\" data-color=\"0x273959\" data-splash-color=\"273959\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/mantram_Landscape.jpg"
+      },
+      {
+        "file": "app/metro-chem/page.tsx",
+        "rawRef": "/mantram-industries\" className=\"entry\" data-slug=\"/mantram-industries\" data-thumbnail-mode=\"Portrait\" data-color=\"0x273959\" data-splash-color=\"273959\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/mantram_Landscape.jpg"
+      },
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/mantram-industries\" className=\"entry\" data-slug=\"/mantram-industries\" data-thumbnail-mode=\"Random\" data-color=\"0x273959\" z=\"\" data-splash-color=\"273959\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/mantram_Landscape.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/mantram-industries\" className=\"entry\" data-slug=\"/mantram-industries\" data-thumbnail-mode=\"Random\" data-color=\"0x273959\" data-splash-color=\"273959\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/mantram_Landscape.jpg"
+      },
+      {
+        "file": "app/mantra_infra/page.tsx",
+        "rawRef": "/mantram-industries\" className=\"entry\" data-slug=\"/mantram-industries\" data-thumbnail-mode=\"Portrait\" data-color=\"0x273959\" data-splash-color=\"273959\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/mantram_Landscape.jpg"
+      },
+      {
+        "file": "app/matrix/page.tsx",
+        "rawRef": "/mantram-industries\" className=\"entry\" data-slug=\"/mantram-industries\" data-thumbnail-mode=\"Portrait\" data-color=\"0x273959\" data-splash-color=\"273959\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/mantram_Landscape.jpg"
+      },
+      {
+        "file": "app/metro-chem/page.tsx",
+        "rawRef": "/mantram-industries\" className=\"entry\" data-slug=\"/mantram-industries\" data-thumbnail-mode=\"Portrait\" data-color=\"0x273959\" data-splash-color=\"273959\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/mantram_Landscape.jpg"
+      },
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/mantram-industries\" className=\"entry\" data-slug=\"/mantram-industries\" data-thumbnail-mode=\"Random\" data-color=\"0x273959\" z=\"\" data-splash-color=\"273959\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/mantram_Landscape.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/mantram-industries\" className=\"entry\" data-slug=\"/mantram-industries\" data-thumbnail-mode=\"Random\" data-color=\"0x273959\" data-splash-color=\"273959\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/mantram_Landscape.jpg"
+      }
+    ]
+  },
+  {
+    "path": "assets/thumbnails/metro_Landscape.jpg",
+    "size": 34271,
+    "references": [
+      {
+        "file": "app/mantram-industries/page.tsx",
+        "rawRef": "/metro-chem\" className=\"entry\" data-slug=\"/metro-chem\" data-thumbnail-mode=\"Portrait\" data-color=\"0x11416b\" data-splash-color=\"11416b\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/metro_Landscape.jpg"
+      },
+      {
+        "file": "app/matrix/page.tsx",
+        "rawRef": "/metro-chem\" className=\"entry\" data-slug=\"/metro-chem\" data-thumbnail-mode=\"Portrait\" data-color=\"0x11416b\" data-splash-color=\"11416b\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/metro_Landscape.jpg"
+      },
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/metro-chem\" className=\"entry\" data-slug=\"/metro-chem\" data-thumbnail-mode=\"Random\" data-color=\"0x11416b\" data-splash-color=\"11416b\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/metro_Landscape.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/metro-chem\" className=\"entry\" data-slug=\"/metro-chem\" data-thumbnail-mode=\"Random\" data-color=\"0x11416b\" data-splash-color=\"11416b\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/metro_Landscape.jpg"
+      },
+      {
+        "file": "app/mantram-industries/page.tsx",
+        "rawRef": "/metro-chem\" className=\"entry\" data-slug=\"/metro-chem\" data-thumbnail-mode=\"Portrait\" data-color=\"0x11416b\" data-splash-color=\"11416b\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/metro_Landscape.jpg"
+      },
+      {
+        "file": "app/matrix/page.tsx",
+        "rawRef": "/metro-chem\" className=\"entry\" data-slug=\"/metro-chem\" data-thumbnail-mode=\"Portrait\" data-color=\"0x11416b\" data-splash-color=\"11416b\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/metro_Landscape.jpg"
+      },
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/metro-chem\" className=\"entry\" data-slug=\"/metro-chem\" data-thumbnail-mode=\"Random\" data-color=\"0x11416b\" data-splash-color=\"11416b\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/metro_Landscape.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/metro-chem\" className=\"entry\" data-slug=\"/metro-chem\" data-thumbnail-mode=\"Random\" data-color=\"0x11416b\" data-splash-color=\"11416b\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/metro_Landscape.jpg"
+      }
+    ]
+  },
+  {
+    "path": "assets/thumbnails/metro_Portrait.jpg",
+    "size": 50147,
+    "references": [
+      {
+        "file": "app/mantram-industries/page.tsx",
+        "rawRef": "/assets/thumbnails/metro_Portrait.jpg"
+      },
+      {
+        "file": "app/matrix/page.tsx",
+        "rawRef": "/assets/thumbnails/metro_Portrait.jpg"
+      },
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/assets/thumbnails/metro_Portrait.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/assets/thumbnails/metro_Portrait.jpg"
+      },
+      {
+        "file": "app/mantram-industries/page.tsx",
+        "rawRef": "/assets/thumbnails/metro_Portrait.jpg"
+      },
+      {
+        "file": "app/matrix/page.tsx",
+        "rawRef": "/assets/thumbnails/metro_Portrait.jpg"
+      },
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/assets/thumbnails/metro_Portrait.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/assets/thumbnails/metro_Portrait.jpg"
+      }
+    ]
+  },
+  {
+    "path": "assets/thumbnails/mfc_Landscape.jpg",
+    "size": 42965,
+    "references": [
+      {
+        "file": "app/apsara/page.tsx",
+        "rawRef": "/matrix\" className=\"entry\" data-slug=\"/matrix\" data-thumbnail-mode=\"Portrait\" data-color=\"0xf04e2e\" data-splash-color=\"f04e2e\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/mfc_Landscape.jpg"
+      },
+      {
+        "file": "app/mantram-industries/page.tsx",
+        "rawRef": "matrix\" className=\"entry\" data-slug=\"/matrix\" data-thumbnail-mode=\"Portrait\" data-color=\"0xf04e2e\" data-splash-color=\"f04e2e\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/mfc_Landscape.jpg"
+      },
+      {
+        "file": "app/metro-chem/page.tsx",
+        "rawRef": "/matrix\" className=\"entry\" data-slug=\"/matrix\" data-thumbnail-mode=\"Portrait\" data-color=\"0xf04e2e\" data-splash-color=\"f04e2e\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/mfc_Landscape.jpg"
+      },
+      {
+        "file": "app/nsd-care/page.tsx",
+        "rawRef": "/matrix\" className=\"entry\" data-slug=\"/matrix\" data-thumbnail-mode=\"Portrait\" data-color=\"0x275694\" data-splash-color=\"275694\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/mfc_Landscape.jpg"
+      },
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/matrix\" className=\"entry\" data-slug=\"/matrix\" data-thumbnail-mode=\"Random\" data-color=\"0x275694\" data-splash-color=\"275694\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/mfc_Landscape.jpg"
+      },
+      {
+        "file": "app/services/page.tsx",
+        "rawRef": "/matrix\" className=\"entry\" data-slug=\"/matrix\" data-thumbnail-mode=\"Portrait\" data-color=\"0xf04e2e\" data-splash-color=\"f04e2e\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/mfc_Landscape.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/matrix\" className=\"entry\" data-slug=\"/matrix\" data-thumbnail-mode=\"Random\" data-color=\"0x275694\" data-splash-color=\"275694\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/mfc_Landscape.jpg"
+      },
+      {
+        "file": "app/apsara/page.tsx",
+        "rawRef": "/matrix\" className=\"entry\" data-slug=\"/matrix\" data-thumbnail-mode=\"Portrait\" data-color=\"0xf04e2e\" data-splash-color=\"f04e2e\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/mfc_Landscape.jpg"
+      },
+      {
+        "file": "app/mantram-industries/page.tsx",
+        "rawRef": "matrix\" className=\"entry\" data-slug=\"/matrix\" data-thumbnail-mode=\"Portrait\" data-color=\"0xf04e2e\" data-splash-color=\"f04e2e\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/mfc_Landscape.jpg"
+      },
+      {
+        "file": "app/metro-chem/page.tsx",
+        "rawRef": "/matrix\" className=\"entry\" data-slug=\"/matrix\" data-thumbnail-mode=\"Portrait\" data-color=\"0xf04e2e\" data-splash-color=\"f04e2e\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/mfc_Landscape.jpg"
+      },
+      {
+        "file": "app/nsd-care/page.tsx",
+        "rawRef": "/matrix\" className=\"entry\" data-slug=\"/matrix\" data-thumbnail-mode=\"Portrait\" data-color=\"0x275694\" data-splash-color=\"275694\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/mfc_Landscape.jpg"
+      },
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/matrix\" className=\"entry\" data-slug=\"/matrix\" data-thumbnail-mode=\"Random\" data-color=\"0x275694\" data-splash-color=\"275694\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/mfc_Landscape.jpg"
+      },
+      {
+        "file": "app/services/page.tsx",
+        "rawRef": "/matrix\" className=\"entry\" data-slug=\"/matrix\" data-thumbnail-mode=\"Portrait\" data-color=\"0xf04e2e\" data-splash-color=\"f04e2e\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/mfc_Landscape.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/matrix\" className=\"entry\" data-slug=\"/matrix\" data-thumbnail-mode=\"Random\" data-color=\"0x275694\" data-splash-color=\"275694\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/mfc_Landscape.jpg"
+      }
+    ]
+  },
+  {
+    "path": "assets/thumbnails/mfc_Portrait.jpg",
+    "size": 54424,
+    "references": [
+      {
+        "file": "app/apsara/page.tsx",
+        "rawRef": "/assets/thumbnails/mfc_Portrait.jpg"
+      },
+      {
+        "file": "app/mantram-industries/page.tsx",
+        "rawRef": "/assets/thumbnails/mfc_Portrait.jpg"
+      },
+      {
+        "file": "app/metro-chem/page.tsx",
+        "rawRef": "/assets/thumbnails/mfc_Portrait.jpg"
+      },
+      {
+        "file": "app/nsd-care/page.tsx",
+        "rawRef": "/assets/thumbnails/mfc_Portrait.jpg"
+      },
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/assets/thumbnails/mfc_Portrait.jpg"
+      },
+      {
+        "file": "app/services/page.tsx",
+        "rawRef": "/assets/thumbnails/mfc_Portrait.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/assets/thumbnails/mfc_Portrait.jpg"
+      },
+      {
+        "file": "app/apsara/page.tsx",
+        "rawRef": "/assets/thumbnails/mfc_Portrait.jpg"
+      },
+      {
+        "file": "app/mantram-industries/page.tsx",
+        "rawRef": "/assets/thumbnails/mfc_Portrait.jpg"
+      },
+      {
+        "file": "app/metro-chem/page.tsx",
+        "rawRef": "/assets/thumbnails/mfc_Portrait.jpg"
+      },
+      {
+        "file": "app/nsd-care/page.tsx",
+        "rawRef": "/assets/thumbnails/mfc_Portrait.jpg"
+      },
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/assets/thumbnails/mfc_Portrait.jpg"
+      },
+      {
+        "file": "app/services/page.tsx",
+        "rawRef": "/assets/thumbnails/mfc_Portrait.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/assets/thumbnails/mfc_Portrait.jpg"
+      }
+    ]
+  },
+  {
+    "path": "assets/thumbnails/mif_Landscape.jpg",
+    "size": 50553,
+    "references": [
+      {
+        "file": "app/mantram-industries/page.tsx",
+        "rawRef": "/mantra_infra\" className=\"entry\" data-slug=\"/mantra_infra\" data-thumbnail-mode=\"Portrait\" data-color=\"0xa01f24\" data-splash-color=\"a01f24\" data-tags=\"Experiences,Products,Branding\" data-landscape-image=\"/assets/thumbnails/mif_Landscape.jpg"
+      },
+      {
+        "file": "app/nexxara/page.tsx",
+        "rawRef": "/mantra_infra\" className=\"entry\" data-slug=\"/mantra_infra\" data-thumbnail-mode=\"Portrait\" data-color=\"0xa01f24\" data-splash-color=\"a01f24\" data-tags=\"Experiences,Products,Branding\" data-landscape-image=\"/assets/thumbnails/mif_Landscape.jpg"
+      },
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/mantra_infra\" className=\"entry\" data-slug=\"/mantra_infra\" data-thumbnail-mode=\"Random\" data-color=\"0xa01f24\" data-splash-color=\"a01f24\" data-tags=\"Experiences,Products,Branding\" data-landscape-image=\"/assets/thumbnails/mif_Landscape.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/mantra_infra\" className=\"entry\" data-slug=\"/mantra_infra\" data-thumbnail-mode=\"Random\" data-color=\"0xa01f24\" data-splash-color=\"a01f24\" data-tags=\"Experiences,Products,Branding\" data-landscape-image=\"/assets/thumbnails/mif_Landscape.jpg"
+      },
+      {
+        "file": "app/mantram-industries/page.tsx",
+        "rawRef": "/mantra_infra\" className=\"entry\" data-slug=\"/mantra_infra\" data-thumbnail-mode=\"Portrait\" data-color=\"0xa01f24\" data-splash-color=\"a01f24\" data-tags=\"Experiences,Products,Branding\" data-landscape-image=\"/assets/thumbnails/mif_Landscape.jpg"
+      },
+      {
+        "file": "app/nexxara/page.tsx",
+        "rawRef": "/mantra_infra\" className=\"entry\" data-slug=\"/mantra_infra\" data-thumbnail-mode=\"Portrait\" data-color=\"0xa01f24\" data-splash-color=\"a01f24\" data-tags=\"Experiences,Products,Branding\" data-landscape-image=\"/assets/thumbnails/mif_Landscape.jpg"
+      },
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/mantra_infra\" className=\"entry\" data-slug=\"/mantra_infra\" data-thumbnail-mode=\"Random\" data-color=\"0xa01f24\" data-splash-color=\"a01f24\" data-tags=\"Experiences,Products,Branding\" data-landscape-image=\"/assets/thumbnails/mif_Landscape.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/mantra_infra\" className=\"entry\" data-slug=\"/mantra_infra\" data-thumbnail-mode=\"Random\" data-color=\"0xa01f24\" data-splash-color=\"a01f24\" data-tags=\"Experiences,Products,Branding\" data-landscape-image=\"/assets/thumbnails/mif_Landscape.jpg"
+      }
+    ]
+  },
+  {
+    "path": "assets/thumbnails/mif_Portrait.jpg",
+    "size": 75966,
+    "references": [
+      {
+        "file": "app/mantram-industries/page.tsx",
+        "rawRef": "/assets/thumbnails/mif_Portrait.jpg"
+      },
+      {
+        "file": "app/nexxara/page.tsx",
+        "rawRef": "/assets/thumbnails/mif_Portrait.jpg"
+      },
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/assets/thumbnails/mif_Portrait.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/assets/thumbnails/mif_Portrait.jpg"
+      },
+      {
+        "file": "app/mantram-industries/page.tsx",
+        "rawRef": "/assets/thumbnails/mif_Portrait.jpg"
+      },
+      {
+        "file": "app/nexxara/page.tsx",
+        "rawRef": "/assets/thumbnails/mif_Portrait.jpg"
+      },
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/assets/thumbnails/mif_Portrait.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/assets/thumbnails/mif_Portrait.jpg"
+      }
+    ]
+  },
+  {
+    "path": "assets/thumbnails/nsd_Landscape.jpg",
+    "size": 64055,
+    "references": [
+      {
+        "file": "app/apsara/page.tsx",
+        "rawRef": "/nsd-care\" className=\"entry\" data-slug=\"/nsd-care\" data-thumbnail-mode=\"Portrait\" data-color=\"0x56c3d8\" data-splash-color=\"56c3d8\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/nsd_Landscape.jpg"
+      },
+      {
+        "file": "app/everlend/page.tsx",
+        "rawRef": "/nsd-care\" className=\"entry\" data-slug=\"/nsd-care\" data-thumbnail-mode=\"Portrait\" data-color=\"0x56c3d8\" data-splash-color=\"56c3d8\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/nsd_Landscape.jpg"
+      },
+      {
+        "file": "app/matrix/page.tsx",
+        "rawRef": "/nsd-care\" className=\"entry\" data-slug=\"/nsd-care\" data-thumbnail-mode=\"Portrait\" data-color=\"0x56c3d8\" data-splash-color=\"56c3d8\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/nsd_Landscape.jpg"
+      },
+      {
+        "file": "app/nexxara/page.tsx",
+        "rawRef": "/nsd-care\" className=\"entry\" data-slug=\"/nsd-care\" data-thumbnail-mode=\"Portrait\" data-color=\"0x56c3d8\" data-splash-color=\"56c3d8\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/nsd_Landscape.jpg"
+      },
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/nsd-care\" className=\"entry\" data-slug=\"/nsd-care\" data-thumbnail-mode=\"Random\" data-color=\"0x56c3d8\" data-splash-color=\"56c3d8\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/nsd_Landscape.jpg"
+      },
+      {
+        "file": "app/services/page.tsx",
+        "rawRef": "/nsd-care\" className=\"entry\" data-slug=\"/nsd-care\" data-thumbnail-mode=\"Portrait\" data-color=\"0x56c3d8\" data-splash-color=\"56c3d8\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/nsd_Landscape.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/nsd-care\" className=\"entry\" data-slug=\"/nsd-care\" data-thumbnail-mode=\"Random\" data-color=\"0x56c3d8\" data-splash-color=\"56c3d8\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/nsd_Landscape.jpg"
+      },
+      {
+        "file": "app/apsara/page.tsx",
+        "rawRef": "/nsd-care\" className=\"entry\" data-slug=\"/nsd-care\" data-thumbnail-mode=\"Portrait\" data-color=\"0x56c3d8\" data-splash-color=\"56c3d8\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/nsd_Landscape.jpg"
+      },
+      {
+        "file": "app/everlend/page.tsx",
+        "rawRef": "/nsd-care\" className=\"entry\" data-slug=\"/nsd-care\" data-thumbnail-mode=\"Portrait\" data-color=\"0x56c3d8\" data-splash-color=\"56c3d8\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/nsd_Landscape.jpg"
+      },
+      {
+        "file": "app/matrix/page.tsx",
+        "rawRef": "/nsd-care\" className=\"entry\" data-slug=\"/nsd-care\" data-thumbnail-mode=\"Portrait\" data-color=\"0x56c3d8\" data-splash-color=\"56c3d8\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/nsd_Landscape.jpg"
+      },
+      {
+        "file": "app/nexxara/page.tsx",
+        "rawRef": "/nsd-care\" className=\"entry\" data-slug=\"/nsd-care\" data-thumbnail-mode=\"Portrait\" data-color=\"0x56c3d8\" data-splash-color=\"56c3d8\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/nsd_Landscape.jpg"
+      },
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/nsd-care\" className=\"entry\" data-slug=\"/nsd-care\" data-thumbnail-mode=\"Random\" data-color=\"0x56c3d8\" data-splash-color=\"56c3d8\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/nsd_Landscape.jpg"
+      },
+      {
+        "file": "app/services/page.tsx",
+        "rawRef": "/nsd-care\" className=\"entry\" data-slug=\"/nsd-care\" data-thumbnail-mode=\"Portrait\" data-color=\"0x56c3d8\" data-splash-color=\"56c3d8\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/nsd_Landscape.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/nsd-care\" className=\"entry\" data-slug=\"/nsd-care\" data-thumbnail-mode=\"Random\" data-color=\"0x56c3d8\" data-splash-color=\"56c3d8\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/nsd_Landscape.jpg"
+      }
+    ]
+  },
+  {
+    "path": "assets/thumbnails/nsd_Portrait.jpg",
+    "size": 66755,
+    "references": [
+      {
+        "file": "app/apsara/page.tsx",
+        "rawRef": "/assets/thumbnails/nsd_Portrait.jpg"
+      },
+      {
+        "file": "app/everlend/page.tsx",
+        "rawRef": "/assets/thumbnails/nsd_Portrait.jpg"
+      },
+      {
+        "file": "app/matrix/page.tsx",
+        "rawRef": "/assets/thumbnails/nsd_Portrait.jpg"
+      },
+      {
+        "file": "app/nexxara/page.tsx",
+        "rawRef": "/assets/thumbnails/nsd_Portrait.jpg"
+      },
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/assets/thumbnails/nsd_Portrait.jpg"
+      },
+      {
+        "file": "app/services/page.tsx",
+        "rawRef": "/assets/thumbnails/nsd_Portrait.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/assets/thumbnails/nsd_Portrait.jpg"
+      },
+      {
+        "file": "app/apsara/page.tsx",
+        "rawRef": "/assets/thumbnails/nsd_Portrait.jpg"
+      },
+      {
+        "file": "app/everlend/page.tsx",
+        "rawRef": "/assets/thumbnails/nsd_Portrait.jpg"
+      },
+      {
+        "file": "app/matrix/page.tsx",
+        "rawRef": "/assets/thumbnails/nsd_Portrait.jpg"
+      },
+      {
+        "file": "app/nexxara/page.tsx",
+        "rawRef": "/assets/thumbnails/nsd_Portrait.jpg"
+      },
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/assets/thumbnails/nsd_Portrait.jpg"
+      },
+      {
+        "file": "app/services/page.tsx",
+        "rawRef": "/assets/thumbnails/nsd_Portrait.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/assets/thumbnails/nsd_Portrait.jpg"
+      }
+    ]
+  },
+  {
+    "path": "assets/thumbnails/nx_Landscape.jpg",
+    "size": 20700,
+    "references": [
+      {
+        "file": "app/everlend/page.tsx",
+        "rawRef": "/nexxara\" className=\"entry\" data-slug=\"/nexxara\" data-thumbnail-mode=\"Portrait\" data-color=\"0x000000\" data-splash-color=\"000000\" data-tags=\"Experiences\" data-landscape-image=\"/assets/thumbnails/nx_Landscape.jpg"
+      },
+      {
+        "file": "app/mantra_infra/page.tsx",
+        "rawRef": "/nexxara\" className=\"entry\" data-slug=\"/nexxara\" data-thumbnail-mode=\"Portrait\" data-color=\"0x000000\" data-splash-color=\"000000\" data-tags=\"Experiences\" data-landscape-image=\"/assets/thumbnails/nx_Landscape.jpg"
+      },
+      {
+        "file": "app/metro-chem/page.tsx",
+        "rawRef": "/nexxara\" className=\"entry\" data-slug=\"/nexxara\" data-thumbnail-mode=\"Portrait\" data-color=\"0x000000\" data-splash-color=\"000000\" data-tags=\"Experiences\" data-landscape-image=\"/assets/thumbnails/nx_Landscape.jpg"
+      },
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/nexxara\" className=\"entry\" data-slug=\"/nexxara\" data-thumbnail-mode=\"Random\" data-color=\"0x000000\" data-splash-color=\"000000\" data-tags=\"Experiences\" data-landscape-image=\"/assets/thumbnails/nx_Landscape.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/nexxara\" className=\"entry\" data-slug=\"/nexxara\" data-thumbnail-mode=\"Random\" data-color=\"0x000000\" data-splash-color=\"000000\" data-tags=\"Experiences\" data-landscape-image=\"/assets/thumbnails/nx_Landscape.jpg"
+      },
+      {
+        "file": "app/everlend/page.tsx",
+        "rawRef": "/nexxara\" className=\"entry\" data-slug=\"/nexxara\" data-thumbnail-mode=\"Portrait\" data-color=\"0x000000\" data-splash-color=\"000000\" data-tags=\"Experiences\" data-landscape-image=\"/assets/thumbnails/nx_Landscape.jpg"
+      },
+      {
+        "file": "app/mantra_infra/page.tsx",
+        "rawRef": "/nexxara\" className=\"entry\" data-slug=\"/nexxara\" data-thumbnail-mode=\"Portrait\" data-color=\"0x000000\" data-splash-color=\"000000\" data-tags=\"Experiences\" data-landscape-image=\"/assets/thumbnails/nx_Landscape.jpg"
+      },
+      {
+        "file": "app/metro-chem/page.tsx",
+        "rawRef": "/nexxara\" className=\"entry\" data-slug=\"/nexxara\" data-thumbnail-mode=\"Portrait\" data-color=\"0x000000\" data-splash-color=\"000000\" data-tags=\"Experiences\" data-landscape-image=\"/assets/thumbnails/nx_Landscape.jpg"
+      },
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/nexxara\" className=\"entry\" data-slug=\"/nexxara\" data-thumbnail-mode=\"Random\" data-color=\"0x000000\" data-splash-color=\"000000\" data-tags=\"Experiences\" data-landscape-image=\"/assets/thumbnails/nx_Landscape.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/nexxara\" className=\"entry\" data-slug=\"/nexxara\" data-thumbnail-mode=\"Random\" data-color=\"0x000000\" data-splash-color=\"000000\" data-tags=\"Experiences\" data-landscape-image=\"/assets/thumbnails/nx_Landscape.jpg"
+      }
+    ]
+  },
+  {
+    "path": "assets/thumbnails/nx_Portrait.jpg",
+    "size": 22769,
+    "references": [
+      {
+        "file": "app/everlend/page.tsx",
+        "rawRef": "/assets/thumbnails/nx_Portrait.jpg"
+      },
+      {
+        "file": "app/mantra_infra/page.tsx",
+        "rawRef": "/assets/thumbnails/nx_Portrait.jpg"
+      },
+      {
+        "file": "app/metro-chem/page.tsx",
+        "rawRef": "/assets/thumbnails/nx_Portrait.jpg"
+      },
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/assets/thumbnails/nx_Portrait.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/assets/thumbnails/nx_Portrait.jpg"
+      },
+      {
+        "file": "app/everlend/page.tsx",
+        "rawRef": "/assets/thumbnails/nx_Portrait.jpg"
+      },
+      {
+        "file": "app/mantra_infra/page.tsx",
+        "rawRef": "/assets/thumbnails/nx_Portrait.jpg"
+      },
+      {
+        "file": "app/metro-chem/page.tsx",
+        "rawRef": "/assets/thumbnails/nx_Portrait.jpg"
+      },
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/assets/thumbnails/nx_Portrait.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/assets/thumbnails/nx_Portrait.jpg"
+      }
+    ]
+  },
+  {
+    "path": "assets/thumbnails/oc_Landscape.jpg",
+    "size": 13085,
+    "references": [
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/orange-chowk\" className=\"entry\" data-slug=\"/orange-chowk\" data-thumbnail-mode=\"Random\" data-color=\"0xC95928\" data-splash-color=\"C95928\" data-tags=\"Products,Experiences\" data-landscape-image=\"/assets/thumbnails/oc_Landscape.jpg"
+      },
+      {
+        "file": "app/radisson-blu/page.tsx",
+        "rawRef": "/orange-chowk\" className=\"entry\" data-slug=\"/orange-chowk\" data-thumbnail-mode=\"Portrait\" data-color=\"0xC95928\" data-splash-color=\"C95928\" data-tags=\"Products,Experiences\" data-landscape-image=\"/assets/thumbnails/oc_Landscape.jpg"
+      },
+      {
+        "file": "app/services/page.tsx",
+        "rawRef": "/orange-chowk\" className=\"entry\" data-slug=\"/orange-chowk\" data-thumbnail-mode=\"Portrait\" data-color=\"0xC95928\" data-splash-color=\"C95928\" data-tags=\"Products,Experiences\" data-landscape-image=\"/assets/thumbnails/oc_Landscape.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/orange-chowk\" className=\"entry\" data-slug=\"/orange-chowk\" data-thumbnail-mode=\"Random\" data-color=\"0xC95928\" data-splash-color=\"C95928\" data-tags=\"Products,Experiences\" data-landscape-image=\"/assets/thumbnails/oc_Landscape.jpg"
+      },
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/orange-chowk\" className=\"entry\" data-slug=\"/orange-chowk\" data-thumbnail-mode=\"Random\" data-color=\"0xC95928\" data-splash-color=\"C95928\" data-tags=\"Products,Experiences\" data-landscape-image=\"/assets/thumbnails/oc_Landscape.jpg"
+      },
+      {
+        "file": "app/radisson-blu/page.tsx",
+        "rawRef": "/orange-chowk\" className=\"entry\" data-slug=\"/orange-chowk\" data-thumbnail-mode=\"Portrait\" data-color=\"0xC95928\" data-splash-color=\"C95928\" data-tags=\"Products,Experiences\" data-landscape-image=\"/assets/thumbnails/oc_Landscape.jpg"
+      },
+      {
+        "file": "app/services/page.tsx",
+        "rawRef": "/orange-chowk\" className=\"entry\" data-slug=\"/orange-chowk\" data-thumbnail-mode=\"Portrait\" data-color=\"0xC95928\" data-splash-color=\"C95928\" data-tags=\"Products,Experiences\" data-landscape-image=\"/assets/thumbnails/oc_Landscape.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/orange-chowk\" className=\"entry\" data-slug=\"/orange-chowk\" data-thumbnail-mode=\"Random\" data-color=\"0xC95928\" data-splash-color=\"C95928\" data-tags=\"Products,Experiences\" data-landscape-image=\"/assets/thumbnails/oc_Landscape.jpg"
+      }
+    ]
+  },
+  {
+    "path": "assets/thumbnails/oc_Portrait.jpg",
+    "size": 15276,
+    "references": [
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/assets/thumbnails/oc_Portrait.jpg"
+      },
+      {
+        "file": "app/radisson-blu/page.tsx",
+        "rawRef": "/assets/thumbnails/oc_Portrait.jpg"
+      },
+      {
+        "file": "app/services/page.tsx",
+        "rawRef": "/assets/thumbnails/oc_Portrait.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/assets/thumbnails/oc_Portrait.jpg"
+      },
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/assets/thumbnails/oc_Portrait.jpg"
+      },
+      {
+        "file": "app/radisson-blu/page.tsx",
+        "rawRef": "/assets/thumbnails/oc_Portrait.jpg"
+      },
+      {
+        "file": "app/services/page.tsx",
+        "rawRef": "/assets/thumbnails/oc_Portrait.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/assets/thumbnails/oc_Portrait.jpg"
+      }
+    ]
+  },
+  {
+    "path": "assets/thumbnails/pm_Landscape.jpg",
+    "size": 9192,
+    "references": [
+      {
+        "file": "app/alma/page.tsx",
+        "rawRef": "/palmyrion\" className=\"entry\" data-slug=\"/palmyrion\" data-thumbnail-mode=\"Portrait\" data-color=\"0x80302f\" data-splash-color=\"80302f\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/pm_Landscape.jpg"
+      },
+      {
+        "file": "app/hot-ticket/page.tsx",
+        "rawRef": "/palmyrion\" className=\"entry\" data-slug=\"/palmyrion\" data-thumbnail-mode=\"Portrait\" data-color=\"0x80302f\" data-splash-color=\"80302f\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/pm_Landscape.jpg"
+      },
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/palmyrion\" className=\"entry\" data-slug=\"/palmyrion\" data-thumbnail-mode=\"Random\" data-color=\"0x80302f\" data-splash-color=\"80302f\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/pm_Landscape.jpg"
+      },
+      {
+        "file": "app/pakawalla/page.tsx",
+        "rawRef": "/palmyrion\" className=\"entry\" data-slug=\"/palmyrion\" data-thumbnail-mode=\"Portrait\" data-color=\"0x80302f\" data-splash-color=\"80302f\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/pm_Landscape.jpg"
+      },
+      {
+        "file": "app/radisson-blu/page.tsx",
+        "rawRef": "/palmyrion\" className=\"entry\" data-slug=\"/palmyrion\" data-thumbnail-mode=\"Portrait\" data-color=\"0x80302f\" data-splash-color=\"80302f\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/pm_Landscape.jpg"
+      },
+      {
+        "file": "app/twentyone/page.tsx",
+        "rawRef": "/palmyrion\" className=\"entry\" data-slug=\"/palmyrion\" data-thumbnail-mode=\"Portrait\" data-color=\"0x80302f\" data-splash-color=\"80302f\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/pm_Landscape.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/palmyrion\" className=\"entry\" data-slug=\"/palmyrion\" data-thumbnail-mode=\"Random\" data-color=\"0x80302f\" data-splash-color=\"80302f\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/pm_Landscape.jpg"
+      },
+      {
+        "file": "app/alma/page.tsx",
+        "rawRef": "/palmyrion\" className=\"entry\" data-slug=\"/palmyrion\" data-thumbnail-mode=\"Portrait\" data-color=\"0x80302f\" data-splash-color=\"80302f\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/pm_Landscape.jpg"
+      },
+      {
+        "file": "app/hot-ticket/page.tsx",
+        "rawRef": "/palmyrion\" className=\"entry\" data-slug=\"/palmyrion\" data-thumbnail-mode=\"Portrait\" data-color=\"0x80302f\" data-splash-color=\"80302f\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/pm_Landscape.jpg"
+      },
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/palmyrion\" className=\"entry\" data-slug=\"/palmyrion\" data-thumbnail-mode=\"Random\" data-color=\"0x80302f\" data-splash-color=\"80302f\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/pm_Landscape.jpg"
+      },
+      {
+        "file": "app/pakawalla/page.tsx",
+        "rawRef": "/palmyrion\" className=\"entry\" data-slug=\"/palmyrion\" data-thumbnail-mode=\"Portrait\" data-color=\"0x80302f\" data-splash-color=\"80302f\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/pm_Landscape.jpg"
+      },
+      {
+        "file": "app/radisson-blu/page.tsx",
+        "rawRef": "/palmyrion\" className=\"entry\" data-slug=\"/palmyrion\" data-thumbnail-mode=\"Portrait\" data-color=\"0x80302f\" data-splash-color=\"80302f\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/pm_Landscape.jpg"
+      },
+      {
+        "file": "app/twentyone/page.tsx",
+        "rawRef": "/palmyrion\" className=\"entry\" data-slug=\"/palmyrion\" data-thumbnail-mode=\"Portrait\" data-color=\"0x80302f\" data-splash-color=\"80302f\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/pm_Landscape.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/palmyrion\" className=\"entry\" data-slug=\"/palmyrion\" data-thumbnail-mode=\"Random\" data-color=\"0x80302f\" data-splash-color=\"80302f\" data-tags=\"Products\" data-landscape-image=\"/assets/thumbnails/pm_Landscape.jpg"
+      }
+    ]
+  },
+  {
+    "path": "assets/thumbnails/pm_Portrait.jpg",
+    "size": 10657,
+    "references": [
+      {
+        "file": "app/alma/page.tsx",
+        "rawRef": "/assets/thumbnails/pm_Portrait.jpg"
+      },
+      {
+        "file": "app/hot-ticket/page.tsx",
+        "rawRef": "/assets/thumbnails/pm_Portrait.jpg"
+      },
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/assets/thumbnails/pm_Portrait.jpg"
+      },
+      {
+        "file": "app/pakawalla/page.tsx",
+        "rawRef": "/assets/thumbnails/pm_Portrait.jpg"
+      },
+      {
+        "file": "app/radisson-blu/page.tsx",
+        "rawRef": "/assets/thumbnails/pm_Portrait.jpg"
+      },
+      {
+        "file": "app/twentyone/page.tsx",
+        "rawRef": "/assets/thumbnails/pm_Portrait.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/assets/thumbnails/pm_Portrait.jpg"
+      },
+      {
+        "file": "app/alma/page.tsx",
+        "rawRef": "/assets/thumbnails/pm_Portrait.jpg"
+      },
+      {
+        "file": "app/hot-ticket/page.tsx",
+        "rawRef": "/assets/thumbnails/pm_Portrait.jpg"
+      },
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/assets/thumbnails/pm_Portrait.jpg"
+      },
+      {
+        "file": "app/pakawalla/page.tsx",
+        "rawRef": "/assets/thumbnails/pm_Portrait.jpg"
+      },
+      {
+        "file": "app/radisson-blu/page.tsx",
+        "rawRef": "/assets/thumbnails/pm_Portrait.jpg"
+      },
+      {
+        "file": "app/twentyone/page.tsx",
+        "rawRef": "/assets/thumbnails/pm_Portrait.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/assets/thumbnails/pm_Portrait.jpg"
+      }
+    ]
+  },
+  {
+    "path": "assets/thumbnails/pw_Landscape.jpg",
+    "size": 39058,
+    "references": [
+      {
+        "file": "app/alma/page.tsx",
+        "rawRef": "/pakawalla\" className=\"entry\" data-slug=\"/pakawalla\" data-thumbnail-mode=\"Portrait\" data-color=\"0x6e4532\" data-splash-color=\"6e4532\" data-tags=\"Branding,Products\" data-landscape-image=\"/assets/thumbnails/pw_Landscape.jpg"
+      },
+      {
+        "file": "app/hot-ticket/page.tsx",
+        "rawRef": "/pakawalla\" className=\"entry\" data-slug=\"/pakawalla\" data-thumbnail-mode=\"Portrait\" data-color=\"0x6e4532\" data-splash-color=\"6e4532\" data-tags=\"Branding,Products\" data-landscape-image=\"/assets/thumbnails/pw_Landscape.jpg"
+      },
+      {
+        "file": "app/orange-chowk/page.tsx",
+        "rawRef": "/pakawalla\" className=\"entry\" data-slug=\"/pakawalla\" data-thumbnail-mode=\"Portrait\" data-color=\"0x6e4532\" data-splash-color=\"6e4532\" data-tags=\"Branding,Products\" data-landscape-image=\"/assets/thumbnails/pw_Landscape.jpg"
+      },
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/pakawalla\" className=\"entry\" data-slug=\"/pakawalla\" data-thumbnail-mode=\"Random\" data-color=\"0x6e4532\" data-splash-color=\"6e4532\" data-tags=\"Branding,Products\" data-landscape-image=\"/assets/thumbnails/pw_Landscape.jpg"
+      },
+      {
+        "file": "app/palmyrion/page.tsx",
+        "rawRef": "/pakawalla\" className=\"entry\" data-slug=\"/pakawalla\" data-thumbnail-mode=\"Portrait\" data-color=\"0x6e4532\" data-splash-color=\"6e4532\" data-tags=\"Branding,Products\" data-landscape-image=\"/assets/thumbnails/pw_Landscape.jpg"
+      },
+      {
+        "file": "app/radisson-blu/page.tsx",
+        "rawRef": "/pakawalla\" className=\"entry\" data-slug=\"/pakawalla\" data-thumbnail-mode=\"Portrait\" data-color=\"0x6e4532\" data-splash-color=\"6e4532\" data-tags=\"Branding,Products\" data-landscape-image=\"/assets/thumbnails/pw_Landscape.jpg"
+      },
+      {
+        "file": "app/services/page.tsx",
+        "rawRef": "/pakawalla\" className=\"entry\" data-slug=\"/pakawalla\" data-thumbnail-mode=\"Portrait\" data-color=\"0x6e4532\" data-splash-color=\"6e4532\" data-tags=\"Branding,Products\" data-landscape-image=\"/assets/thumbnails/pw_Landscape.jpg"
+      },
+      {
+        "file": "app/twentyone/page.tsx",
+        "rawRef": "/pakawalla\" className=\"entry\" data-slug=\"/pakawalla\" data-thumbnail-mode=\"Portrait\" data-color=\"0x6e4532\" data-splash-color=\"6e4532\" data-tags=\"Branding,Products\" data-landscape-image=\"/assets/thumbnails/pw_Landscape.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/pakawalla\" className=\"entry\" data-slug=\"/pakawalla\" data-thumbnail-mode=\"Random\" data-color=\"0x6e4532\" data-splash-color=\"6e4532\" data-tags=\"Branding,Products\" data-landscape-image=\"/assets/thumbnails/pw_Landscape.jpg"
+      },
+      {
+        "file": "app/alma/page.tsx",
+        "rawRef": "/pakawalla\" className=\"entry\" data-slug=\"/pakawalla\" data-thumbnail-mode=\"Portrait\" data-color=\"0x6e4532\" data-splash-color=\"6e4532\" data-tags=\"Branding,Products\" data-landscape-image=\"/assets/thumbnails/pw_Landscape.jpg"
+      },
+      {
+        "file": "app/hot-ticket/page.tsx",
+        "rawRef": "/pakawalla\" className=\"entry\" data-slug=\"/pakawalla\" data-thumbnail-mode=\"Portrait\" data-color=\"0x6e4532\" data-splash-color=\"6e4532\" data-tags=\"Branding,Products\" data-landscape-image=\"/assets/thumbnails/pw_Landscape.jpg"
+      },
+      {
+        "file": "app/orange-chowk/page.tsx",
+        "rawRef": "/pakawalla\" className=\"entry\" data-slug=\"/pakawalla\" data-thumbnail-mode=\"Portrait\" data-color=\"0x6e4532\" data-splash-color=\"6e4532\" data-tags=\"Branding,Products\" data-landscape-image=\"/assets/thumbnails/pw_Landscape.jpg"
+      },
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/pakawalla\" className=\"entry\" data-slug=\"/pakawalla\" data-thumbnail-mode=\"Random\" data-color=\"0x6e4532\" data-splash-color=\"6e4532\" data-tags=\"Branding,Products\" data-landscape-image=\"/assets/thumbnails/pw_Landscape.jpg"
+      },
+      {
+        "file": "app/palmyrion/page.tsx",
+        "rawRef": "/pakawalla\" className=\"entry\" data-slug=\"/pakawalla\" data-thumbnail-mode=\"Portrait\" data-color=\"0x6e4532\" data-splash-color=\"6e4532\" data-tags=\"Branding,Products\" data-landscape-image=\"/assets/thumbnails/pw_Landscape.jpg"
+      },
+      {
+        "file": "app/radisson-blu/page.tsx",
+        "rawRef": "/pakawalla\" className=\"entry\" data-slug=\"/pakawalla\" data-thumbnail-mode=\"Portrait\" data-color=\"0x6e4532\" data-splash-color=\"6e4532\" data-tags=\"Branding,Products\" data-landscape-image=\"/assets/thumbnails/pw_Landscape.jpg"
+      },
+      {
+        "file": "app/services/page.tsx",
+        "rawRef": "/pakawalla\" className=\"entry\" data-slug=\"/pakawalla\" data-thumbnail-mode=\"Portrait\" data-color=\"0x6e4532\" data-splash-color=\"6e4532\" data-tags=\"Branding,Products\" data-landscape-image=\"/assets/thumbnails/pw_Landscape.jpg"
+      },
+      {
+        "file": "app/twentyone/page.tsx",
+        "rawRef": "/pakawalla\" className=\"entry\" data-slug=\"/pakawalla\" data-thumbnail-mode=\"Portrait\" data-color=\"0x6e4532\" data-splash-color=\"6e4532\" data-tags=\"Branding,Products\" data-landscape-image=\"/assets/thumbnails/pw_Landscape.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/pakawalla\" className=\"entry\" data-slug=\"/pakawalla\" data-thumbnail-mode=\"Random\" data-color=\"0x6e4532\" data-splash-color=\"6e4532\" data-tags=\"Branding,Products\" data-landscape-image=\"/assets/thumbnails/pw_Landscape.jpg"
+      }
+    ]
+  },
+  {
+    "path": "assets/thumbnails/pw_Portrait.jpg",
+    "size": 49968,
+    "references": [
+      {
+        "file": "app/alma/page.tsx",
+        "rawRef": "/assets/thumbnails/pw_Portrait.jpg"
+      },
+      {
+        "file": "app/hot-ticket/page.tsx",
+        "rawRef": "/assets/thumbnails/pw_Portrait.jpg"
+      },
+      {
+        "file": "app/orange-chowk/page.tsx",
+        "rawRef": "/assets/thumbnails/pw_Portrait.jpg"
+      },
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/assets/thumbnails/pw_Portrait.jpg"
+      },
+      {
+        "file": "app/palmyrion/page.tsx",
+        "rawRef": "/assets/thumbnails/pw_Portrait.jpg"
+      },
+      {
+        "file": "app/radisson-blu/page.tsx",
+        "rawRef": "/assets/thumbnails/pw_Portrait.jpg"
+      },
+      {
+        "file": "app/services/page.tsx",
+        "rawRef": "/assets/thumbnails/pw_Portrait.jpg"
+      },
+      {
+        "file": "app/twentyone/page.tsx",
+        "rawRef": "/assets/thumbnails/pw_Portrait.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/assets/thumbnails/pw_Portrait.jpg"
+      },
+      {
+        "file": "app/alma/page.tsx",
+        "rawRef": "/assets/thumbnails/pw_Portrait.jpg"
+      },
+      {
+        "file": "app/hot-ticket/page.tsx",
+        "rawRef": "/assets/thumbnails/pw_Portrait.jpg"
+      },
+      {
+        "file": "app/orange-chowk/page.tsx",
+        "rawRef": "/assets/thumbnails/pw_Portrait.jpg"
+      },
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/assets/thumbnails/pw_Portrait.jpg"
+      },
+      {
+        "file": "app/palmyrion/page.tsx",
+        "rawRef": "/assets/thumbnails/pw_Portrait.jpg"
+      },
+      {
+        "file": "app/radisson-blu/page.tsx",
+        "rawRef": "/assets/thumbnails/pw_Portrait.jpg"
+      },
+      {
+        "file": "app/services/page.tsx",
+        "rawRef": "/assets/thumbnails/pw_Portrait.jpg"
+      },
+      {
+        "file": "app/twentyone/page.tsx",
+        "rawRef": "/assets/thumbnails/pw_Portrait.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/assets/thumbnails/pw_Portrait.jpg"
+      }
+    ]
+  },
+  {
+    "path": "assets/thumbnails/rb_Landscape.jpg",
+    "size": 11398,
+    "references": [
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/radisson-blu\" className=\"entry\" data-slug=\"/radisson-blu\" data-thumbnail-mode=\"Random\" data-color=\"0x2A2D6D\" data-splash-color=\"2A2D6D\" data-tags=\"Experiences\" data-landscape-image=\"/assets/thumbnails/rb_Landscape.jpg"
+      },
+      {
+        "file": "app/services/page.tsx",
+        "rawRef": "/radisson-blu\" className=\"entry\" data-slug=\"/radisson-blu\" data-thumbnail-mode=\"Portrait\" data-color=\"0x2A2D6D\" data-splash-color=\"2A2D6D\" data-tags=\"Experiences\" data-landscape-image=\"/assets/thumbnails/rb_Landscape.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/radisson-blu\" className=\"entry\" data-slug=\"/radisson-blu\" data-thumbnail-mode=\"Random\" data-color=\"0x2A2D6D\" data-splash-color=\"2A2D6D\" data-tags=\"Experiences\" data-landscape-image=\"/assets/thumbnails/rb_Landscape.jpg"
+      },
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/radisson-blu\" className=\"entry\" data-slug=\"/radisson-blu\" data-thumbnail-mode=\"Random\" data-color=\"0x2A2D6D\" data-splash-color=\"2A2D6D\" data-tags=\"Experiences\" data-landscape-image=\"/assets/thumbnails/rb_Landscape.jpg"
+      },
+      {
+        "file": "app/services/page.tsx",
+        "rawRef": "/radisson-blu\" className=\"entry\" data-slug=\"/radisson-blu\" data-thumbnail-mode=\"Portrait\" data-color=\"0x2A2D6D\" data-splash-color=\"2A2D6D\" data-tags=\"Experiences\" data-landscape-image=\"/assets/thumbnails/rb_Landscape.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/radisson-blu\" className=\"entry\" data-slug=\"/radisson-blu\" data-thumbnail-mode=\"Random\" data-color=\"0x2A2D6D\" data-splash-color=\"2A2D6D\" data-tags=\"Experiences\" data-landscape-image=\"/assets/thumbnails/rb_Landscape.jpg"
+      }
+    ]
+  },
+  {
+    "path": "assets/thumbnails/rb_Portrait.jpg",
+    "size": 13137,
+    "references": [
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/assets/thumbnails/rb_Portrait.jpg"
+      },
+      {
+        "file": "app/services/page.tsx",
+        "rawRef": "/assets/thumbnails/rb_Portrait.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/assets/thumbnails/rb_Portrait.jpg"
+      },
+      {
+        "file": "app/page.tsx",
+        "rawRef": "/assets/thumbnails/rb_Portrait.jpg"
+      },
+      {
+        "file": "app/services/page.tsx",
+        "rawRef": "/assets/thumbnails/rb_Portrait.jpg"
+      },
+      {
+        "file": "app/work/page.tsx",
+        "rawRef": "/assets/thumbnails/rb_Portrait.jpg"
+      }
+    ]
+  },
+  {
+    "path": "public/download.gif",
+    "size": 89190,
+    "references": [
+      {
+        "file": "app/layout.tsx",
+        "rawRef": "/download.gif"
+      },
+      {
+        "file": "app/layout.tsx",
+        "rawRef": "/download.gif"
+      }
+    ]
+  },
+  {
+    "path": "public/favicon_io/android-chrome-192x192.png",
+    "size": 5501,
+    "references": [
+      {
+        "file": "advanced-asset-analysis.json",
+        "rawRef": "path\": \"public/favicon_io/android-chrome-192x192.png"
+      }
+    ]
+  },
+  {
+    "path": "public/favicon_io/android-chrome-512x512.png",
+    "size": 17882,
+    "references": [
+      {
+        "file": "advanced-asset-analysis.json",
+        "rawRef": "path\": \"public/favicon_io/android-chrome-512x512.png"
+      }
+    ]
+  },
+  {
+    "path": "public/favicon_io/apple-touch-icon.png",
+    "size": 5324,
+    "references": [
+      {
+        "file": "app/layout.tsx",
+        "rawRef": "apple-touch-icon\" sizes=\"180x180\" href=\"/favicon_io/apple-touch-icon.png"
+      },
+      {
+        "file": "app/layout.tsx",
+        "rawRef": "apple-touch-icon\" sizes=\"180x180\" href=\"/favicon_io/apple-touch-icon.png"
+      }
+    ]
+  },
+  {
+    "path": "public/favicon_io/favicon-16x16.png",
+    "size": 312,
+    "references": [
+      {
+        "file": "app/layout.tsx",
+        "rawRef": "favIconSmall\" rel=\"icon\" type=\"image/png\" sizes=\"16x16\" href=\"/favicon_io/favicon-16x16.png"
+      },
+      {
+        "file": "app/layout.tsx",
+        "rawRef": "favIconSmall\" rel=\"icon\" type=\"image/png\" sizes=\"16x16\" href=\"/favicon_io/favicon-16x16.png"
+      }
+    ]
+  },
+  {
+    "path": "public/favicon_io/favicon-32x32.png",
+    "size": 592,
+    "references": [
+      {
+        "file": "app/layout.tsx",
+        "rawRef": "favIconBig\" rel=\"icon\" type=\"image/png\" sizes=\"32x32\" href=\"/favicon_io/favicon-32x32.png"
+      },
+      {
+        "file": "app/layout.tsx",
+        "rawRef": "favIconBig\" rel=\"icon\" type=\"image/png\" sizes=\"32x32\" href=\"/favicon_io/favicon-32x32.png"
+      }
+    ]
+  },
+  {
+    "path": "public/file.svg",
+    "size": 391,
+    "references": [
+      {
+        "file": "advanced-asset-analysis.json",
+        "rawRef": "path\": \"public/file.svg"
+      }
+    ]
+  },
+  {
+    "path": "public/globe.svg",
+    "size": 1035,
+    "references": [
+      {
+        "file": "advanced-asset-analysis.json",
+        "rawRef": "path\": \"public/globe.svg"
+      }
+    ]
+  },
+  {
+    "path": "public/next.svg",
+    "size": 1375,
+    "references": [
+      {
+        "file": "advanced-asset-analysis.json",
+        "rawRef": "path\": \"public/next.svg"
+      }
+    ]
+  },
+  {
+    "path": "public/vercel.svg",
+    "size": 128,
+    "references": [
+      {
+        "file": "advanced-asset-analysis.json",
+        "rawRef": "path\": \"public/vercel.svg"
+      }
+    ]
+  },
+  {
+    "path": "public/window.svg",
+    "size": 385,
+    "references": [
+      {
+        "file": "advanced-asset-analysis.json",
+        "rawRef": "path\": \"public/window.svg"
+      }
+    ]
+  }
+]
